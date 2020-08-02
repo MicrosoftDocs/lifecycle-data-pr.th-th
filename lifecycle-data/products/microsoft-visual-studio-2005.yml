@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ไมโครซอฟท์ 2005 Visual Studio
+  description: Microsoft Visual Studio 2005 ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842677"
+name: ไมโครซอฟท์ 2005 Visual Studio
+summary: >+
+  Microsoft Visual Studio 2005 ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: มืออาชีพ, มาตรฐาน, มาตรฐาน, Edition มาตรฐานใบอนุญาตทางวิชาการ, รุ่นทีมสําหรับผู้เชี่ยวชาญด้านฐานข้อมูล, รุ่นทีมสําหรับสถาปนิกซอฟต์แวร์, รุ่นทีมสําหรับนักพัฒนาซอฟต์แวร์, รุ่นทีมสําหรับทดสอบซอฟต์แวร์, ชุดทีม, ทีมทดสอบโหลด Agent, เครื่องมือสําหรับ Microsoft Office System, VB Express, Visual C# Express, Visual C ++ ด่วน, Visual J # Express, Visual Web พัฒนา Express
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/27/2006
+  end: 04/12/2011
+  extendedEnd: 04/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 12/14/2006
+  endDate: 04/12/2016
+- version: Original Release
+  startDate: 01/27/2006
+  endDate: 01/08/2008
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลการสนับสนุนของ Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [คําแนะนําการโยกย้าย](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [ข้อมูลผลิตภัณฑ์ของ Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง\n> [!NOTE]\n> รุ่นทีม 2005 Studio Visual Microsoft สําหรับผู้เชี่ยวชาญด้านฐานข้อมูลที่นําออกใช้บน 2 มีนาคม 2007\n\n## <a name=\"editions\"></a>รุ่น \n* มือ อาชีพ\n* มาตรฐาน\n* ใบอนุญาตวิชาการฉบับมาตรฐาน\n* ทีม Edition สําหรับผู้เชี่ยวชาญด้านฐานข้อมูล\n* รุ่นทีมสําหรับสถาปนิกซอฟต์แวร์\n* ทีมรุ่นสําหรับนักพัฒนาซอฟต์แวร์\n* รุ่นทีมสําหรับการทดสอบซอฟต์แวร์\n* ห้องชุดทีม\n* ทีมทดสอบโหลดเอเจนต์\n* เครื่องมือสําหรับระบบ Microsoft Office\n* เอวี เอ๊กซ์เพรส\n* ภาพด่วน c#\n* ซี++\n* ภาพ J# ด่วน\n* เอ็กซ์เพรสนักพัฒนาเว็บแบบภาพ"
