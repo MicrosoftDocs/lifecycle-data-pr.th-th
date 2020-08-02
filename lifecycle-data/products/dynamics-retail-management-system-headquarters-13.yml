@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ระบบการจัดการการขายปลีก Dynamics 1.3
+  description: Dynamics 1.3 ระบบการจัดการการขายปลีกตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6ffb2235d34709672f16dea371e142cca0af0ef1
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842978"
+name: ระบบการจัดการการขายปลีก Dynamics 1.3
+summary: >+
+  Dynamics 1.3 ระบบการจัดการการขายปลีกตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+
+
+  การดําเนินการจัดเก็บ
+
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/31/2006
+  end: 04/12/2011
+releases:
+- version: Original Release
+  startDate: 01/31/2006
+  endDate: 04/12/2011
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* สํานักงานใหญ่\n* การดําเนินงานของร้านค้า"

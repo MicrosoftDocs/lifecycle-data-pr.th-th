@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2004
+  description: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2004 ตามนโยบายวงจรคง
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842970"
+name: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2004
+summary: "เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2004 ตามนโยบายวงจร[คง](/lifecycle/policies/fixed)\n\nสิ่งนี้ใช้กับรุ่นต่อไปนี้: นักพัฒนา, องค์กร, มาตรฐาน\n\n> [!IMPORTANT]\n> การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว \n"
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 10/30/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Service Pack 1
+  startDate: 08/15/2007
+  endDate: 01/13/2015
+- version: Original Release
+  startDate: 10/30/2004
+  endDate: 07/14/2008
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* นัก พัฒนา\n* องค์กร\n* มาตรฐาน"

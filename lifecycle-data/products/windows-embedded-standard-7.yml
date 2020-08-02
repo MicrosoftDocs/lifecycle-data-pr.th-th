@@ -1,0 +1,42 @@
+### YamlMime:Lifecycle
+metadata:
+  title: หน้าต่างฝังตัวมาตรฐาน 7
+  description: มาตรฐานฝังตัวของ Windows 7 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 2e4b6119250a574a9526e74a7ccea090e02ed61d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843162"
+name: หน้าต่างฝังตัวมาตรฐาน 7
+summary: >+
+  มาตรฐานฝังตัวของ Windows 7 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  ซึ่งใช้กับรุ่นต่อไปนี้: มาตรฐาน
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/29/2010
+  end: 10/13/2015
+  extendedEnd: 10/13/2020
+releases:
+- version: Extended Security Update Year 3*
+  startDate: 10/11/2022
+  endDate: 10/10/2023
+- version: Extended Security Update Year 2*
+  startDate: 10/12/2021
+  endDate: 10/11/2022
+- version: Extended Security Update Year 1*
+  startDate: 10/13/2020
+  endDate: 10/12/2021
+- version: Service Pack 1
+  startDate: 02/28/2011
+  endDate: 10/13/2020
+- version: Original Release
+  startDate: 07/29/2010
+  endDate: 04/09/2013
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [* โปรแกรมปรับปรุงความปลอดภัยเพิ่มเติม (ESU) - การปรับปรุงความปลอดภัยเพิ่มเติมสําหรับผลิตภัณฑ์ฝังตัวเลือกจะพร้อมใช้งานผ่านทาง OEM](/lifecycle/faq/extended-security-updates)\n* [คําแนะนําการโยกย้าย](https://support.microsoft.com/help/4057281)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> '*การปรับปรุงความปลอดภัยเพิ่มเติม (ESU) พร้อมใช้งานสําหรับ Windows Embedded Standard 7 สําหรับข้อมูลเพิ่มเติมสามปีที่ผ่านมาการสิ้นสุดการสนับสนุนผ่าน OEM ติดต่อคู่ค้า Microsoft หรือทีมลูกค้าองค์กรเพื่อเรียนรู้เพิ่มเติม\n\n## <a name=\"editions\"></a>รุ่น \n* มาตรฐาน"
