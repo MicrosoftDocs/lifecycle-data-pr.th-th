@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2006
+  description: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2006 ตามนโยบายวงจรคง
+  ms.date: 07/28/2020
+  ms.openlocfilehash: bb7b9894a034924a5ddeb112c903ae6891321264
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842971"
+name: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2006
+summary: "เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2006 ตามนโยบายวงจร[คง](/lifecycle/policies/fixed)\n\nสิ่งนี้ใช้กับรุ่นต่อไปนี้: นักพัฒนา, มาตรฐาน\n\n> [!IMPORTANT]\n> การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง \n"
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 01/27/2007
+  end: 04/10/2012
+  extendedEnd: 04/11/2017
+releases:
+- version: Service Pack 1
+  startDate: 01/29/2010
+  endDate: 04/11/2017
+- version: Original Release
+  startDate: 01/27/2007
+  endDate: 04/12/2011
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* นัก พัฒนา\n* มาตรฐาน"
