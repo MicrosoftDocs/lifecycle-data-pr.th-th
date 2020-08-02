@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ไมโครซอฟท์ PowerPoint 2008 สําหรับ Mac
+  description: Microsoft PowerPoint 2008 สําหรับ Mac เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d562e552415d34d4ae5bdc7e18e9656925cbb705
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842848"
+name: ไมโครซอฟท์ PowerPoint 2008 สําหรับ Mac
+summary: >+
+  Microsoft PowerPoint 2008 สําหรับ Mac เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/12/2008
+  end: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2008
+  endDate: 04/09/2013
+content: ''

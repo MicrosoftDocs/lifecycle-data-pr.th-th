@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: สตูดิโอภาพ 2010
+  description: 2010 Studio ที่มองเห็นตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842810"
+name: สตูดิโอภาพ 2010
+summary: >+
+  2010 Studio ที่มองเห็นตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+
+
+  ใช้กับรุ่นต่อไปนี้: เอเจนต์, ทั้งหมด, ASP .NET MVC 4, Express, F# 2.0 รันไทม์, การจัดการห้องปฏิบัติการ, เครื่องมือประสิทธิภาพการทํางาน, พรีเมี่ยม, มืออาชีพ, ดีบักเกอร์ระยะไกล, SDK, เชลล์ (รวม)&, เชลล์ (รวม),
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 06/29/2010
+  end: 07/14/2015
+  extendedEnd: 07/14/2020
+releases:
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ตัว แทน จำหน่าย\n* ทั้ง หมด\n* ASP .NET MVC 4\n* Express\n* เวลา F # 2.0\n* การจัดการห้องปฏิบัติการ\n* เครื่องมือประสิทธิภาพการทํางาน\n* พรี เมี่ ยม\n* มือ อาชีพ\n* ดีบักเกอร์ระยะไกล\n* Sdk\n* เชลล์ (ในตัว)\n* เชลล์ (แยก)\n* ตัวแทนทีม\n* สํารวจทีม\n* มืออาชีพการทดสอบ\n* เครื่องมือสําหรับระบบ Office 4.0 รันไทม์\n* สูง สุด\n* เอวี เอ๊กซ์เพรส\n* ภาพด่วน c#\n* ซี++\n* เอ็กซ์เพรสนักพัฒนาเว็บแบบภาพ\n* การสร้างแบบจําลอง&การแสดงภาพ SDK"
