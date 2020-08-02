@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: เซิร์ฟเวอร์เสมือน 2005
+  description: เซิร์ฟเวอร์เสมือน 2005 ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 23b86f98da1cbf486ae6b21eefca8d06eaf1361c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842817"
+name: เซิร์ฟเวอร์เสมือน 2005
+summary: >+
+  เซิร์ฟเวอร์เสมือน 2005 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  ใช้กับรุ่นต่อไปนี้: องค์กร, ชุดการจัดการ มาตรฐาน
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 10/29/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 10/29/2004
+  endDate: 01/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร\n* ชุดการจัดการ\n* มาตรฐาน"
