@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: วินเทอร์นัลส์
+  description: Winternals เป็นไปตามนโยบายวงจรชีวิตคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c53494de8a74f1c533ad0de10eff126605f0d85a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842791"
+name: วินเทอร์นัลส์
+summary: >+
+  Winternals เป็นไปตามนโยบายวงจรชีวิต[คงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: ผู้ดูแล Pak 5.0, Defrag Manager 3.0, ตัวจัดการการป้องกัน 2.0, ผู้จัดการฝ่ายการกู้คืน 3.0
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+  extendedEnd: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายวงจรการใช้งานสําหรับการซื้อกิจการของ Microsoft](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> ยกเว้นรุ่นก่อนหน้านี้ยกเลิกการสนับสนุน การสนับสนุนสําหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการซื้อกิจการ\n\n## <a name=\"editions\"></a>รุ่น \n* 5.0 ปากของผู้ดูแลระบบ\n* ตัวจัดการ Defrag 3.0\n* ผู้จัดการป้องกัน 2.0\n* ตัวจัดการการกู้คืน 3.0"

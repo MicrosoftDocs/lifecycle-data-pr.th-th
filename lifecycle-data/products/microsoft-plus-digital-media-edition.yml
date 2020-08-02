@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ไมโครซอฟท์พลัส! สื่อดิจิตอลฉบับ
+  description: ไมโครซอฟท์พลัส! รุ่นสื่อดิจิทัลเป็นไปตามนโยบายวงจรชีวิตคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 70735dde8da269fd12ebf6dabba3dcdbe33fbe76
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842694"
+name: ไมโครซอฟท์พลัส! สื่อดิจิตอลฉบับ
+summary: >+
+  ไมโครซอฟท์พลัส! รุ่นสื่อดิจิทัลเป็นไปตามนโยบายวงจรชีวิต[คงที่](/lifecycle/policies/fixed)
+
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/12/2003
+  end: 04/08/2008
+releases:
+- version: Original Release
+  startDate: 03/12/2003
+  endDate: 04/08/2008
+content: ''
