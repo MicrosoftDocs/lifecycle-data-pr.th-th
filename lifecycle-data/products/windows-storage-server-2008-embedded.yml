@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ฝังตัว 2008 เซิร์ฟเวอร์ที่เก็บ Windows
+  description: ฝังตัวเซิร์ฟเวอร์เก็บข้อมูล Windows 2008 ตามนโยบายวงจรชีวิตคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 12346be664c5039b392d1bcbc51143f8c5088758
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842795"
+name: ฝังตัว 2008 เซิร์ฟเวอร์ที่เก็บ Windows
+summary: >+
+  ฝังตัวเซิร์ฟเวอร์เก็บข้อมูล Windows 2008 ตามนโยบายวงจร[ชีวิตคงที่](/lifecycle/policies/fixed)
+
+
+  ใช้กับรุ่นต่อไปนี้: 32 Bit, 64 Bit, Basic, Basic 32-บิต, องค์กร, มาตรฐาน, เวิร์กกรุ๊ป
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 07/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 07/19/2009
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n\n> [!NOTE]\n> ผลิตภัณฑ์นี้ได้มาถึงจุดสิ้นสุดของการสนับสนุน ดูคําแนะนําการโยกย้ายด้านล่าง\n\n## <a name=\"editions\"></a>รุ่น \n* 32 บิต\n* 64 บิต\n* พื้นฐาน\n* พื้นฐาน 32 บิต\n* องค์กร\n* มาตรฐาน\n* เวิร์ก กรุ๊ป"

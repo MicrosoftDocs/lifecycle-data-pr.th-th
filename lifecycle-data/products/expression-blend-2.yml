@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: นิพจน์ 2
+  description: นิพจน์ 2 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842728"
+name: นิพจน์ 2
+summary: "นิพจน์ 2 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)\n\nนี้ใช้กับรุ่นต่อไปนี้: ผสมผสาน, ออกแบบ, Encoder, Studio, เว็บ\n\n> [!IMPORTANT]\n> การสนับสนุนได้สิ้นสุดลงสําหรับผลิตภัณฑ์นี้ \n"
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 07/24/2008
+  end: 10/08/2013
+  extendedEnd: 10/09/2018
+releases:
+- version: Original Release
+  startDate: 07/24/2008
+  endDate: 10/09/2018
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* ผสม\n* ดี ไซน์ โดด เด่น\n* ตัวเข้ารหัส\n* สตูดิโอ\n* เว็บ"

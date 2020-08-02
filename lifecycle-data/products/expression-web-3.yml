@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: นิพจน์ 3
+  description: นิพจน์ 3 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "842726"
+name: นิพจน์ 3
+summary: >+
+  นิพจน์ 3 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: ออกแบบ, Encoder, Studio, Web
+
+products:
+- expression
+policyType: fixed
+supportDates:
+  start: 10/19/2009
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Original Release
+  startDate: 10/19/2009
+  endDate: 01/14/2020
+content: "\n\n> [!NOTE]\n> วันที่เริ่มต้นสําหรับนิพจน์การออกแบบ 3 คือ 19 พฤศจิกายน 2009 \n\n## <a name=\"editions\"></a>รุ่น \n* ดี ไซน์ โดด เด่น\n* ตัวเข้ารหัส\n* สตูดิโอ\n* เว็บ"
