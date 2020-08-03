@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: กรอบการทํางานของบริการที่เชื่อมต่อของ Microsoft 3.0
+  description: กรอบการทํางานของบริการที่เชื่อมต่อของ Microsoft 3.0 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: f30c38e094a3b58f587d59871bd573607df04273
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843310"
+name: กรอบการทํางานของบริการที่เชื่อมต่อของ Microsoft 3.0
+summary: >+
+  กรอบการทํางานของบริการที่เชื่อมต่อของ Microsoft 3.0 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  การดําเนินการนี้ใช้กับรุ่นต่อไปนี้: เหตุการณ์ทางธุรกิจมาตรฐานสําหรับการเรียกเก็บเงิน, การจัดการเหตุการณ์ทางธุรกิจมาตรฐาน, เซิร์ฟเวอร์, มาตรฐาน, เซิร์ฟเวอร์มาตรฐานที่มีเหตุการณ์ทางธุรกิจมาตรฐาน
+
+products:
+- connected-services-framework
+policyType: fixed
+supportDates:
+  start: 06/30/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Original Release
+  startDate: 06/30/2006
+  endDate: 07/12/2016
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* เหตุการณ์ทางธุรกิจมาตรฐานการเรียกเก็บเงิน\n* การจัดการคําสั่งซื้อกิจกรรมทางธุรกิจมาตรฐาน\n* เซิร์ฟเวอร์\n* มาตรฐาน\n* เซิร์ฟเวอร์มาตรฐานที่มีเหตุการณ์ทางธุรกิจมาตรฐาน"

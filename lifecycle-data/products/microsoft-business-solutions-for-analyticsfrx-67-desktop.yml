@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: โซลูชันทางธุรกิจของ Microsoft สําหรับการวิเคราะห์ --เดสก์ท็อป FRx 6.7
+  description: โซลูชันทางธุรกิจของ Microsoft สําหรับ Analytics -- FRx 6.7 เดสก์ท็อปเป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ba731ed0c09140b17a3ebf628e7383065aa65714
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843332"
+name: โซลูชันทางธุรกิจของ Microsoft สําหรับการวิเคราะห์ --เดสก์ท็อป FRx 6.7
+summary: >+
+  โซลูชันทางธุรกิจของ Microsoft สําหรับ Analytics -- FRx 6.7 เดสก์ท็อปเป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/30/2004
+  end: 07/14/2009
+  extendedEnd: 07/08/2014
+releases:
+- version: Original Release
+  startDate: 05/30/2004
+  endDate: 07/08/2014
+content: "\n\n> [!NOTE]\n> การสนับสนุน FRx สิ้นสุดในวันที่ระบุ ยกเว้นการแจกจ่ายเป็นส่วนประกอบของผลิตภัณฑ์ Dynamics เมื่อกระจายกับผลิตภัณฑ์ Dynamics วันวงจร Dynamics จะแทนที่วันที่ FRx"
