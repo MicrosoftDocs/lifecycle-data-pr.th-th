@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ตัวจัดการข้อมูลประจําตัวของ Microsoft Forsfront 2010
+  description: ตัวจัดการข้อมูลประจําตัวของ Microsoft Forsfront 2010 ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9b76ebc222ff94ed78ae77e18623f18557e8ac38
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843291"
+name: ตัวจัดการข้อมูลประจําตัวของ Microsoft Forsfront 2010
+summary: >+
+  ตัวจัดการข้อมูลประจําตัวของ Microsoft Forsfront 2010 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 05/27/2010
+  end: 10/10/2017
+  extendedEnd: 10/11/2022
+releases:
+- version: Original Release
+  startDate: 05/27/2010
+  endDate: 10/11/2022
+content: "\n\n> [!NOTE]\n> การสนับสนุนหลักและแบบขยายสําหรับ Microsoft Forsfront Identity Manager 2010 ถูกขยายตามที่แสดงเพื่อให้ลูกค้าทั้งหมดมีระยะเวลาในการเปลี่ยนวงจรมาตรฐาน"
