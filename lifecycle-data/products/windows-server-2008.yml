@@ -1,0 +1,37 @@
+### YamlMime:Lifecycle
+metadata:
+  title: เซิร์ฟเวอร์ Windows 2008
+  description: Windows Server 2008 ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: cb16ce7326c75c0c560a1b8a0078d03656d58c21
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843517"
+name: เซิร์ฟเวอร์ Windows 2008
+summary: >
+  Windows Server 2008 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  ใช้กับรุ่นต่อไปนี้: Datacenter, Datacenter โดยไม่มี Hyper-V, องค์กร, องค์กรโดยไม่ต้อง Hyper-V, สําหรับระบบที่ใช้ Itanium, มูลนิธิ, มาตรฐาน, มาตรฐาน, ไม่มี Hyper-V, เว็บ
+
+
+  > [!IMPORTANT]
+
+  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 05/06/2008
+  end: 01/13/2015
+  extendedEnd: 01/14/2020
+releases:
+- version: Service Pack 2
+  startDate: 04/29/2009
+  endDate: 01/14/2020
+- version: Original Release
+  startDate: 05/06/2008
+  endDate: 07/12/2011
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://aka.ms/AA1ovn4)\n* [ข้อมูลการอัพเกรดเซิร์ฟเวอร์](/windows-server/upgrade/upgrade-overview)\n* [โปรแกรมปรับปรุงความปลอดภัยเพิ่มเติม (ESU)](/lifecycle/faq/extended-security-updates)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> การปรับปรุงความปลอดภัยแบบขยาย (ESU) จะพร้อมใช้งานผ่านโปรแกรม Volume Licensing เฉพาะสําหรับ Datacenter, Standard, Enterprise และรุ่นที่ฝังตัวของรุ่นนี้สําหรับข้อมูลเพิ่มเติมสามปีที่ผ่านมาสิ้นสุดการสนับสนุน ติดต่อคู่ค้า Microsoft หรือทีมลูกค้าองค์กรเพื่อเรียนรู้เพิ่มเติม \n\nข่าว-------------------------------เริ่มวันที่----วันที่ส่ง\n\nปรับปรุงการรักษาความปลอดภัยปีที่ 3---01/11/2022---10/10/2023\n\nปรับปรุงการรักษาความปลอดภัยปีที่ 2---01/12/2021---01/11/2022\n\nปรับปรุงการรักษาความปลอดภัยปีที่ 1---01/14/2020---01/12/2021\n> [!NOTE]\n> มูลฐาน Windows Server 2008 ที่นําออกใช้ในวันที่ 21 พฤษภาคม 2009\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* ศูนย์ข้อมูลที่ไม่มี Hyper-V\n* องค์กร\n* องค์กรที่ไม่มี Hyper-V\n* สําหรับระบบที่ใช้ Itanium\n* มูลนิธิ\n* มาตรฐาน\n* มาตรฐานไม่มี Hyper-V\n* เว็บ"
