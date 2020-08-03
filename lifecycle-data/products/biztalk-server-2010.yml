@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 2010 เซิร์ฟเวอร์ BizTalk
+  description: 2010 เซิร์ฟเวอร์ BizTalk ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0e1ec4100c78330ba53becb9c910129cf0f2602c
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843561"
+name: 2010 เซิร์ฟเวอร์ BizTalk
+summary: >+
+  2010 เซิร์ฟเวอร์ BizTalk ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+
+
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: สาขา, นักพัฒนา, องค์กร, มาตรฐาน
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 11/14/2010
+  end: 01/12/2016
+  extendedEnd: 01/12/2021
+releases:
+- version: Original Release
+  startDate: 11/14/2010
+  endDate: 01/12/2021
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [ข้อมูลรุ่น](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สาขา\n* นัก พัฒนา\n* องค์กร\n* มาตรฐาน"
