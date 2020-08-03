@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ไคลเอ็นต์การป้องกันข้อมูล Azure
+  description: ไคลเอ็นต์การป้องกันข้อมูล azure ตามนโยบายวงจรการใช้งานสมัยใหม่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a7e2c02d8f1d7ca3f071b5f36b97eab364b3340
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864340"
+name: ไคลเอ็นต์การป้องกันข้อมูล Azure
+summary: >+
+  ไคลเอ็นต์การป้องกันข้อมูล azure ตามนโยบายวงจร[การใช้งานสมัยใหม่](/lifecycle/policies/modern)
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 10/01/2016
+  end: 03/31/2021
+releases:
+- version: Original Release
+  startDate: 10/01/2016
+  endDate: 03/31/2021
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลการให้บริการ](/information-protection/rms-client/client-version-release-history#servicing-information-and-timelines)\n* [คําแนะนําการโยกย้าย](https://techcommunity.microsoft.com/t5/azure-information-protection/announcing-timelines-for-sunsetting-label-management-in-the/ba-p/1226179)\n\n> [!NOTE]\n> เมื่อต้องการให้ประสบการณ์ของลูกค้าที่เป็นหนึ่งเดียว และคล่องตัว กรอบเวลานี้ช่วยให้ลูกค้า Azure Protection Protection ปัจจุบันทั้งหมดสามารถเปลี่ยนไปใช้โซลูชันการติดฉลากแบบรวมของเราโดยใช้แพลตฟอร์มการติดฉลากแบบรวมการป้องกันข้อมูล Microsoft"

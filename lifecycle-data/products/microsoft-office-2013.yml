@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ไมโครซอฟท์ออฟฟิศ 2013
+  description: Microsoft Office 2013 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 57eeaf9939d11f53914fef0e92795621dfb9db44
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864797"
+name: ไมโครซอฟท์ออฟฟิศ 2013
+summary: >+
+  Microsoft Office 2013 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: บ้านและธุรกิจ, บ้านและนักเรียน, มืออาชีพ, มืออาชีพพลัส, มืออาชีพบวกโปรแกรมการใช้บ้าน, มาตรฐาน, เว็บปพลิเคชันเซิร์ฟเวอร์
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 01/09/2013
+  end: 04/10/2018
+  extendedEnd: 04/11/2023
+releases:
+- version: Service Pack 1
+  startDate: 02/25/2014
+  endDate: 04/11/2023
+- version: Original Release
+  startDate: 01/09/2013
+  endDate: 04/14/2015
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://www.microsoft.com/microsoft-365/previous-versions/microsoft-office-2013)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Service Pack 1 ไม่นําไปใช้กับรุ่นของเซิร์ฟเวอร์เว็บ Apps \n\n## <a name=\"editions\"></a>รุ่น \n* บ้านและธุรกิจ\n* บ้านและนักเรียน\n* มือ อาชีพ\n* มืออาชีพพลัส\n* โปรแกรมมืออาชีพพลัสใช้บ้าน\n* มาตรฐาน\n* เซิร์ฟเวอร์เว็บแอป"

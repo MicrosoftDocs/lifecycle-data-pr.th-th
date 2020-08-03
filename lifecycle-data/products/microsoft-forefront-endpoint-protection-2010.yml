@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: การป้องกันปลายทางของ Microsoft Forsfront 2010
+  description: การป้องกันปลายทางของ Microsoft Forsfront 2010 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864661"
+name: การป้องกันปลายทางของ Microsoft Forsfront 2010
+summary: >
+  การป้องกันปลายทางของ Microsoft Forsfront 2010 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+
+  > [!IMPORTANT]
+
+  > การสนับสนุนสิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/31/2011
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 03/31/2011
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [ข้อมูลการให้บริการ](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> ลูกค้าต้องอยู่ปัจจุบันด้วยการปรับปรุงแพลตฟอร์มมัลล่าสุดที่จะสนับสนุนอย่างเต็มที่ 2010 การป้องกันปลายทางสําคัญครอบคลุม โดยนโยบายวงจรเดียวกันเป็นระบบศูนย์ตัวจัดการการตั้งค่าคอนฟิก 2007 สําหรับการสนับสนุนหลักและแบบขยาย"

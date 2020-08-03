@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: โทรศัพท์ 7.8
+  description: Windows Phone 7.8 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7ca5bd0f56f415c7c686e60ef7931172ce97a495
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864814"
+name: โทรศัพท์ 7.8
+summary: >
+  Windows Phone 7.8 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+
+  > [!IMPORTANT]
+
+  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 02/09/2013
+  end: 10/14/2014
+releases:
+- version: Original Release
+  startDate: 02/09/2013
+  endDate: 10/14/2014
+content: "\n\n> [!NOTE]\n> Microsoft จะทําการอัปเดตสําหรับระบบปฏิบัติการบนโทรศัพท์ของคุณ รวมถึงการอัปเดตความปลอดภัยเป็นระยะเวลา 18 เดือนหลังจากวันที่เริ่มต้นวงจรการใช้งาน การกระจายการอัปเดตอาจถูกควบคุมโดยผู้ให้บริการโทรศัพท์มือถือหรือผู้ผลิตโทรศัพท์ที่คุณซื้อโทรศัพท์ของคุณ ความพร้อมใช้งานของการปรับปรุงจะแตกต่างกันไปตามประเทศ ภูมิภาค และความสามารถของฮาร์ดแวร์"

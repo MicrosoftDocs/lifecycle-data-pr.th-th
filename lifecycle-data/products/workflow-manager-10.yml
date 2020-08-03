@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ตัวจัดการเวิร์กโฟลว์ 1.0
+  description: ตัวจัดการเวิร์กโฟลว์ 1.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 36a97aaf2df469316f169e8cb1582ce8efbae7ed
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864640"
+name: ตัวจัดการเวิร์กโฟลว์ 1.0
+summary: >+
+  ตัวจัดการเวิร์กโฟลว์ 1.0 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: ไคลเอนต์
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 10/18/2012
+  end: 01/09/2018
+  extendedEnd: 01/10/2023
+releases:
+- version: Original Release
+  startDate: 10/18/2012
+  endDate: 01/10/2023
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลการให้บริการ SharePoint 2016](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n* [ข้อมูลการให้บริการ SharePoint 2013](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-2013)\n\n> [!NOTE]\n> เมื่อตัวจัดการกระแสงานเป็นคอมโพเนนต์ของ SharePoint Server 2016 หรือ SharePoint Server 2013 นั้นจะได้รับการสนับสนุนตามวันที่สิ้นสุดการสนับสนุนของ SharePoint Server รุ่นที่เกี่ยวข้อง\n\n## <a name=\"editions\"></a>รุ่น \n* ไคลเอ็นต์"
