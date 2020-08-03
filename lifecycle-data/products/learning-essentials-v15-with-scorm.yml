@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: การเรียนรู้สิ่งจําเป็นสําหรับการเรียนรู้ v1.5 กับ SCORM
+  description: สิ่งจําเป็นสําหรับการเรียนรู้ v1.5 กับ SCORM เป็นไปตามนโยบายวงจรการใช้งานส่วนประกอบ
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7d1881def5a4b9f675b435cc766a3594b8ad7e56
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843372"
+name: การเรียนรู้สิ่งจําเป็นสําหรับการเรียนรู้ v1.5 กับ SCORM
+summary: >+
+  สิ่งจําเป็นสําหรับการเรียนรู้ v1.5 กับ SCORM เป็นไปตามนโยบายวงจรการใช้งาน[ส่วนประกอบ](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+
+
+products:
+- office
+policyType: component
+supportDates:
+  start: 12/06/2006
+  end: 01/10/2012
+releases:
+- version: Original Release
+  startDate: 12/06/2006
+  endDate: 01/10/2012
+content: ''

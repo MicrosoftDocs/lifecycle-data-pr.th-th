@@ -1,0 +1,39 @@
+### YamlMime:Lifecycle
+metadata:
+  title: เซิร์ฟเวอร์การจัดการเนื้อหา Microsoft 2002
+  description: เซิร์ฟเวอร์การจัดการเนื้อหา Microsoft 2002 ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 37e472e998f4c244d30d4c7b372ab38699323e23
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843309"
+name: เซิร์ฟเวอร์การจัดการเนื้อหา Microsoft 2002
+summary: >+
+  เซิร์ฟเวอร์การจัดการเนื้อหา Microsoft 2002 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: องค์กรมาตรฐาน
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 09/16/2003
+  end: 04/14/2009
+  extendedEnd: 04/08/2014
+releases:
+- version: Service Pack 2
+  startDate: 11/05/2005
+  endDate: 04/08/2014
+- version: Service Pack 1a
+  startDate: 11/05/2003
+  endDate: 01/09/2007
+- version: Original Release
+  startDate: 10/31/2003
+  endDate: 09/16/2004
+- version: Service Pack 1
+  startDate: 09/16/2003
+  endDate: 07/11/2006
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> รุ่น Enterprise ของผลิตภัณฑ์นี้มีวันที่เริ่มต้นของ 7 พฤศจิกายน 2002 \n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร\n* มาตรฐาน"

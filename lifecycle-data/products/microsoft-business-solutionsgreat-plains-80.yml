@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: โซลูชันธุรกิจของ Microsoft -- ที่ราบ 8.0
+  description: โซลูชันทางธุรกิจของ Microsoft--ที่ราบ 8.0 จะเป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843333"
+name: โซลูชันธุรกิจของ Microsoft -- ที่ราบ 8.0
+summary: >
+  โซลูชันทางธุรกิจของ Microsoft--ที่ราบ 8.0 จะเป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  ซึ่งใช้กับรุ่นต่อไปนี้: มาตรฐาน
+
+
+  > [!IMPORTANT]
+
+  > การสนับสนุนสําหรับผลิตภัณฑ์นี้สิ้นสุดวันที่ 13 ตุลาคม 2009
+products:
+- dynamics
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/01/2004
+  end: 10/13/2009
+releases:
+- version: Original Release
+  startDate: 06/01/2004
+  endDate: 10/13/2009
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* มาตรฐาน"

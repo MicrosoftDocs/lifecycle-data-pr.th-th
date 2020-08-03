@@ -1,0 +1,40 @@
+### YamlMime:Lifecycle
+metadata:
+  title: การจําลองเสมือนของโปรแกรมประยุกต์ Microsoft 4.5
+  description: การจําลองเสมือนของโปรแกรมประยุกต์ Microsoft 4.5 ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9280ac5223f15be20ed2c04fe29b25fd57417b6a
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843368"
+name: การจําลองเสมือนของโปรแกรมประยุกต์ Microsoft 4.5
+summary: >
+  การจําลองเสมือนของโปรแกรมประยุกต์ Microsoft 4.5 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  ใช้กับรุ่นต่อไปนี้: สําหรับบริการเทอร์มินัล สําหรับเดสก์ท็อปของ Windows
+
+
+  > [!IMPORTANT]
+
+  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/23/2008
+  end: 01/14/2014
+  extendedEnd: 01/08/2019
+releases:
+- version: Service Pack 2
+  startDate: 08/15/2010
+  endDate: 01/08/2019
+- version: Service Pack 1
+  startDate: 12/13/2009
+  endDate: 10/11/2011
+- version: Original Release
+  startDate: 11/23/2008
+  endDate: 01/11/2011
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> เนื่องจากไคลเอ็นต์ App-V 4.6 ใช้เซิร์ฟเวอร์ App-V 4.5, เซิร์ฟเวอร์ App-V 4.5 จะยังคงได้รับการสนับสนุนตามวันวงจรชีวิตของ App-V 4.6 เมื่อใช้งานกับไคลเอ็นต์ App-V 4.6 ที่ได้รับการสนับสนุน\n\n## <a name=\"editions\"></a>รุ่น \n* สําหรับบริการเทอร์มินัล\n* สําหรับเดสก์ท็อปของ Windows"

@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 2006 เซิร์ฟเวอร์ BizTalk ของ Microsoft
+  description: 2006 เซิร์ฟเวอร์ BizTalk Microsoft ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 7493f28dc07798e3582685027087bcad4d16db2b
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843334"
+name: 2006 เซิร์ฟเวอร์ BizTalk ของ Microsoft
+summary: >+
+  2006 เซิร์ฟเวอร์ BizTalk Microsoft ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+
+
+  ใช้กับรุ่นต่อไปนี้: สาขา, นักพัฒนา, องค์กร, R2, Standard
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 06/23/2006
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Service Pack 1 (R2)
+  startDate: 04/27/2010
+  endDate: 07/12/2016
+- version: Original Release
+  startDate: 06/23/2006
+  endDate: 07/12/2016
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n* [คําแนะนําการโยกย้าย](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สาขา\n* นัก พัฒนา\n* องค์กร\n* R2\n* มาตรฐาน"

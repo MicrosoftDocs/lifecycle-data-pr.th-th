@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ตัวเร่ง BizTalk Microsoft สําหรับ HIPAA 3.0
+  description: ตัวเร่ง BizTalk Microsoft สําหรับ HIPAA 3.0 ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: c509b97024379ae56ee4a808ea7366ddead58404
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843357"
+name: ตัวเร่ง BizTalk Microsoft สําหรับ HIPAA 3.0
+summary: >+
+  ตัวเร่ง BizTalk Microsoft สําหรับ HIPAA 3.0 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: องค์กรมาตรฐาน
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 12/28/2004
+  end: 01/12/2010
+  extendedEnd: 01/13/2015
+releases:
+- version: Original Release
+  startDate: 12/28/2004
+  endDate: 01/13/2015
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร\n* มาตรฐาน"
