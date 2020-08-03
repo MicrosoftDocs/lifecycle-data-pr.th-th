@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: หน้าต่าง 10 IoT 2019 LTSC
+  description: IoT 2019 LTSC ของ Windows 10 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ad6f4ccb69d960e07a7be59e49a629f280e0025f
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872732"
+name: หน้าต่าง 10 IoT 2019 LTSC
+summary: >+
+  IoT 2019 LTSC ของ Windows 10 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: หลัก, องค์กร
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 11/13/2018
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 11/13/2018
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [บริการหลักของ IoT ของ Windows 10](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n* [เขา Windows 10 ตุลาคมปรับปรุง (1809 รุ่น) ถูกปล่อยตัวอีกครั้งใน 13 พฤศจิกายน 2018 วันที่สนับสนุนได้รับการปรับปรุงตาม](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n* [วินโดวส์เป็นบริการ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [คําถามที่ถามบ่อยเกี่ยวกับ WINDOWS 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n\n> [!NOTE]\n> LTSC = ช่องให้บริการระยะยาวของ Windows 10\n\n## <a name=\"editions\"></a>รุ่น \n* หลัก\n* องค์กร"
