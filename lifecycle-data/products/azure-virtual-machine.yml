@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: เครื่องเสมือน Azure
+  description: เครื่องเสมือน azure ตามนโยบายวงจรการใช้งานสมัยใหม่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 84ee256cb8f83f04ce94702234a380442fb2e69a
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864585"
+name: เครื่องเสมือน Azure
+summary: >+
+  เครื่องเสมือน azure ตามนโยบายวงจร[การใช้งานสมัยใหม่](/lifecycle/policies/modern)
+
+
+products:
+- azure
+policyType: modern-online
+supportDates:
+  start: 06/07/2012
+releases:
+- version: Original Release
+  startDate: 06/07/2012
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลการให้บริการ](https://support.microsoft.com/help/2721672/microsoft-server-software-support-for-microsoft-azure-virtual-machines)"

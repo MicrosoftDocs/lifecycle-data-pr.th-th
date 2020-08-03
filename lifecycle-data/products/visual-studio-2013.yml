@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: สตูดิโอภาพ 2013
+  description: 2013 Studio ที่มองเห็นตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: b94d9b3d87ff3c971739be3ca2ebbb2446764e1b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864823"
+name: สตูดิโอภาพ 2013
+summary: >+
+  2013 Studio ที่มองเห็นตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: ตัวแทน, ทั้งหมด, ชุมชน, ด่วนสําหรับเว็บ, ด่วนสําหรับ Windows, ด่วนสําหรับ Windows เดสก์ท็อป, IntelliTrace Collector, SDK การสร้างโมเดล, ไลบรารี MFC แบบหลายไบต์, พรีเมี่ยม, มืออาชีพ, การจัดการรุ่น, เครื่องมือระยะไกล, SDK, เชลล์ (รวม), เชลล์ (แยก),
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 01/15/2014
+  end: 04/09/2019
+  extendedEnd: 04/09/2024
+releases:
+- version: Update 5
+  startDate: 07/20/2015
+  endDate: 04/09/2024
+- version: Original Release
+  startDate: 01/15/2014
+  endDate: 04/09/2024
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลการให้บริการ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ตัว แทน จำหน่าย\n* ทั้ง หมด\n* ชุมชน\n* เอ็กซ์เพรสสําหรับเว็บ\n* เอ็กซ์เพรสสําหรับ Windows\n* เอ็กซ์เพรสสําหรับเดสก์ท็อป Windows\n* คอลเลคเตอร์ IntelliTrace\n* การสร้างแบบจําลอง SDK\n* ไลบรารี MFC แบบหลายไบต์\n* พรี เมี่ ยม\n* มือ อาชีพ\n* การจัดการข่าว\n* เครื่องมือระยะไกล\n* Sdk\n* เชลล์ (ในตัว)\n* เชลล์ (แยก)\n* สํารวจทีม\n* มืออาชีพการทดสอบ\n* สูง สุด\n* เผยแพร่ต่อ\n* ส่วนขยายเครื่องมือเว็บ"

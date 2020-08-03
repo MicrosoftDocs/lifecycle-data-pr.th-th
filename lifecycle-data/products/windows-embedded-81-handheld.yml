@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: หน้าต่างฝังตัว 8.1 มือถือ
+  description: มือถือ Windows 8.1 แบบฝังตัวตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0b19ad1d2a53ee16861bf63a21f6924b3bea1c67
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864820"
+name: หน้าต่างฝังตัว 8.1 มือถือ
+summary: >
+  มือถือ Windows 8.1 แบบฝังตัวตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+
+  > [!IMPORTANT]
+
+  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว หากองค์กรของคุณยังคงรักษาแพลตฟอร์มเหล่านี้และมีคําถามเพิ่มเติม โปรดติดต่อทีมบัญชีของคุณ
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 06/24/2014
+  end: 07/09/2019
+releases:
+- version: Original Release
+  startDate: 06/24/2014
+  endDate: 07/09/2019
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [Windows 10 IoT](/windows/iot-core/windows-iot-core)"

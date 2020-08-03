@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Windows 7 การกระชับข้อมูลฝังตัว
+  description: Windows 7 การกระชับข้อมูลฝังตัวตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 6a72f68217243c9b2160dca4aa9136ae5d21f16b
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864758"
+name: Windows 7 การกระชับข้อมูลฝังตัว
+summary: >+
+  Windows 7 การกระชับข้อมูลฝังตัวตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/15/2011
+  end: 04/12/2016
+  extendedEnd: 04/13/2021
+releases:
+- version: Original Release
+  startDate: 03/15/2011
+  endDate: 04/13/2021
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://support.microsoft.com/help/4057281)"

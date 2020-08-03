@@ -1,0 +1,34 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ตัวจัดการการตั้งค่าคอนฟิก 2012 ศูนย์ระบบ Microsoft
+  description: ตัวจัดการการตั้งค่าคอนฟิก 2012 ศูนย์ระบบ Microsoft ตามนโยบายวงจรคง
+  ms.date: 07/28/2020
+  ms.openlocfilehash: dce8796f280b29e070bbf1d5bab55452f6e706e7
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864567"
+name: ตัวจัดการการตั้งค่าคอนฟิก 2012 ศูนย์ระบบ Microsoft
+summary: >+
+  ตัวจัดการการตั้งค่าคอนฟิก 2012 ศูนย์ระบบ Microsoft ตามนโยบายวงจร[คง](/lifecycle/policies/fixed)
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 05/30/2012
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 2
+  startDate: 05/12/2015
+  endDate: 07/12/2022
+- version: Service Pack 1
+  startDate: 12/15/2012
+  endDate: 07/12/2016
+- version: Original Release
+  startDate: 05/30/2012
+  endDate: 01/14/2014
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n* [เอกสารศูนย์ระบบ](/system-center/#pivot=components&panel=components-all)\n* [ทรัพยากรศูนย์ระบบ](https://www.microsoft.com/system-center/resources)"

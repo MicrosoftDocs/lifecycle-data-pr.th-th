@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ศูนย์กลางธุรกิจ Dynamics 365
+  description: Dynamics 365 ศูนย์กลางธุรกิจเป็นไปตามนโยบายวงจรการใช้งานที่ทันสมัย
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d4bcea33ffede77bb781ed2167ad9097af8fbe57
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864627"
+name: ศูนย์กลางธุรกิจ Dynamics 365
+summary: >+
+  Dynamics 365 ศูนย์กลางธุรกิจเป็นไปตามนโยบายวงจร[การใช้งานที่ทันสมัย](/lifecycle/policies/modern)
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 11/01/2016
+releases:
+- version: Original Release
+  startDate: 11/01/2016
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [แผนงาน Microsoft Dynamics 365](https://aka.ms/businessappsreleasenotes)\n* [ข้อมูลการให้บริการ](/dynamics365/business-central/dev-itpro/faq)\n* [ความต้องการของระบบ](/dynamics365/business-central/product-requirements)"

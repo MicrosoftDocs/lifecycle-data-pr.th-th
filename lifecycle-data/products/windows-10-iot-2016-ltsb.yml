@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: หน้าต่าง 10 IoT 2016 LTSB
+  description: IoT 2016 LTSB ของ Windows 10 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 0c7e791db78dc4e528c3e9b2bffc0116a2820fb9
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864389"
+name: หน้าต่าง 10 IoT 2016 LTSB
+summary: >+
+  IoT 2016 LTSB ของ Windows 10 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  ซึ่งนําไปใช้กับรุ่นต่อไปนี้: องค์กร
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 08/02/2016
+  end: 10/12/2021
+  extendedEnd: 10/13/2026
+releases:
+- version: Original Release
+  startDate: 08/02/2016
+  endDate: 10/13/2026
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [วินโดวส์เป็นบริการ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [คําถามที่ถามบ่อยเกี่ยวกับ WINDOWS 10 LTSC](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-the-windows-10-long-term-servicing-channel)\n* [Windows 10 ตุลาคมปรับปรุง (รุ่น 1809) รีลีส](https://blogs.windows.com/windowsexperience/2018/11/13/resuming-the-rollout-of-the-windows-10-october-2018-update/)\n\n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร"

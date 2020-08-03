@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: การป้องกันปลายทางของศูนย์ระบบ Microsoft 2012 R2
+  description: การป้องกันปลายทางของ 2012 R2 ของศูนย์ระบบ Microsoft ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 8e3f5935bc3b59d2a18a967b2bb5001c0ce01c1d
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864446"
+name: การป้องกันปลายทางของศูนย์ระบบ Microsoft 2012 R2
+summary: >+
+  การป้องกันปลายทางของ 2012 R2 ของศูนย์ระบบ Microsoft ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 01/16/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Service Pack 1
+  startDate: 05/12/2015
+  endDate: 07/12/2022
+- version: Original Release
+  startDate: 01/16/2014
+  endDate: 07/12/2016
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลการให้บริการ](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n* [คําแนะนําการโยกย้าย](https://techcommunity.microsoft.com/t5/Configuration-Manager-Blog/End-of-Support-for-SCEP-for-Mac-and-SCEP-for-Linux-on-December/ba-p/286257)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n* [เอกสารประกอบของตัวจัดการปลายทางของ Microsoft](/mem/)\n\n> [!NOTE]\n> ลูกค้าต้องอยู่ปัจจุบันด้วยการปรับปรุงแพลตฟอร์มมัลล่าสุดที่จะสนับสนุนอย่างเต็มที่"

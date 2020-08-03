@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 2011 สําหรับ Mac
+  description: PowerPoint 2011 for Mac เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864778"
+name: 2011 สําหรับ Mac
+summary: >+
+  PowerPoint 2011 for Mac เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/09/2010
+  end: 10/10/2017
+releases:
+- version: Original Release
+  startDate: 12/09/2010
+  endDate: 10/10/2017
+content: "\n\n> [!NOTE]\n> การสนับสนุนหลักสําหรับ Microsoft Office สําหรับ Mac 2011 ขยายตามที่แสดงเพื่อให้ลูกค้าทั้งหมดมีระยะเวลาในการเปลี่ยนวงจรชีวิตมาตรฐาน"

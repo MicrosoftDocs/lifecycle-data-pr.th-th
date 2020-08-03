@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ไมโครซอฟท์ 365
+  description: Microsoft 365 เป็นไปตามนโยบายวงจรการใช้งานสมัยใหม่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 305fc57c897c1f8b2eb95b170d5b8403e1ea35ee
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864753"
+name: ไมโครซอฟท์ 365
+summary: >+
+  Microsoft 365 เป็นไปตามนโยบายวงจรการใช้งาน[สมัยใหม่](/lifecycle/policies/modern)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: ธุรกิจ, การศึกษา, องค์กร, รัฐบาล
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 09/22/2015
+releases:
+- version: Original Release
+  startDate: 09/22/2015
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [แผนงานไมโครซอฟท์ 365](https://www.microsoft.com/microsoft-365/roadmap)\n* [ความต้องการของระบบ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n\n\n## <a name=\"editions\"></a>รุ่น \n* เพื่อ ธุรกิจ\n* ศึกษา\n* องค์กร\n* รัฐบาล"

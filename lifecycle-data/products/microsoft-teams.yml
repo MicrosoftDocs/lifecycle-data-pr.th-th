@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Teams
+  description: ทีม Microsoft เป็นไปตามนโยบายวงจรชีวิตสมัยใหม่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9a95c11e5ed20489a0e571cfbab654a977a4dd1c
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864780"
+name: Microsoft Teams
+summary: >+
+  ทีม Microsoft เป็นไปตามนโยบายวงจรชีวิต[สมัยใหม่](/lifecycle/policies/modern)
+
+
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 11/01/2016
+releases:
+- version: Original Release
+  startDate: 11/01/2016
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ความต้องการของระบบ](https://www.microsoft.com/microsoft-365/microsoft-365-and-office-resources)\n* [ข้อมูลการให้บริการ](/microsoftteams/teams-client-update)"

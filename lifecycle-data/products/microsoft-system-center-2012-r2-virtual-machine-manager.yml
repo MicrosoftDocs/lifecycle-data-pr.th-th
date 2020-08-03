@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ตัวจัดการเครื่องเสมือน 2012 R2 ศูนย์ระบบ Microsoft
+  description: ตัวจัดการเครื่องเสมือน 2012 R2 ของศูนย์ระบบ Microsoft ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 45aa95c9e57ed369960f4142c01764f36a8a0495
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864421"
+name: ตัวจัดการเครื่องเสมือน 2012 R2 ศูนย์ระบบ Microsoft
+summary: >+
+  ตัวจัดการเครื่องเสมือน 2012 R2 ของศูนย์ระบบ Microsoft ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 01/16/2014
+  end: 07/11/2017
+  extendedEnd: 07/12/2022
+releases:
+- version: Original Release
+  startDate: 01/16/2014
+  endDate: 07/12/2022
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [เอกสารศูนย์ระบบ](/system-center/#pivot=components&panel=components-all)\n* [ทรัพยากรศูนย์ระบบ](https://www.microsoft.com/system-center/resources)"

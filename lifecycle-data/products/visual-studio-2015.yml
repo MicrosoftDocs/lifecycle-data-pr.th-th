@@ -1,0 +1,33 @@
+### YamlMime:Lifecycle
+metadata:
+  title: สตูดิโอภาพ 2015
+  description: 2015 Studio ที่มองเห็นตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4300bd472c7f836c9d93e7f7e3da2005da410bac
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864601"
+name: สตูดิโอภาพ 2015
+summary: >+
+  2015 Studio ที่มองเห็นตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  ใช้กับรุ่นต่อไปนี้: ตัวแทนชุมชนองค์กรด่วนสําหรับเว็บด่วนสําหรับ Windows 10, Express สําหรับเดสก์ท็อป Windows, SDK การสร้างแบบจําลอง, มืออาชีพ, การจัดการรุ่น, เครื่องมือระยะไกล, SDK, Shell (รวม), เชลล์ (รวม),
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 07/20/2015
+  end: 10/13/2020
+  extendedEnd: 10/14/2025
+releases:
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลการให้บริการ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ตัว แทน จำหน่าย\n* ชุมชน\n* องค์กร\n* เอ็กซ์เพรสสําหรับเว็บ\n* เอ็กซ์เพรสสําหรับ Windows 10\n* เอ็กซ์เพรสสําหรับเดสก์ท็อป Windows\n* การสร้างแบบจําลอง SDK\n* มือ อาชีพ\n* การจัดการข่าว\n* เครื่องมือระยะไกล\n* Sdk\n* เชลล์ (ในตัว)\n* เชลล์ (แยก)\n* มืออาชีพการทดสอบ\n* เผยแพร่ต่อ"

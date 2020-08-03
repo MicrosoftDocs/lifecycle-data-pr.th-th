@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: เซิร์ฟเวอร์ BizTalk 2013 R2
+  description: 2013 เซิร์ฟเวอร์ BizTalk ตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e740998f2aed90f068094df5fdf1f7a28e3ccd4f
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864635"
+name: เซิร์ฟเวอร์ BizTalk 2013 R2
+summary: >+
+  2013 เซิร์ฟเวอร์ BizTalk ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: สาขา, นักพัฒนา, องค์กร, มาตรฐาน
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 07/31/2014
+  end: 07/10/2018
+  extendedEnd: 07/11/2023
+releases:
+- version: Original Release
+  startDate: 07/31/2014
+  endDate: 07/11/2023
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://social.technet.microsoft.com/wiki/contents/articles/18709.biztalk-server-product-lifecycle.aspx)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n* [ข้อมูลผลิตภัณฑ์](/biztalk/install-and-config-guides/biztalk-server-2013-and-2013-r2-what-s-new-install-and-upgrade)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สาขา\n* นัก พัฒนา\n* องค์กร\n* มาตรฐาน"

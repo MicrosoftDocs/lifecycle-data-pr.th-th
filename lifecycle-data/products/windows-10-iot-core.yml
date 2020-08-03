@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: หลักของ IoT ของ Windows 10
+  description: IoT หลักของ Windows 10 เป็นไปตามนโยบายวงจรการใช้งานที่ทันสมัย
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
+  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "864644"
+name: หลักของ IoT ของ Windows 10
+summary: >
+  IoT หลักของ Windows 10 เป็นไปตามนโยบายวงจร[การใช้งานที่ทันสมัย](/lifecycle/policies/modern)
+
+
+
+  > [!IMPORTANT]
+
+  > Microsoft จะยังคงสนับสนุนอย่างน้อยหนึ่ง Windows 10 กึ่งรายปี Channel จนถึง 14 ตุลาคม 2025
+products:
+- windows
+policyType: modern-on-prem
+supportDates:
+  start: 08/02/2016
+  end: 10/14/2025
+releases:
+- version: Version 1809
+  startDate: 11/13/2018
+  endDate: 11/10/2020
+- version: Version 1803
+  startDate: 04/30/2018
+  endDate: 11/12/2019
+- version: Version 1709
+  startDate: 10/17/2017
+  endDate: 04/09/2019
+- version: Version 1703
+  startDate: 04/11/2017
+  endDate: 10/09/2018
+- version: Version 1607
+  startDate: 08/02/2016
+  endDate: 04/10/2018
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/windows/iot-core/windows-iot-core)\n* [แผ่นข้อมูลข้อเท็จจริงวงจรการใช้งาน Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [วินโดวส์เป็นบริการ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [คําถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ของ Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> ยกเว้นว่าการเลื่อนเวลา, Windows 10"
