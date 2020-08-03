@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: บริการหลักของ XML ของ Microsoft 4.0
+  description: บริการหลักของ XML Microsoft 4.0 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 06e9c5a8f669333fa8c5c49b71c4563aaa03ff6f
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843203"
+name: บริการหลักของ XML ของ Microsoft 4.0
+summary: >+
+  บริการหลักของ XML Microsoft 4.0 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+products:
+- vs
+policyType: fixed-mainstream-only
+supportDates:
+  start: 12/28/2009
+  end: 04/12/2014
+releases:
+- version: Service Pack 3
+  startDate: 12/28/2009
+  endDate: 04/12/2014
+content: "\n\n> [!NOTE]\n> การสนับสนุนสําหรับ 4.0 บริการหลักของ XML ได้สิ้นสุดลงแล้ว การสนับสนุนพร้อมใช้งานสําหรับ Service Pack 3 เท่านั้น"

@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ไมโครซอฟท์ Word 2008 สําหรับ Mac
+  description: Microsoft Word 2008 สําหรับ Mac เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 275b237ac46d4769b7d8fbc434351c0cb156b638
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843208"
+name: ไมโครซอฟท์ Word 2008 สําหรับ Mac
+summary: >+
+  Microsoft Word 2008 สําหรับ Mac เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 03/12/2008
+  end: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2008
+  endDate: 04/09/2013
+content: ''
