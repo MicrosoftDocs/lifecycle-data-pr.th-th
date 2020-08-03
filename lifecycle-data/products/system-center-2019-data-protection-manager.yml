@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ตัวจัดการการป้องกันข้อมูล 2019 ศูนย์ระบบ
+  description: ตัวจัดการการป้องกันข้อมูล System Center 2019 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 32b0f510b582e9c918a5e47ca02792837028cc91
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872753"
+name: ตัวจัดการการป้องกันข้อมูล 2019 ศูนย์ระบบ
+summary: >+
+  ตัวจัดการการป้องกันข้อมูล System Center 2019 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 03/14/2019
+  end: 04/09/2024
+  extendedEnd: 04/09/2029
+releases:
+- version: Original Release
+  startDate: 03/14/2019
+  endDate: 04/09/2029
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/system-center/)"

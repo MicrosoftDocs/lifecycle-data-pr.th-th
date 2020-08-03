@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: IoT 2019 เซิร์ฟเวอร์ Windows สําหรับการจัดเก็บ
+  description: IoT 2019 ของเซิร์ฟเวอร์ Windows สําหรับที่เก็บตามนโยบายวงจรชีวิตคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 9e346c8980467df3bdbd3c9f9e9667b2fa81f9cf
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872721"
+name: IoT 2019 เซิร์ฟเวอร์ Windows สําหรับการจัดเก็บ
+summary: >+
+  IoT 2019 ของเซิร์ฟเวอร์ Windows สําหรับที่เก็บตามนโยบายวงจรชีวิต[คงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: มาตรฐาน, เวิร์กกรุ๊ป
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/04/2019
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 03/04/2019
+  endDate: 01/09/2029
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* มาตรฐาน\n* เวิร์ก กรุ๊ป"

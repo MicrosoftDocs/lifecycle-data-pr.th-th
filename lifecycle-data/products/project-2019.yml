@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: โครงการ 2019
+  description: โครงการ 2019 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 45a8867c9d0b7cde39aa153cc117dfb17a180dea
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872778"
+name: โครงการ 2019
+summary: >+
+  โครงการ 2019 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: มืออาชีพ, มาตรฐาน
+
+products:
+- office
+policyType: fixed
+supportDates:
+  start: 09/24/2018
+  end: 10/10/2023
+  extendedEnd: 10/14/2025
+releases:
+- version: Original Release
+  startDate: 09/24/2018
+  endDate: 10/14/2025
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* มือ อาชีพ\n* มาตรฐาน"

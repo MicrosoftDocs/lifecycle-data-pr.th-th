@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ไมโครซอฟท์สํานักงาน 2019 สําหรับ Mac
+  description: Microsoft Office 2019 สําหรับ Mac เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: ee537a1a128351f1b720e245f9725a267dcd6df5
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872795"
+name: ไมโครซอฟท์สํานักงาน 2019 สําหรับ Mac
+summary: >+
+  Microsoft Office 2019 สําหรับ Mac เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: วิชาการ, บ้านและธุรกิจ, บ้านและนักเรียน, มาตรฐาน
+
+products:
+- office
+policyType: fixed-mainstream-only
+supportDates:
+  start: 09/24/2018
+  end: 10/10/2023
+releases:
+- version: Original Release
+  startDate: 09/24/2018
+  endDate: 10/10/2023
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* วิชาการ\n* บ้านและธุรกิจ\n* บ้านและนักเรียน\n* มาตรฐาน"

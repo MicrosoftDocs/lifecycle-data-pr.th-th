@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: IoT 2019 ของเซิร์ฟเวอร์ Windows
+  description: IoT 2019 ของ Windows Server เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 31bc197c23ee1cdbba7340156da48c4a8d1aea4c
+  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/29/2020
+  ms.locfileid: "872719"
+name: IoT 2019 ของเซิร์ฟเวอร์ Windows
+summary: >+
+  IoT 2019 ของ Windows Server เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+
+
+  นี้ใช้กับรุ่นต่อไปนี้: ดาต้าเซ็นเตอร์, สิ่งจําเป็นสําหรับมาตรฐาน, โทรคมนาคม
+
+products:
+- windows
+policyType: fixed
+supportDates:
+  start: 03/04/2019
+  end: 01/09/2024
+  extendedEnd: 01/09/2029
+releases:
+- version: Original Release
+  startDate: 03/04/2019
+  endDate: 01/09/2029
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ของ Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> รุ่นทั้งหมดของ 2019 IoT เซิร์ฟเวอร์ Windows ตามวงจรการใช้งาน Windows Server 2019\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* สิ่งที่จำเป็น\n* มาตรฐาน\n* โทร คมนาคม"
