@@ -1,0 +1,38 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ Microsoft 2007
+  description: ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ Microsoft 2007 ตามนโยบายวงจรคง
+  ms.date: 07/28/2020
+  ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843241"
+name: ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ Microsoft 2007
+summary: >
+  ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ Microsoft 2007 ตามนโยบายวงจร[คง](/lifecycle/policies/fixed)
+
+
+
+  > [!IMPORTANT]
+
+  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 11/29/2007
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 2
+  startDate: 10/22/2009
+  endDate: 07/09/2019
+- version: Service Pack 1
+  startDate: 05/21/2008
+  endDate: 01/11/2011
+- version: Original Release
+  startDate: 11/29/2007
+  endDate: 07/14/2009
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [ข้อมูลผลิตภัณฑ์](/mem/configmgr/core/understand/introduction)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)"

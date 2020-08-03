@@ -1,0 +1,43 @@
+### YamlMime:Lifecycle
+metadata:
+  title: พยากรณ์ไมโครซอฟท์ 7.0
+  description: 7.0 Forecaster Microsoft เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  ms.date: 07/28/2020
+  ms.openlocfilehash: e9af608bbdf2d19517b58ebe46d545b09078be8d
+  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 07/28/2020
+  ms.locfileid: "843295"
+name: พยากรณ์ไมโครซอฟท์ 7.0
+summary: >+
+  7.0 Forecaster Microsoft เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 05/30/2007
+  end: 07/08/2014
+  extendedEnd: 07/09/2019
+releases:
+- version: Service Pack 5
+  startDate: 05/19/2014
+  endDate: 07/09/2019
+- version: Service Pack 4
+  startDate: 06/27/2011
+  endDate: 07/14/2015
+- version: Service Pack 3
+  startDate: 03/31/2009
+  endDate: 07/10/2012
+- version: Service Pack 2
+  startDate: 06/13/2008
+  endDate: 04/13/2010
+- version: Service Pack 1
+  startDate: 11/01/2007
+  endDate: 07/14/2009
+- version: Original Release
+  startDate: 05/30/2007
+  endDate: 01/13/2009
+content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://mbs.microsoft.com/customersource/northamerica/news-events/news-events/news/ForecasterDiscontinuationNoticeGP)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> การสนับสนุน Forecaster จะสิ้นสุดในวันที่ที่ระบุ เว้นแต่จะกระจายเป็นส่วนประกอบของผลิตภัณฑ์ Dynamics เมื่อกระจายกับผลิตภัณฑ์ Dynamics วันวงจร Dynamics จะแทนที่วันที่ Forecaster"
