@@ -2,19 +2,19 @@
 metadata:
   title: ไมโครซอฟท์ 2008 เซิร์ฟเวอร์ SQL
   description: Microsoft SQL Server 2008 ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8dd6dece999e9bea86eb5b4172ae47f925fa2772
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 08/03/2020
+  ms.openlocfilehash: 15d47cb19d68d2ebb70659d43f7341eba2db1663
+  ms.sourcegitcommit: ea5579a833360652f47792f68134e2b25be4d487
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843252"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882235"
 name: ไมโครซอฟท์ 2008 เซิร์ฟเวอร์ SQL
 summary: >
   Microsoft SQL Server 2008 ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: นักพัฒนา, องค์กร, ด่วน, ด่วนด้วยบริการขั้นสูง, มาตรฐาน, มาตรฐาน Edition สําหรับธุรกิจขนาดเล็ก, เว็บ, เวิร์กกรุ๊ป
+  ใช้กับรุ่นต่อไปนี้: Datacenter, พัฒนา, องค์กร, ด่วน, ด่วนด้วยบริการขั้นสูง, มาตรฐาน, รุ่นมาตรฐานสําหรับธุรกิจขนาดเล็ก, เว็บ, เวิร์กกรุ๊ป
 
 
   > [!IMPORTANT]
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 11/06/2008
   endDate: 04/13/2010
-content: "> [!TIP]\n> การปรับปรุงความปลอดภัยเพิ่มเติม (ESU) จะพร้อมใช้งานสําหรับ Datacenter, Standard, Enterprise, Web, เวิร์กกรุ๊ป และฝังตัวของผลิตภัณฑ์นี้ สําหรับข้อมูลเพิ่มเติมสามปีที่ผ่านมาสิ้นสุดการสนับสนุน\n\n## <a name=\"links\"></a>เชื่อม โยง \n* [โปรแกรมปรับปรุงความปลอดภัยเพิ่มเติม (ESU)](/lifecycle/faq/extended-security-updates)\n* [บล็อกบริการวางจําหน่าย SQL](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n* [คําแนะนําการโยกย้าย](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> สําหรับ IA64 เท่านั้น SP3 จะได้รับการสนับสนุนจนถึงวันที่ 7/9/2019\n\n## <a name=\"editions\"></a>รุ่น \n* นัก พัฒนา\n* องค์กร\n* Express\n* บริการขั้นสูง\n* มาตรฐาน\n* รุ่นมาตรฐานสําหรับธุรกิจขนาดเล็ก\n* เว็บ\n* เวิร์ก กรุ๊ป"
+content: "> [!TIP]\n> การปรับปรุงความปลอดภัยเพิ่มเติม (ESU) จะพร้อมใช้งานสําหรับ Datacenter, Standard, Enterprise, Web และ Workgroup รุ่นของผลิตภัณฑ์นี้ สําหรับเพิ่มเติมสามปีที่ผ่านมาสิ้นสุดการสนับสนุน\nข่าว-------------------------------เริ่มวันที่----วันที่ส่ง\n\nปรับปรุงการรักษาความปลอดภัยปีที่ 3---07/13/2021---07/12/2022\n\nปรับปรุงการรักษาความปลอดภัยปีที่ 2---07/14/2021---07/13/2021\n\nปรับปรุงการรักษาความปลอดภัยปีที่ 1---07/9/2019---07/14/2020\n\n\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://azure.microsoft.com/blog/announcing-new-options-for-sql-server-2008-and-windows-server-2008-end-of-support/)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n* [โปรแกรมปรับปรุงความปลอดภัยเพิ่มเติม (ESU)](/lifecycle/faq/extended-security-updates)\n* [บล็อกบริการวางจําหน่าย SQL](https://blogs.msdn.com/b/sqlreleaseservices/archive/2014/09/26/sql-server-2008-r2-service-pack-3-has-released.aspx)\n\n> [!NOTE]\n> สําหรับ IA64 เท่านั้น SP3 จะได้รับการสนับสนุนจนถึงวันที่ 7/9/2019\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* นัก พัฒนา\n* องค์กร\n* Express\n* บริการขั้นสูง\n* มาตรฐาน\n* รุ่นมาตรฐานสําหรับธุรกิจขนาดเล็ก\n* เว็บ\n* เวิร์ก กรุ๊ป"
