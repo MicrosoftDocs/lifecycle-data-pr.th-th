@@ -1,11 +1,11 @@
 ### YamlMime:ContentBrowser
 title: ข้อมูลระยะเวลาผลิตภัณฑ์และบริการการค้นหา (ตัวอย่าง)
 browseType: lifecycle
-summary: "\n\n> [!IMPORTANT]\n> หน้านี้อยู่ระหว่างการพัฒนา สําหรับรายการผลิตภัณฑ์ทั้งหมดของ Microsoft และระยะเวลาการสนับสนุนและรายละเอียดโปรดไปที่[aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)\n\n\nMicrosoft Lifecycle ให้แนวทางที่สอดคล้องและคาดการณ์ได้สําหรับการสนับสนุนตลอดอายุการใช้งานของผลิตภัณฑ์ ช่วยให้ลูกค้าจัดการการลงทุนด้านไอทีและสภาพแวดล้อมของตนในขณะที่การวางแผนกลยุทธ์สําหรับอนาคต\n\n\nค้นหารายการผลิตภัณฑ์และบริการเชิงพาณิชย์ของ Microsoft ด้านล่าง แล้วเลือกผลลัพธ์ของคุณเพื่อค้นหาเส้นเวลาการสนับสนุนและการให้บริการ"
+summary: "\n\n> [!IMPORTANT]\n> หน้านี้อยู่ระหว่างการพัฒนา สําหรับรายการผลิตภัณฑ์ทั้งหมดของ Microsoft และระยะเวลาการสนับสนุนและรายละเอียดโปรดไปที่[aka.ms/lifecycle/search](https://aka.ms/lifecycle/search/)\n> [!NOTE]\n> ส่งออกข้อมูลวงจรการใช้งานจากหน้า[การส่งออกวงจรการใช้งาน](/lifecycle/export/products)\n\n\nMicrosoft Lifecycle ให้แนวทางที่สอดคล้องและคาดการณ์ได้สําหรับการสนับสนุนตลอดอายุการใช้งานของผลิตภัณฑ์ ช่วยให้ลูกค้าจัดการการลงทุนด้านไอทีและสภาพแวดล้อมของตนในขณะที่การวางแผนกลยุทธ์สําหรับอนาคต\n\n\nค้นหารายการผลิตภัณฑ์และบริการเชิงพาณิชย์ของ Microsoft ด้านล่าง แล้วเลือกผลลัพธ์ของคุณเพื่อค้นหาเส้นเวลาการสนับสนุนและการให้บริการ"
 metadata:
-  ms.openlocfilehash: 6bb48cf842d75b6dec70a1d057d9a732e245a823
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.openlocfilehash: d412a8110fc64c4cb346fd9b7056fa35a59c8260
+  ms.sourcegitcommit: 0c5dc5388beb299272e01efb037b964e49ca1fb0
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843389"
+  ms.lasthandoff: 08/04/2020
+  ms.locfileid: "882456"
