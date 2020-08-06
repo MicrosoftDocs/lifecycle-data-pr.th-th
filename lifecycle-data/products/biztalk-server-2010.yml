@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2010 เซิร์ฟเวอร์ BizTalk
-  description: 2010 เซิร์ฟเวอร์ BizTalk ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0e1ec4100c78330ba53becb9c910129cf0f2602c
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: BizTalk Server ๒๐๑๐
+  description: BizTalk Server ๒๐๑๐จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 08/06/2020
+  ms.openlocfilehash: 95ff78ba6073c8bc72f1f20e188a98747e4acf75
+  ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843561"
-name: 2010 เซิร์ฟเวอร์ BizTalk
+  ms.lasthandoff: 08/06/2020
+  ms.locfileid: "885130"
+name: BizTalk Server ๒๐๑๐
 summary: >+
-  2010 เซิร์ฟเวอร์ BizTalk ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  BizTalk Server ๒๐๑๐จะเป็นไปตามกรมธรรม์วงจรชีวิต[คง](/lifecycle/policies/fixed)ที่
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: สาขา, นักพัฒนา, องค์กร, มาตรฐาน
+  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: สาขา, นักพัฒนา, Enterprise, Enterprise RFID, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/14/2010
   endDate: 01/12/2021
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [ข้อมูลรุ่น](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สาขา\n* นัก พัฒนา\n* องค์กร\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>เชื่อม \n* [คำแนะนำในการโยกย้าย](/biztalk/install-and-config-guides/upgrade-to-biztalk-server-2020)\n* [ข้อมูลเวอร์ชัน](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สาขา\n* นักพัฒนา\n* องค์กร\n* RFID ขององค์กร\n* มาตรฐาน"
