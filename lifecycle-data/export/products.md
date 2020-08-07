@@ -1,27 +1,27 @@
 ---
 title: ส่งออกผลิตภัณฑ์
 description: ส่งออกข้อมูลวัฏจักรของผลิตภัณฑ์
-ms.date: 08/06/2020
-ms.openlocfilehash: 9a08884d7ccf6ea1207ea9744764269647dd5459
-ms.sourcegitcommit: 87091f3fdb147e1254e631d31a0f7baeda61a424
+ms.date: 08/07/2020
+ms.openlocfilehash: cca8929e0dab2fb530d94edbcda7a037b05ff794
+ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/06/2020
-ms.locfileid: "885204"
+ms.lasthandoff: 08/07/2020
+ms.locfileid: "885812"
 ---
-# <a name="export"></a><span data-ttu-id="d56f8-103">ส่งออก</span><span class="sxs-lookup"><span data-stu-id="d56f8-103">Export</span></span>
+# <a name="export"></a><span data-ttu-id="bf096-103">ส่งออก</span><span class="sxs-lookup"><span data-stu-id="bf096-103">Export</span></span>
 
 > [!IMPORTANT]
-> <span data-ttu-id="d56f8-104">หน้านี้อยู่ภายใต้การพัฒนา</span><span class="sxs-lookup"><span data-stu-id="d56f8-104">This page is under development.</span></span>
+> <span data-ttu-id="bf096-104">หน้านี้อยู่ภายใต้การพัฒนา</span><span class="sxs-lookup"><span data-stu-id="bf096-104">This page is under development.</span></span>
 
-## <a name="export-all-products"></a><span data-ttu-id="d56f8-105">ส่งออกผลิตภัณฑ์ทั้งหมด</span><span class="sxs-lookup"><span data-stu-id="d56f8-105">Export All Products</span></span>
-<span data-ttu-id="d56f8-106">ส่งออกผลิตภัณฑ์ทั้งหมดโดยไม่มีตัวกรอง</span><span class="sxs-lookup"><span data-stu-id="d56f8-106">Export all products without any filters.</span></span>
+## <a name="export-all-products"></a><span data-ttu-id="bf096-105">ส่งออกผลิตภัณฑ์ทั้งหมด</span><span class="sxs-lookup"><span data-stu-id="bf096-105">Export All Products</span></span>
+<span data-ttu-id="bf096-106">ส่งออกผลิตภัณฑ์ทั้งหมดโดยไม่มีตัวกรอง</span><span class="sxs-lookup"><span data-stu-id="bf096-106">Export all products without any filters.</span></span>
 
 > [!div class="nextstepaction"]
-> [<span data-ttu-id="d56f8-107">ส่งออกผลิตภัณฑ์ทั้งหมด</span><span class="sxs-lookup"><span data-stu-id="d56f8-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
+> [<span data-ttu-id="bf096-107">ส่งออกผลิตภัณฑ์ทั้งหมด</span><span class="sxs-lookup"><span data-stu-id="bf096-107">Export All Products</span></span>](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a><span data-ttu-id="d56f8-108">ส่งออกผลิตภัณฑ์ตามประเภท</span><span class="sxs-lookup"><span data-stu-id="d56f8-108">Export Products by Category</span></span>
-<span data-ttu-id="d56f8-109">เลือกการจัดกลุ่มเพื่อส่งออก:</span><span class="sxs-lookup"><span data-stu-id="d56f8-109">Select a grouping to export:</span></span>
+## <a name="export-products-by-category"></a><span data-ttu-id="bf096-108">ส่งออกผลิตภัณฑ์ตามประเภท</span><span class="sxs-lookup"><span data-stu-id="bf096-108">Export Products by Category</span></span>
+<span data-ttu-id="bf096-109">เลือกการจัดกลุ่มเพื่อส่งออก:</span><span class="sxs-lookup"><span data-stu-id="bf096-109">Select a grouping to export:</span></span>
 
 > [!div class="op_multi_selector" title1="ครอบครัว" title2="กลุ่ม"]
 > - [(.NET | ทั้งหมด](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "885204"
 > - [(Windows | ความปลอดภัย](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="d56f8-167">ส่งออกผลิตภัณฑ์โดยสิ้นสุดปีการสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="d56f8-167">Export Products by End of Support Year</span></span>
-<span data-ttu-id="d56f8-168">เลือกปีที่จะส่งออกผลิตภัณฑ์สิ้นสุดการบริการในปีนั้น:</span><span class="sxs-lookup"><span data-stu-id="d56f8-168">Select a year to export products ending service in that year:</span></span>
+## <a name="export-products-by-end-of-support-year"></a><span data-ttu-id="bf096-167">ส่งออกผลิตภัณฑ์โดยสิ้นสุดปีการสนับสนุน</span><span class="sxs-lookup"><span data-stu-id="bf096-167">Export Products by End of Support Year</span></span>
+<span data-ttu-id="bf096-168">เลือกปีที่จะส่งออกผลิตภัณฑ์สิ้นสุดการบริการในปีนั้น:</span><span class="sxs-lookup"><span data-stu-id="bf096-168">Select a year to export products ending service in that year:</span></span>
 
 > [!div class="op_single_selector"]
 > - [๒๐๐๒](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
