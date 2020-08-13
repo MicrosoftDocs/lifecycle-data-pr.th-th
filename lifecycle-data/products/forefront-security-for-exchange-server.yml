@@ -1,28 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ความปลอดภัยสําคัญสําหรับ Exchange Server
-  description: การรักษาความปลอดภัยสําคัญสําหรับ Exchange Server ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0c3d1542acc20b211ef41984c07656ca0f74be61
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: ความปลอดภัยของ Forefront สำหรับ Exchange Server
+  description: การรักษาความปลอดภัยของ Forefront สำหรับ Exchange Server จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 0053b2aaf2be3d4c6ecbc29a6396bade882e16dc
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843401"
-name: ความปลอดภัยสําคัญสําหรับ Exchange Server
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893740"
+name: ความปลอดภัยของ Forefront สำหรับ Exchange Server
 summary: >
-  การรักษาความปลอดภัยสําคัญสําหรับ Exchange Server ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  การรักษาความปลอดภัยของ Forefront สำหรับ Exchange Server จะเป็นไปตามกรมธรรม์วงจรชีวิต[คง](/lifecycle/policies/fixed)ที่
 
 
 
   > [!IMPORTANT]
 
-  > แผนงานสําหรับผลิตภัณฑ์รักษาความปลอดภัยภายใต้แบรนด์ Forsfront มีการเปลี่ยนแปลง ผลิตภัณฑ์นี้ยกเลิก ณ วันที่ 31 ธันวาคม 2558
+  > แผนการใช้งานสำหรับผลิตภัณฑ์ด้านความปลอดภัยภายใต้แบรนด์ Forefront มีการเปลี่ยนแปลง ผลิตภัณฑ์นี้ยกเลิกการใช้งานในวันที่31ธันวาคม๒๐๑๕
 products:
 - windows
 policyType: fixed
 supportDates:
   start: 03/08/2007
+  end: 12/31/2015
   extendedEnd: 12/31/2015
 releases:
 - version: Service Pack 2
@@ -34,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 03/08/2007
   endDate: 01/13/2009
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://www.microsoft.com/security/business/explore/cybersecurity)"
+content: "\n## <a name=\"links\"></a>เชื่อม \n* [คำแนะนำในการโยกย้าย](https://www.microsoft.com/security/business/explore/cybersecurity)"

@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ Microsoft พาณิชย์ 2007
-  description: เซิร์ฟเวอร์ Microsoft พาณิชย์ 2007 ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 456c3a4b3430312ba8c2a1e949f1c5b7bb820ee9
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Commerce Server ๒๐๐๗
+  description: Microsoft Commerce Server ๒๐๐๗จะเป็นไปตามนโยบายวงจรชีวิตคงที่
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 428d4ea2be6f7edfd13e14a297a4795d02575ed7
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843318"
-name: เซิร์ฟเวอร์ Microsoft พาณิชย์ 2007
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893481"
+name: Microsoft Commerce Server ๒๐๐๗
 summary: >
-  เซิร์ฟเวอร์ Microsoft พาณิชย์ 2007 ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Commerce Server ๒๐๐๗จะเป็นไปตามนโยบายวงจรชีวิต[คง](/lifecycle/policies/fixed)ที่
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: นักพัฒนา, องค์กร, มาตรฐาน
+  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: นักพัฒนา, องค์กร, มาตรฐาน
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว
+  > การสนับสนุนสำหรับผลิตภัณฑ์นี้สิ้นสุดลงแล้ว
 products:
 - microsoft-servers
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* นัก พัฒนา\n* องค์กร\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>เชื่อม \n* [นโยบาย service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* นักพัฒนา\n* องค์กร\n* มาตรฐาน"

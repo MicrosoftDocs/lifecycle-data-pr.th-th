@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2016 เซิร์ฟเวอร์ SQL
-  description: 2016 เซิร์ฟเวอร์ SQL ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1b41e2eeed9a3b7fa2038070a84e468866dd633c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: SQL Server ๒๐๑๖
+  description: SQL Server ๒๐๑๖จะเป็นไปตามนโยบายวงจรชีวิตคงที่
+  ms.date: 08/12/2020
+  ms.openlocfilehash: e54ceed1e30fb7075b341e068c5d65d7c9e95858
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864604"
-name: 2016 เซิร์ฟเวอร์ SQL
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "892778"
+name: SQL Server ๒๐๑๖
 summary: >+
-  2016 เซิร์ฟเวอร์ SQL ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  SQL Server ๒๐๑๖จะเป็นไปตามนโยบายวงจรชีวิต[คง](/lifecycle/policies/fixed)ที่
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: นักพัฒนา, องค์กร, คอร์เอ็นเตอร์ไพรส์, เอ็กซ์เพรส, มาตรฐาน, เว็บ
+  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: นักพัฒนา, องค์กร, องค์กรหลัก, Express, Standard, Web
 
 products:
 - sql-server
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2016
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* นัก พัฒนา\n* องค์กร\n* แกนองค์กร\n* Express\n* มาตรฐาน\n* เว็บ"
+content: "\n## <a name=\"links\"></a>เชื่อม \n* [นโยบาย service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* นักพัฒนา\n* องค์กร\n* หลักขององค์กร\n* Express\n* มาตรฐาน\n* เว็บ"
