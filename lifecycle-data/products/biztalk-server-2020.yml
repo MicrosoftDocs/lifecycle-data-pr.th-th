@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2020 เซิร์ฟเวอร์ BizTalk
-  description: 2020 เซิร์ฟเวอร์ BizTalk ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 857d430f637df64f0a3dd3be4e8da07bb840592d
-  ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
+  title: BizTalk Server ๒๐๒๐
+  description: BizTalk Server ๒๐๒๐จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 8fd9d3d641c7f964463ccf25efc3b451879c86bf
+  ms.sourcegitcommit: 1974bfc9a9fccaac36daaa1015b7f31c8814ae07
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "872699"
-name: 2020 เซิร์ฟเวอร์ BizTalk
+  ms.lasthandoff: 08/12/2020
+  ms.locfileid: "891936"
+name: BizTalk Server ๒๐๒๐
 summary: >+
-  2020 เซิร์ฟเวอร์ BizTalk ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  BizTalk Server ๒๐๒๐จะเป็นไปตามกรมธรรม์วงจรชีวิต[คง](/lifecycle/policies/fixed)ที่
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: สาขา, นักพัฒนา, องค์กร, มาตรฐาน
+  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: สาขา, นักพัฒนา, องค์กร, มาตรฐาน
 
 products:
 - microsoft-servers
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 02/01/2020
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สาขา\n* นัก พัฒนา\n* องค์กร\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>เชื่อม \n* [ข้อมูลผลิตภัณฑ์](/biztalk/install-and-config-guides/biztalk-server-2020-whats-new-and-installation)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สาขา\n* นักพัฒนา\n* องค์กร\n* มาตรฐาน"
