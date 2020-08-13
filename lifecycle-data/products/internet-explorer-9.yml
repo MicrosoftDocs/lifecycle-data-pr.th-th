@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: อินเทอร์เน็ตเอกซ์พลอเรอร์ 9
-  description: Internet Explorer 9 ตามนโยบายวงจรการใช้งานคอมโพเนนต์
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 595ea8f1727166a645aa139d28dc093b4b6f2b41
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Internet Explorer 9
+  description: Internet Explorer 9 จะเป็นไปตามนโยบายวัฏจักรของคอมโพเนนต์
+  ms.date: 08/12/2020
+  ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
+  ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864503"
-name: อินเทอร์เน็ตเอกซ์พลอเรอร์ 9
+  ms.lasthandoff: 08/13/2020
+  ms.locfileid: "893629"
+name: Internet Explorer 9
 summary: >+
-  Internet Explorer 9 ตามนโยบายวงจรการใช้งาน[คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Internet Explorer 9 จะเป็นไปตามนโยบายวัฏจักรของ[คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://www.microsoft.com/itpro/microsoft-edge)\n* [คําถามที่ถามบ่อยเกี่ยวกับนโยบายวงจรการใช้งานของ Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> ตั้งแต่ต้นวันที่ 12 มกราคม 2016 เฉพาะ Internet Explorer รุ่นล่าสุดที่พร้อมใช้งานสําหรับระบบปฏิบัติการที่ได้รับการสนับสนุนเท่านั้นที่จะได้รับการสนับสนุนทางเทคนิคและการปรับปรุงการรักษาความปลอดภัย"
+content: "\n## <a name=\"links\"></a>เชื่อม \n* [คำแนะนำในการโยกย้าย](https://www.microsoft.com/itpro/microsoft-edge)\n* [คำถามที่ถามบ่อยเกี่ยวกับนโยบายวัฏจักรของ Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> เริ่มต้นวันที่12มกราคม๒๐๑๖เฉพาะเวอร์ชันล่าสุดของ Internet Explorer ที่พร้อมใช้งานสำหรับระบบปฏิบัติการที่สนับสนุนเท่านั้นที่จะได้รับการสนับสนุนทางเทคนิคและการอัปเดตความปลอดภัย"
