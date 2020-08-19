@@ -1,0 +1,28 @@
+### YamlMime:Lifecycle
+metadata:
+  title: การวิเคราะห์ภัยคุกคามขั้นสูง 1. X
+  description: การวิเคราะห์ภัยคุกคามขั้นสูง 1. X ต่อไปนี้นโยบายวัฏจักรที่ได้รับการแก้ไข
+  ms.date: 08/19/2020
+  ms.openlocfilehash: acfca59a1c834c55c8fdb6f8d3eddbd34d6070b2
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904580"
+name: การวิเคราะห์ภัยคุกคามขั้นสูง 1. X
+summary: >+
+  การวิเคราะห์ภัยคุกคามขั้นสูง 1. X ต่อไปนี้นโยบายวัฏจักรที่ได้รับการ[แก้ไข](/lifecycle/policies/fixed)
+
+
+products:
+- m365
+policyType: fixed
+supportDates:
+  start: 11/25/2015
+  end: 01/12/2021
+  extendedEnd: 01/13/2026
+releases:
+- version: Original Release
+  startDate: 11/25/2015
+  endDate: 01/13/2026
+content: "\n## <a name=\"links\"></a>เชื่อม \n* [แนวทางการให้บริการการวิเคราะห์ภัยคุกคามขั้นสูง](/advanced-threat-analytics/understand-explore/ata-versions)\n\n> [!NOTE]\n> การอัปเดตจะสะสมพร้อมกับการอัปเดตทั้งหมดที่มีอยู่แล้วในการอัปเดตทั้งหมดที่ก่อนหน้านี้ อุปกรณ์จำเป็นต้องติดตั้งการอัปเดตล่าสุดที่จะยังคงได้รับการสนับสนุน"

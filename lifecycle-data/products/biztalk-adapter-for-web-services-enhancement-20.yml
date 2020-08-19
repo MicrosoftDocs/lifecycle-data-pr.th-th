@@ -1,0 +1,31 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ตัวปรับต่อ BizTalk สำหรับการเพิ่มประสิทธิภาพของเว็บเซอร์วิส๒.๐
+  description: ตัวปรับต่อ BizTalk สำหรับการเพิ่มประสิทธิภาพของเว็บเซอร์วิส๒.๐จะเป็นไปตามนโยบายวัฏจักรแบบคงที่
+  ms.date: 08/19/2020
+  ms.openlocfilehash: 4b442c30ed4d826959b43220b1b964c1c7d3419a
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904586"
+name: ตัวปรับต่อ BizTalk สำหรับการเพิ่มประสิทธิภาพของเว็บเซอร์วิส๒.๐
+summary: >+
+  ตัวปรับต่อ BizTalk สำหรับการเพิ่มประสิทธิภาพของเว็บเซอร์วิส๒.๐จะเป็นไปตามนโยบายวัฏจักรแบบ [คง](/lifecycle/policies/fixed) ที่
+
+
+products:
+- microsoft-servers
+policyType: fixed
+supportDates:
+  start: 05/10/2005
+  end: 07/12/2011
+  extendedEnd: 07/12/2016
+releases:
+- version: Service Pack 1
+  startDate: 05/12/2006
+  endDate: 07/12/2016
+- version: Original Release
+  startDate: 05/10/2005
+  endDate: 07/12/2016
+content: ''
