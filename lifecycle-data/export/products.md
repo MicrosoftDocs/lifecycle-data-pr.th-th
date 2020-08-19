@@ -1,27 +1,27 @@
 ---
-title: ส่งออกผลิตภัณฑ์
+title: การส่งออกข้อมูลวงจรชีวิต
 description: ส่งออกข้อมูลวัฏจักรของผลิตภัณฑ์
-ms.date: 08/17/2020
-ms.openlocfilehash: 01a34995c0dd1fc9fb0c5f75c4460357e091ccce
-ms.sourcegitcommit: 7479dd5eeb9cabdd9c8ad4f401261cbc4d7c6e27
+ms.date: 08/18/2020
+ms.openlocfilehash: 80145edf59e6406d32292d846ae3f263cddd294a
+ms.sourcegitcommit: 6bed901441570ef084842edd1b7e5dfbc192c99a
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "899822"
+ms.lasthandoff: 08/18/2020
+ms.locfileid: "902422"
 ---
-# <a name="export"></a>ส่งออก
+# <a name="lifecycle-data-export"></a>การส่งออกข้อมูลวงจรชีวิต
 
 > [!IMPORTANT]
 > หน้านี้อยู่ภายใต้การพัฒนา
 
 ## <a name="export-all-products"></a>ส่งออกผลิตภัณฑ์ทั้งหมด
-ส่งออกผลิตภัณฑ์ทั้งหมดโดยไม่มีตัวกรอง
+ส่งออกข้อมูลวงจรชีวิตสำหรับผลิตภัณฑ์ทั้งหมดโดยคลิกด้านล่าง:
 
 > [!div class="nextstepaction"]
 > [ส่งออกผลิตภัณฑ์ทั้งหมด](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export)
 
-## <a name="export-products-by-category"></a>ส่งออกผลิตภัณฑ์ตามประเภท
-เลือกการจัดกลุ่มเพื่อส่งออก:
+## <a name="export-products-by-family-and-group"></a>ส่งออกผลิตภัณฑ์ตามครอบครัวและกลุ่ม
+เลือกครอบครัวแล้วเลือกกลุ่มเพื่อส่งออก หมายเหตุ: การส่งออกจะเริ่มต้นเมื่อมีการเลือกค่ากลุ่ม 
 
 > [!div class="op_multi_selector" title1="ครอบครัว" title2="กลุ่ม"]
 > - [(.NET | ทั้งหมด](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'.NET')
@@ -80,8 +80,8 @@ ms.locfileid: "899822"
 > - [(Windows | ความปลอดภัย](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Security')
 > - [(Windows | Server](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export?$filter=parent%20ne%20null%20and%20parent/parent%20ne%20null%20and%20parent/parent/parent%20ne%20null%20and%20parent/parent/parent/name%20eq%20'Windows'%20and%20parent/parent/name%20eq%20'Server')
 
-## <a name="export-products-by-end-of-support-year"></a>ส่งออกผลิตภัณฑ์โดยสิ้นสุดปีการสนับสนุน
-เลือกปีที่จะส่งออกผลิตภัณฑ์สิ้นสุดการบริการในปีนั้น:
+## <a name="export-products-by-end-of-support-date"></a>ส่งออกผลิตภัณฑ์โดยสิ้นสุดวันที่สนับสนุน
+เลือกปีเพื่อดูผลิตภัณฑ์ที่เข้าถึงจุดสิ้นสุดของการสนับสนุน หมายเหตุ: การส่งออกจะเริ่มต้นเมื่อมีการเลือกค่าปี
 
 > [!div class="op_single_selector"]
 > - [๒๐๐๒](https://app-omaha-prod.azurewebsites.net/api/PublishedListings/Export(endOfSupportYear=2002))
