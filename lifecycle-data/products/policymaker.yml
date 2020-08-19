@@ -1,0 +1,29 @@
+### YamlMime:Lifecycle
+metadata:
+  title: PolicyMaker
+  description: PolicyMaker ตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 08/19/2020
+  ms.openlocfilehash: d1b7d7ac98ec91c5118023494257fde96fbf2c6f
+  ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 08/19/2020
+  ms.locfileid: "904589"
+name: PolicyMaker
+summary: >+
+  PolicyMaker ตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+
+
+  สิ่งนี้นำไปใช้กับเวอร์ชันต่อไปนี้: การรักษาความปลอดภัยของแอปพลิเคชัน, Outlook Edition, Professional ๙.๐, นามสกุลรีจิสทรี๒.๐, แชร์ผู้จัดการ๑.๐, อัปเดตซอฟต์แวร์๑.๐, อัปเดตซอฟต์แวร์๒.๐, ๑.๐มาตรฐาน, ๒.๐มาตรฐาน
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 01/01/2007
+  end: 01/12/2010
+releases:
+- version: Original Release
+  startDate: 01/01/2007
+  endDate: 01/12/2010
+content: "\n\n> [!NOTE]\n> การสนับสนุนสำหรับผลิตภัณฑ์นี้อยู่ภายใต้ข้อกำหนดของการซื้อ\n\n## <a name=\"editions\"></a>รุ่น \n* ความปลอดภัยของแอปพลิเคชัน\n* Outlook Edition\n* ๙.๐แบบมืออาชีพ\n* ส่วนขยายของรีจิสทรี๒.๐\n* แชร์ตัวจัดการ๑.๐\n* การอัปเดตซอฟต์แวร์๑.๐\n* การอัปเดตซอฟต์แวร์๒.๐\n* ๑.๐มาตรฐาน\n* ๒.๐มาตรฐาน"
