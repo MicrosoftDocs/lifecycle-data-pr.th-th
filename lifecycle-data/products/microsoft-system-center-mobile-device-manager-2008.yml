@@ -1,18 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวจัดการอุปกรณ์เคลื่อนที่ของศูนย์ระบบ Microsoft 2008
-  description: ตัวจัดการอุปกรณ์เคลื่อนที่ของ Microsoft System Center 2008 ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 14a7c0da14eb713aa83ca322fe5a321cff6e4544
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft System Center Mobile Device Manager ๒๐๐๘
+  description: ตัวจัดการอุปกรณ์เคลื่อนที่ของ Microsoft System Center ๒๐๐๘จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 08/21/2020
+  ms.openlocfilehash: df98171e48c84191a90b4c051d6d17e77e720d93
+  ms.sourcegitcommit: 58c6a4bf0c3ef066969422e3acf340702facef6e
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843233"
-name: ตัวจัดการอุปกรณ์เคลื่อนที่ของศูนย์ระบบ Microsoft 2008
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "906304"
+name: Microsoft System Center Mobile Device Manager ๒๐๐๘
 summary: >+
-  ตัวจัดการอุปกรณ์เคลื่อนที่ของ Microsoft System Center 2008 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  ตัวจัดการอุปกรณ์เคลื่อนที่ของ Microsoft System Center ๒๐๐๘จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
+
+  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: ที่เกี่ยวข้องทั้งหมด, wSQL
 
 products:
 - msc
@@ -28,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 05/14/2008
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>เชื่อม \n* [คำแนะนำในการโยกย้าย](/mem/configmgr/core/migration/migrate-data-between-hierarchies?redirectedfrom=MSDN)\n* [นโยบาย service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้งหมดที่เกี่ยวข้อง\n* wSQL"
