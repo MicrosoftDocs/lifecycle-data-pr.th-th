@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2016 เซิร์ฟเวอร์ของ Windows
-  description: Windows Server 2016 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows Server 2016
+  description: Windows Server 2016 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 26492abfdd2f901d069e6209da505c6296004961
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864803"
-name: 2016 เซิร์ฟเวอร์ของ Windows
+name: Windows Server 2016
 summary: >+
-  Windows Server 2016 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Windows Server 2016 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Datacenter, Essentials, MultiPoint Premium, มาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Datacenter, Essentials, MultiPoint Premium, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/windows-server/get-started/server-basics)\n* [คําถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ของ Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* สิ่งที่จำเป็น\n* มัลติพอยต์ พรีเมี่ยม\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์](/windows-server/get-started/server-basics)\n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"

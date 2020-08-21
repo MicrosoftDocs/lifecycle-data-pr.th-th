@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวเลือกการติดตั้งเซิร์ฟเวอร์นาโน 2016 เซิร์ฟเวอร์ Windows
-  description: ตัวเลือกการติดตั้งเซิร์ฟเวอร์นาโน 2016 ของ Windows ต่อไปนี้นโยบายวงจรการใช้งานสมัยใหม่
+  title: 'ตัวเลือกการติดตั้ง Windows Server 2016 Nano Server '
+  description: ตัวเลือกการติดตั้ง Windows Server 2016 Nano Server เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
   ms.date: 07/28/2020
   ms.openlocfilehash: 6c8189a0fe39fe3ad0b79147e0b2ddbd67e3f799
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864809"
-name: ตัวเลือกการติดตั้งเซิร์ฟเวอร์นาโน 2016 เซิร์ฟเวอร์ Windows
+name: 'ตัวเลือกการติดตั้ง Windows Server 2016 Nano Server '
 summary: >+
-  ตัวเลือกการติดตั้งเซิร์ฟเวอร์นาโน 2016 ของ Windows ต่อไปนี้นโยบายวงจร[การใช้งานสมัยใหม่](/lifecycle/policies/modern)
+  ตัวเลือกการติดตั้ง Windows Server 2016 Nano Server เป็นไปตามนโยบายวงจรการใช้งาน [แบบสมัยใหม่](/lifecycle/policies/modern)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: Datacenter, มาตรฐาน
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Datacenter, Standard
 
 products:
 - windows
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 10/09/2018
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลการให้บริการ](/windows-server/get-started/nano-in-semi-annual-channel)\n* [คําถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ของ Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลการให้บริการ](/windows-server/get-started/nano-in-semi-annual-channel)\n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* Standard"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: R2 2012 เซิร์ฟเวอร์ Windows
-  description: R2 2012 เซิร์ฟเวอร์ Windows เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows Server 2012 R2
+  description: Windows Server 2012 R2 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 35b2c5868387b3f6aa94bc41d2674c8ea7286aa6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864391"
-name: R2 2012 เซิร์ฟเวอร์ Windows
+name: Windows Server 2012 R2
 summary: >+
-  R2 2012 เซิร์ฟเวอร์ Windows เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Windows Server 2012 R2 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Datacenter, Essentials,
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/25/2013
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> การสนับสนุนหลักและการขยายสําหรับผลิตภัณฑ์นี้ได้รับการขยายเพื่อให้ลูกค้ามีระยะเวลาในการเปลี่ยนวงจรชีวิตมาตรฐาน\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* สิ่งที่จำเป็น\n* สําหรับระบบฝังตัว\n* มูลนิธิ\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> การสนับสนุนหลักและแบบขยายสำหรับผลิตภัณฑ์นี้ได้รับการขยายออกไปเพื่อให้ลูกค้ามีช่วงเวลาในการเปลี่ยนแปลงวงจรการใช้งานแบบมาตรฐาน\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* Essentials\n* for Embedded Systems\n* Foundation\n* Standard"

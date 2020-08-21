@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: หน้าต่าง 10 บ้านและ Pro
-  description: Windows 10 Home และ Pro เป็นไปตามนโยบายวงจรการใช้งานที่ทันสมัย
+  title: Windows 10 Home and Pro
+  description: Windows 10 Home and Pro เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
   ms.date: 07/30/2020
   ms.openlocfilehash: 9d3ad5a10e7df75162cbff42701d451e1299e3c4
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879235"
-name: หน้าต่าง 10 บ้านและ Pro
+name: Windows 10 Home and Pro
 summary: >
-  Windows 10 Home และ Pro เป็นไปตามนโยบายวงจรการใช้งาน[ที่ทันสมัย](/lifecycle/policies/modern)
+  Windows 10 Home and Pro เป็นไปตามนโยบายวงจรการใช้งาน [แบบสมัยใหม่](/lifecycle/policies/modern)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: หน้าแรก, Pro, Pro เพื่อการศึกษา, Pro สําหรับเวิร์กสเตชัน, มืออาชีพ
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Home, Pro, Pro for Education, Pro for Workstations, Professional
 
 
   > [!IMPORTANT]
 
-  > Microsoft จะยังคงสนับสนุนอย่างน้อยหนึ่ง Windows 10 กึ่งรายปี Channel จนถึง 14 ตุลาคม 2025
+  > Microsoft จะยังคงให้การสนับสนุน Windows 10 Semi-Annual Channel อย่างน้อยหนึ่งช่องทางจนถึงวันที่ 14 ตุลาคม ค.ศ. 2025
 products:
 - windows
 policyType: modern-on-prem
@@ -57,4 +57,4 @@ releases:
 - version: Version 1507
   startDate: 07/29/2015
   endDate: 05/09/2017
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [วินโดวส์เป็นบริการ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [แผ่นข้อมูลข้อเท็จจริงวงจรการใช้งาน Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [คําถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ของ Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro สําหรับเวิร์กสเตชันเปิดตัวครั้งแรกกับเวอร์ชัน 1703\n> [!NOTE]\n> ยกเว้นว่าการเลื่อนเวลา, Windows 10\n\n## <a name=\"editions\"></a>รุ่น \n* บ้าน\n* Pro\n* โปรเพื่อการศึกษา\n* โปรสําหรับเวิร์กสเตชัน\n* มือ อาชีพ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [เอกสารข้อเท็จจริงเกี่ยวกับวงจรการใช้งานของ Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Pro for Workstation ปล่อยออกมาครั้งแรกด้วยเวอร์ชัน 1703\n> [!NOTE]\n> เว้นแต่ว่าจะเลื่อนเวลา ซึ่งการอัปเดตฟีเจอร์ Windows 10 Semi-Annual Channel ที่ตามมาอาจได้รับการติดตั้งก่อนวันที่สิ้นสุดการสนับสนุนหลักตามที่ระบุไว้\n\n## <a name=\"editions\"></a>รุ่น \n* Home\n* Pro\n* Pro for Education\n* Pro for Workstations\n* Professional"

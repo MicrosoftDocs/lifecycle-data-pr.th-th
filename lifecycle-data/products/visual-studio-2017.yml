@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: สตูดิโอภาพ 2017
-  description: 2017 Studio ที่มองเห็นตามนโยบายวงจรชีวิตแบบคงที่
+  title: Visual Studio 2017
+  description: Visual Studio 2017 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 28e7d911a453418021aba3ecfa7e96ca8c5ed73f
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872741"
-name: สตูดิโอภาพ 2017
+name: Visual Studio 2017
 summary: >+
-  2017 Studio ที่มองเห็นตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Visual Studio 2017 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ใช้กับรุ่นต่อไปนี้: ตัวแทน, สร้างเครื่องมือ, ชุมชน, องค์กร, ไคลเอนต์คําติชม, สําหรับ Mac, IntelliTrace สะสมแบบสแตนด์อโลน, เครื่องมือประสิทธิภาพ, มืออาชีพ, เครื่องมือระยะไกล, ทีม Explorer, ทดสอบมืออาชีพ, Visual c ++
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Agents, Build Tools, Community, Enterprise, Feedback Client, for Mac, IntelliTrace Standalone Collector, Performance Tools, Professional, Remote Tools, Team Explorer, Test Professional, Visual C++ Redistributable
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Version 15.0
   startDate: 03/07/2017
   endDate: 01/14/2020
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ประกาศ](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [ข้อมูลการให้บริการ](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ตัว แทน จำหน่าย\n* เครื่องมือสร้าง\n* ชุมชน\n* องค์กร\n* ไคลเอนต์คําติชม\n* สําหรับ Mac\n* คอลเลคเตอร์แบบสแตนด์อโลน\n* เครื่องมือประสิทธิภาพการทํางาน\n* มือ อาชีพ\n* เครื่องมือระยะไกล\n* สํารวจทีม\n* มืออาชีพการทดสอบ\n* เผยแพร่ต่อ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [การประกาศ](https://devblogs.microsoft.com/visualstudio/visual-studio-2017-and-visual-studio-for-mac-support-updates/)\n* [ข้อมูลการให้บริการ](/visualstudio/productinfo/vs-servicing-vs#support-for-older-versions-of-visual-studio)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Agents\n* Build Tools\n* Community\n* Enterprise\n* Feedback Client\n* for Mac\n* IntelliTrace Standalone Collector\n* Performance Tools\n* Professional\n* Remote Tools\n* Team Explorer\n* Test Professional\n* Visual C++ Redistributable"

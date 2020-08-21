@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2011 เซิร์ฟเวอร์ธุรกิจขนาดเล็กของ Windows
-  description: 2011 เซิร์ฟเวอร์ธุรกิจขนาดเล็กของ Windows ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows Small Business Server 2011
+  description: Windows Small Business Server 2011 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 61033305f4abf2b1c63cd15f8ae3dce88331fa7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864549"
-name: 2011 เซิร์ฟเวอร์ธุรกิจขนาดเล็กของ Windows
+name: Windows Small Business Server 2011
 summary: >
-  2011 เซิร์ฟเวอร์ธุรกิจขนาดเล็กของ Windows ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Windows Small Business Server 2011 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Essentials, Add-On พรีเมี่ยม, มาตรฐาน
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Essentials, Premium Add-On, Standard
 
 
   > [!IMPORTANT]
 
-  > วันที่สนับสนุนสําหรับแพคเกจผลิตภัณฑ์นี้จะถูกกําหนดโดยแต่ละระยะเวลาของผลิตภัณฑ์ส่วนประกอบที่เกี่ยวข้อง โปรดตรวจทานวงจรการใช้งานของผลิตภัณฑ์แต่ละคอมโพเนนต์เพื่อกําหนดระยะเวลาการสนับสนุน
+  > วันที่สนับสนุนสำหรับแพ็กเกจผลิตภัณฑ์นี้จะกำหนดโดยวงจรการใช้งานของผลิตภัณฑ์แต่ละคอมโพเนนต์ โปรดตรวจสอบวงจรการใช้งานของผลิตภัณฑ์แต่ละคอมโพเนนต์เพื่อระบุระยะเวลาการสนับสนุน
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/09/2011
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://aka.ms/AA1ovn4)\n* [โยกย้าย Windows ขนาดเล็กธุรกิจเซิร์ฟเวอร์ 2011 มาตรฐานสิ่งจําเป็นสําหรับเซิร์ฟเวอร์ของ Windows](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สิ่งที่จำเป็น\n* พรีเมี่ยมแอดออน\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://aka.ms/AA1ovn4)\n* [ย้าย Windows Small Business Server 2011 Standard ไปเป็น Windows Server Essentials](/windows-server-essentials/migrate/migrate-windows-small-business-server-2011-standard-to-windows-server-essentials)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Essentials\n* Premium Add-On\n* Standard"

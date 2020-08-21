@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ที่เก็บของ Windows 2008 R2
-  description: เซิร์ฟเวอร์ที่เก็บของ Windows 2008 R2 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows Storage Server 2008 R2
+  description: Windows Storage Server 2008 R2 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 28647cde233349efc4b33be28393ce0916020c33
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864718"
-name: เซิร์ฟเวอร์ที่เก็บของ Windows 2008 R2
+name: Windows Storage Server 2008 R2
 summary: >
-  เซิร์ฟเวอร์ที่เก็บของ Windows 2008 R2 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Windows Storage Server 2008 R2 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: สิ่งจําเป็นสําหรับมาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Essentials, Standard
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 12/20/2010
   endDate: 04/09/2013
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลการสิ้นสุดการสนับสนุน](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [คําแนะนําการโยกย้าย](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [คําถามที่ถามบ่อยเกี่ยวกับการอัปเดตความปลอดภัยเพิ่มเติม](/lifecycle/faq/extended-security-updates)\n* [ข้อมูลการอัพเกรดเซิร์ฟเวอร์](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> ฉบับที่จําเป็นออกเมื่อวันที่ 28 มิถุนายน 2011\n\n## <a name=\"editions\"></a>รุ่น \n* สิ่งที่จำเป็น\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [สิ้นสุดข้อมูลการสนับสนุน](https://support.microsoft.com/help/4456235/end-of-support-for-windows-server-2008-and-windows-server-2008-r2)\n* [คำแนะนำในการย้ายข้อมูล](/archive/blogs/storageserver/announcing-windows-storage-server-2016)\n* [คำถามที่พบบ่อยเกี่ยวกับการอัปเดตความปลอดภัยที่ขยายเวลา](/lifecycle/faq/extended-security-updates)\n* [ข้อมูลการอัปเกรดเซิร์ฟเวอร์](/windows-server/upgrade/upgrade-overview)\n\n> [!NOTE]\n> รุ่น Essentials ปล่อยออกมาเมื่อวันที่ 28 มิถุนายน ค.ศ. 2011\n\n## <a name=\"editions\"></a>รุ่น \n* Essentials\n* Standard"

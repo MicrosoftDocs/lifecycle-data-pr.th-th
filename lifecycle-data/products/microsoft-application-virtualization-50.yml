@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: การจําลองเสมือนของโปรแกรมประยุกต์ Microsoft 5.0
-  description: การจําลองเสมือนของโปรแกรมประยุกต์ Microsoft 5.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
+  title: Microsoft Application Virtualization 5.0
+  description: Microsoft Application Virtualization 5.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 537410789f17e2ca2d9308c1814f22f823288b32
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864500"
-name: การจําลองเสมือนของโปรแกรมประยุกต์ Microsoft 5.0
+name: Microsoft Application Virtualization 5.0
 summary: >+
-  การจําลองเสมือนของโปรแกรมประยุกต์ Microsoft 5.0 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Application Virtualization 5.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ใช้กับรุ่นต่อไปนี้: สําหรับบริการเดสก์ท็อประยะไกล สําหรับบริการเทอร์มินัล สําหรับเดสก์ท็อปของ Windows
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: for Remote Desktop Services, for Terminal Services, for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สําหรับบริการเดสก์ท็อประยะไกล\n* สําหรับบริการเทอร์มินัล\n* สําหรับเดสก์ท็อปของ Windows"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์](/microsoft-desktop-optimization-pack/appv-v5/microsoft-application-virtualization-50-administrators-guide)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* for Remote Desktop Services\n* for Terminal Services\n* for Windows Desktops"

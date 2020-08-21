@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์แอพลิเคชัน Virtualization โฮสติ้ง 5.0 สําหรับเดสก์ทอปของ Windows
-  description: การโฮสต์การจําลองเสมือนของ Microsoft 5.0 สําหรับเดสก์ท็อปของ Windows เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
+  title: Microsoft Application Virtualization Hosting 5.0 สำหรับเดสก์ท็อป Windows
+  description: Microsoft Application Virtualization Hosting 5.0 for Windows Desktops เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: dff04b865491bfb99aa8d20e556aafd434a59398
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864491"
-name: ไมโครซอฟท์แอพลิเคชัน Virtualization โฮสติ้ง 5.0 สําหรับเดสก์ทอปของ Windows
+name: Microsoft Application Virtualization Hosting 5.0 สำหรับเดสก์ท็อป Windows
 summary: >+
-  การโฮสต์การจําลองเสมือนของ Microsoft 5.0 สําหรับเดสก์ท็อปของ Windows เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Application Virtualization Hosting 5.0 for Windows Desktops เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ใช้กับรุ่นต่อไปนี้: สําหรับเดสก์ท็อปของ Windows
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2012
   endDate: 07/08/2014
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สําหรับเดสก์ท็อปของ Windows"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* for Windows Desktops"

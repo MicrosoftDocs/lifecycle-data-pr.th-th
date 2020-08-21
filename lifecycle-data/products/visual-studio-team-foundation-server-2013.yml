@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ทีม 2013 Studio ภาพ
-  description: 2013 เซิร์ฟเวอร์พื้นฐานของทีม Studio Visual เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Visual Studio Team Foundation Server 2013
+  description: Visual Studio Team Foundation Server 2013 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: b24e1b9ebaf9855024973bfa2ff6b7d90e3af408
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864732"
-name: เซิร์ฟเวอร์ทีม 2013 Studio ภาพ
+name: Visual Studio Team Foundation Server 2013
 summary: >+
-  2013 เซิร์ฟเวอร์พื้นฐานของทีม Studio Visual เป็นไปตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Visual Studio Team Foundation Server 2013 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: ทั้งหมด, การจัดการนําออกใช้
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: All, Release Management
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/15/2014
   endDate: 10/11/2016
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [ข้อมูลการให้บริการ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> สําหรับเซิร์ฟเวอร์การจัดการนําออกใช้สําหรับ TFS 2013, 4 การปรับปรุงจะได้รับการสนับสนุนตามแนวทางนโยบายจนถึง 4/9/2024\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้ง หมด\n* การจัดการข่าว"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์](/azure/devops/server/tfs-is-now-azure-devops-server?view=azure-devops)\n* [ข้อมูลการให้บริการ](https://www.visualstudio.com/productinfo/vs-servicing-vs)\n* [นโยบายของ Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> สำหรับ Release Management Server for TFS 2013, Update 4 จะได้รับการสนับสนุนตามแนวนโยบายจนถึงวันที่ 4/9/2024\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้งหมด\n* Release Management"
