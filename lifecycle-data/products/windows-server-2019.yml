@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ Windows 2019
+  title: Windows Server 2019
   description: Windows Server 2019 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: c074cbdb100e858572f6f6375311034d593055a9
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872722"
-name: เซิร์ฟเวอร์ Windows 2019
+name: Windows Server 2019
 summary: >+
-  Windows Server 2019 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Windows Server 2019 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
   สิ่งนี้ใช้กับรุ่นต่อไปนี้: Datacenter, Essentials, Standard
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 11/13/2018
   endDate: 01/09/2029
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/windows-server/get-started-19/whats-new-19)\n* [ปรับปรุงบนความพร้อมใช้งานของ Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [คําถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ของ Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 และ Windows Server เวอร์ชัน 1809 ถูกนําออกใช้อีกครั้งในวันที่ 13 พฤศจิกายน 2018 วันที่สนับสนุนได้รับการปรับปรุงตาม\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* สิ่งที่จำเป็น\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์](/windows-server/get-started-19/whats-new-19)\n* [อัปเดตความพร้อมใช้งานของ Windows Server 2019](https://aka.ms/WSRelaunchBlog)\n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> Windows Server 2019 และ Windows Server เวอร์ชัน 1809 ได้รับการเปิดตัวอีกครั้งในวันที่ 13 พ.ย. ค.ศ. 2018 วันที่สำหรับการสนับสนุนได้รับการปรับโดยสอดคล้องกันแล้ว\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* Essentials\n* Standard"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics 365 สําหรับความสามารถพิเศษ
-  description: Dynamics 365 สําหรับ Talent ตามนโยบายวงจรการใช้งานสมัยใหม่
+  title: Dynamics 365 for Talent
+  description: Dynamics 365 for Talent เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
   ms.date: 07/28/2020
   ms.openlocfilehash: d6dc50f8fa82bcf711b79df464c150fdbf9d1ec6
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872708"
-name: Dynamics 365 สําหรับความสามารถพิเศษ
+name: Dynamics 365 for Talent
 summary: >+
-  Dynamics 365 สําหรับ Talent ตามนโยบายวงจรการใช้งาน[สมัยใหม่](/lifecycle/policies/modern)
+  Dynamics 365 for Talent เป็นไปตามนโยบายวงจรการใช้งาน [แบบสมัยใหม่](/lifecycle/policies/modern)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: Onboard
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Onboard
 
 products:
 - dynamics
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 07/31/2017
   endDate: 02/02/2022
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ความต้องการของระบบ](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [คําแนะนําการโยกย้าย](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> แอปที่ดึงดูดและ Onboard จะเกษียณในวันที่ 2 กุมภาพันธ์ 2022  ทรัพยากรบุคคลหลักที่นํามาใช้เป็น Dynamics 365 ทรัพยากรบุคคลบน 1 กุมภาพันธ์ 2020 ดูคําแนะนําการโยกย้ายสําหรับข้อมูลเพิ่มเติม\n\n## <a name=\"editions\"></a>รุ่น \n* Onboard"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ความต้องการของระบบ](/dynamics365/talent/talent-versions-update-policy#supported-microsoft-office-applications)\n* [คำแนะนำในการย้ายข้อมูล](https://cloudblogs.microsoft.com/dynamics365/bdm/2019/12/06/building-a-more-successful-workforce-with-dynamics-365-human-resources)\n\n> [!NOTE]\n> แอป Attract and Onboard จะหยุดให้บริการในวันที่ 2 กุมภาพันธ์ ค.ศ. 2022  Core HR เปิดตัวอีกครั้งเป็น Dynamics 365 Human Resources ในวันที่ 1 กุมภาพันธ์ ค.ศ. 2020 โปรดดูคำแนะนำในการย้ายข้อมูลสำหรับข้อมูลเพิ่มเติม\n\n## <a name=\"editions\"></a>รุ่น \n* Onboard"

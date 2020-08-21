@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2012 เซิร์ฟเวอร์ของ Windows
-  description: Windows Server 2012 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows Server 2012
+  description: Windows Server 2012 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 3afe3de568f6e9b7eef58b6af132ff3ad4526724
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864810"
-name: 2012 เซิร์ฟเวอร์ของ Windows
+name: Windows Server 2012
 summary: >+
-  Windows Server 2012 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Windows Server 2012 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Datacenter, Essentials,
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Datacenter, Essentials, for Embedded Systems, Foundation, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2012
   endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/windows-server/upgrade/upgrade-overview)\n* [ข้อมูลผลิตภัณฑ์](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> การสนับสนุนหลักและการขยายสําหรับผลิตภัณฑ์นี้ได้รับการขยายเพื่อให้ลูกค้ามีระยะเวลาในการเปลี่ยนวงจรชีวิตมาตรฐาน สิ่งจําเป็นสําหรับเซิร์ฟเวอร์ Windows ที่นําออกใช้ในวันที่ 2 มกราคม 2013\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* สิ่งที่จำเป็น\n* สําหรับระบบฝังตัว\n* มูลนิธิ\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/windows-server/upgrade/upgrade-overview)\n* [ข้อมูลผลิตภัณฑ์](/windows/release-information/status-windows-server-2012)\n\n> [!NOTE]\n> การสนับสนุนหลักและแบบขยายเวลาสำหรับผลิตภัณฑ์นี้ได้รับการขยายเวลาออกไปเพื่อให้ลูกค้ามีไทม์ไลน์การเปลี่ยนแปลงวงจรการใช้งานแบบมาตรฐาน Windows Server Essentials ได้รับการเปิดตัวเมื่อวันที่ 2 มกราคม ค.ศ. 2013\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* Essentials\n* for Embedded Systems\n* Foundation\n* Standard"

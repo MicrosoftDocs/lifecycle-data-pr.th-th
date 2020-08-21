@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ Lync ของ Microsoft 2010
-  description: 2010 เซิร์ฟเวอร์ Lync ของ Microsoft ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Lync Server 2010
+  description: Microsoft Lync Server 2010 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/30/2020
   ms.openlocfilehash: 093060d50a15334bdeac1891bf7828d50ad0f9dc
   ms.sourcegitcommit: e219a019691b1cde9e6f715e4e725b5861450d57
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/31/2020
   ms.locfileid: "879471"
-name: เซิร์ฟเวอร์ Lync ของ Microsoft 2010
+name: Microsoft Lync Server 2010
 summary: >+
-  2010 เซิร์ฟเวอร์ Lync ของ Microsoft ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Lync Server 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: องค์กร, กลุ่มสนทนาซอฟต์แวร์พัฒนา Kit, SDK, มาตรฐาน
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Group Chat Software Development Kit, SDK, Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2011
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [รุ่นของโทรศัพท์ Lync](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> รุ่นของโทรศัพท์ Lync ได้รับการสนับสนุน ด้วย Lync Server 2010 และ 2013 เซิร์ฟเวอร์ Lync วันสนับสนุนสําหรับรุ่นโทรศัพท์ Lync ถูกขยาย 2 ปีเพื่อให้สอดคล้องกับวงจรการใช้งาน 2013 เซิร์ฟเวอร์ Lync\n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร\n* กลุ่มชุดพัฒนาซอฟต์แวร์แชท\n* Sdk\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [Lync Phone Edition](/lifecycle/products/microsoft-lync-phone-edition?branch=live)\n\n> [!NOTE]\n> Lync Phone Edition ได้รับการสนับสนุนในส่วน Lync Server 2010 และ Lync Server 2013 วันที่สนับสนุนสำหรับ Lync Phone Edition ได้รับการขยายเวลา 2 ปี เพื่อให้สอดคล้องกับวงจรการใช้งาน Lync Server 2013\n\n## <a name=\"editions\"></a>รุ่น \n* Enterprise\n* Group Chat Software Development Kit\n* SDK\n* Standard"

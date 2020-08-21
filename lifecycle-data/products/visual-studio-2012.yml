@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: สตูดิโอภาพ 2012
-  description: 2012 Studio ที่มองเห็นตามนโยบายวงจรชีวิตแบบคงที่
+  title: Visual Studio 2012
+  description: Visual Studio 2012 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 31d437b362fc9cdf06165caca18202e49cd7624b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864553"
-name: สตูดิโอภาพ 2012
+name: Visual Studio 2012
 summary: >+
-  2012 Studio ที่มองเห็นตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Visual Studio 2012 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: ตัวแทนชุมชน 2013, Express สําหรับเว็บ, ด่วนสําหรับ Windows 8, Express สําหรับ Windows เดสก์ท็อป, IntelliTrace Collector, Microsoft Azure Tools, พรีเมี่ยม, มืออาชีพ, เครื่องมือระยะไกล, เชลล์ (รวม), เชลล์ (แยก), เครื่องมือข้อมูล SQL Server, Team Explorer, ทดสอบมืออาชีพ 2013, Ultimate, Visual C ++ Redistributable, เครื่องมือเว็บ
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Agents, Community 2013, Express for Web, Express for Windows 8, Express for Windows Desktop, IntelliTrace Collector, Microsoft Azure Tools, Premium, Professional, Remote Tools, Shell (Integrated), Shell (Isolated), SQL Server Data Tools, Team Explorer, Test Professional 2013, Ultimate, Visual C++ Redistributable, Web Tools Extensions
 
 products:
 - vs
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 10/31/2012
   endDate: 01/10/2023
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [วงจรการใช้งานและการให้บริการผลิตภัณฑ์ Visual Studio](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ตัว แทน จำหน่าย\n* ชุมชน 2013\n* เอ็กซ์เพรสสําหรับเว็บ\n* เอ็กซ์เพรสสําหรับ Windows 8\n* เอ็กซ์เพรสสําหรับเดสก์ท็อป Windows\n* คอลเลคเตอร์ IntelliTrace\n* เครื่องมือ Azure ของ Microsoft\n* พรี เมี่ ยม\n* มือ อาชีพ\n* เครื่องมือระยะไกล\n* เชลล์ (ในตัว)\n* เชลล์ (แยก)\n* เครื่องมือข้อมูลเซิร์ฟเวอร์ SQL\n* สํารวจทีม\n* ทดสอบมืออาชีพ 2013\n* สูง สุด\n* เผยแพร่ต่อ\n* ส่วนขยายเครื่องมือเว็บ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [วงจรการใช้งานผลิตภัณฑ์ Visual Studio และการให้บริการ](/visualstudio/productinfo/vs-servicing-vs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Agents\n* Community 2013\n* Express for Web\n* Express for Windows 8\n* Express for Windows Desktop\n* IntelliTrace Collector\n* Microsoft Azure Tools\n* Premium\n* Professional\n* Remote Tools\n* Shell (Integrated)\n* Shell (Isolated)\n* SQL Server Data Tools\n* Team Explorer\n* Test Professional 2013\n* Ultimate\n* Visual C++ Redistributable\n* Web Tools Extensions"

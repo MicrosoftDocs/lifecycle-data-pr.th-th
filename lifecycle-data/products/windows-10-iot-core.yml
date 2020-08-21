@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: หลักของ IoT ของ Windows 10
-  description: IoT หลักของ Windows 10 เป็นไปตามนโยบายวงจรการใช้งานที่ทันสมัย
+  title: Windows 10 IoT Core
+  description: Windows 10 IoT Core เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
   ms.date: 07/28/2020
   ms.openlocfilehash: 4de1aecc88c37d87a38cd5eca9274bcb4c854739
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864644"
-name: หลักของ IoT ของ Windows 10
+name: Windows 10 IoT Core
 summary: >
-  IoT หลักของ Windows 10 เป็นไปตามนโยบายวงจร[การใช้งานที่ทันสมัย](/lifecycle/policies/modern)
+  Windows 10 IoT Core เป็นไปตามนโยบายวงจรการใช้งาน [แบบสมัยใหม่](/lifecycle/policies/modern)
 
 
 
   > [!IMPORTANT]
 
-  > Microsoft จะยังคงสนับสนุนอย่างน้อยหนึ่ง Windows 10 กึ่งรายปี Channel จนถึง 14 ตุลาคม 2025
+  > Microsoft จะยังคงให้การสนับสนุน Windows 10 Semi-Annual Channel อย่างน้อยหนึ่งช่องทางจนถึงวันที่ 14 ตุลาคม ค.ศ. 2025
 products:
 - windows
 policyType: modern-on-prem
@@ -40,4 +40,4 @@ releases:
 - version: Version 1607
   startDate: 08/02/2016
   endDate: 04/10/2018
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/windows/iot-core/windows-iot-core)\n* [แผ่นข้อมูลข้อเท็จจริงวงจรการใช้งาน Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [วินโดวส์เป็นบริการ (WaaS)](/windows/deployment/update/waas-quick-start)\n* [คําถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ของ Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> ยกเว้นว่าการเลื่อนเวลา, Windows 10"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์](/windows/iot-core/windows-iot-core)\n* [เอกสารข้อเท็จจริงเกี่ยวกับวงจรการใช้งานของ Windows](https://support.microsoft.com/help/13853/windows-lifecycle-fact-sheet)\n* [Windows as a Service (WaaS)](/windows/deployment/update/waas-quick-start)\n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ Windows](/lifecycle/faq/windows)\n\n> [!NOTE]\n> เว้นแต่ว่าจะเลื่อนเวลา ซึ่งการอัปเดตฟีเจอร์ Windows 10 Semi-Annual Channel ที่ตามมาอาจได้รับการติดตั้งก่อนวันที่สิ้นสุดการสนับสนุนหลักตามที่ระบุไว้"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ของ Windows
-  description: Windows Server เป็นไปตามนโยบายวงจรการใช้งานสมัยใหม่
+  title: Windows Server
+  description: Windows Server เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
   ms.date: 07/28/2020
   ms.openlocfilehash: 27a932028448e8fe9d583c1d4169c6818a0224b7
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872823"
-name: เซิร์ฟเวอร์ของ Windows
+name: Windows Server
 summary: >+
-  Windows Server เป็นไปตามนโยบายวงจรการใช้งาน[สมัยใหม่](/lifecycle/policies/modern)
+  Windows Server เป็นไปตามนโยบายวงจรการใช้งาน [แบบสมัยใหม่](/lifecycle/policies/modern)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: Datacenter, มาตรฐาน
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Datacenter, Standard
 
 products:
 - windows
@@ -40,4 +40,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ช่องทางการให้บริการเซิร์ฟเวอร์ Windows: LTSC และ SAC](/windows-server/get-started-19/servicing-channels-19)\n* [คําถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ของ Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> การปรับปรุงประจําเดือนตุลาคมของ Windows 10 (รุ่น 1809) ถูกนําออกใช้อีกครั้งในวันที่ 13 พ.ย. 2018 วันที่สนับสนุนได้รับการปรับปรุงตาม\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ช่องทางการให้บริการของ Windows Server: LTSC และ SAC](/windows-server/get-started-19/servicing-channels-19)\n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> การอัปเดต Windows 10 เดือนตุลาคม (เวอร์ชัน 1809) ได้รับการเปิดตัวอีกครั้งเมื่อวันที่ 13 พฤศจิกายน ค.ศ. 2018 วันที่สำหรับการสนับสนุนได้รับการปรับโดยสอดคล้องกันแล้ว\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* Standard"

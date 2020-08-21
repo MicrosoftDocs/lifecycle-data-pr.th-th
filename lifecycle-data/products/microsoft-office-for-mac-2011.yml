@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: สํานักงานไมโครซอฟท์สําหรับ Mac 2011
-  description: Microsoft Office for Mac 2011 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Office สำหรับ Mac 2011
+  description: Microsoft Office for Mac 2011 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: b2469fc1a66c94cb7a3d71ea25595ed2eb4be125
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864451"
-name: สํานักงานไมโครซอฟท์สําหรับ Mac 2011
+name: Microsoft Office สำหรับ Mac 2011
 summary: >+
-  Microsoft Office for Mac 2011 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Office for Mac 2011 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: วิชาการ, บ้านและธุรกิจ, บ้านและธุรกิจบ้านใช้โปรแกรม, บ้านและนักเรียน, มาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Academic, Home and Business, Home and Business Home Use Program, Home and Student, Standard
 
 products:
 - office
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 01/10/2012
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> การสนับสนุนหลักสําหรับ Microsoft Office for Mac 2011 ขยายตามที่แสดงเพื่อให้ลูกค้าทั้งหมดมีระยะเวลาในการเปลี่ยนวงจรชีวิตมาตรฐาน\n\n## <a name=\"editions\"></a>รุ่น \n* วิชาการ\n* บ้านและธุรกิจ\n* โฮมโฮมและโฮมโฮม\n* บ้านและนักเรียน\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> การสนับสนุนหลักสำหรับ Microsoft Office for Mac 2011 ได้รับการขยายเวลาออกไปดังที่แสดงเอาไว้ เพื่อให้ลูกค้าทุกคนมีไทม์ไลน์การเปลี่ยนแปลงวงจรการใช้งานแบบมาตรฐาน\n\n## <a name=\"editions\"></a>รุ่น \n* Academic\n* Home and Business\n* Home and Business Home Use Program\n* Home and Student\n* Standard"

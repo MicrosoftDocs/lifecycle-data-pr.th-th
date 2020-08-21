@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวควบคุมโปรแกรมประยุกต์ 2012 ศูนย์ระบบ Microsoft
-  description: ตัวควบคุมโปรแกรมประยุกต์ 2012 ศูนย์ระบบ Microsoft ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft System Center 2012 App Controller
+  description: Microsoft System Center 2012 App Controller เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 955c3d74c044c24548fc2173c8d454e739b25505
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864568"
-name: ตัวควบคุมโปรแกรมประยุกต์ 2012 ศูนย์ระบบ Microsoft
+name: Microsoft System Center 2012 App Controller
 summary: >+
-  ตัวควบคุมโปรแกรมประยุกต์ 2012 ศูนย์ระบบ Microsoft ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Microsoft System Center 2012 App Controller เป็นไปตามนโยบายวงจรการใช้งานแบบ [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/30/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลศูนย์ระบบ](/system-center/#pivot=components&panel=components-all)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 ประกอบด้วยคอมโพเนนต์: ตัวจัดการตัวจัดการตัวจัดการตัวจัดการการดําเนินงานตัวจัดการตัวจัดการตัวจัดการตัวจัดการการดําเนินงานตัวจัดการตัวจัดการตัวจัดการบริการตัวจัดการออเคสตราเตอร์ตัวจัดการบริการตัวจัดการอัตโนมัติตัวจัดการเครื่องเสมือนตัวจัดการบริการบริการอัตโนมัติตัวจัดการบริการพื้นฐานผู้ให้บริการตัวจัดการเครื่องเสมือนอัตโนมัติ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลของ System Center](/system-center/#pivot=components&panel=components-all)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft System Center 2012 ประกอบด้วยคอมโพเนนต์: Configuration Manager, Data Protection Manager, Operations Manager, Orchestrator, Service Manager, Service Management Automation, Virtual Machine Manager, Service Provider Foundation"
