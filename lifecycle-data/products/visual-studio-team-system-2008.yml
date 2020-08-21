@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ระบบทีมสตูดิโอภาพ 2008
-  description: ระบบทีม Studio 2008 ที่มองเห็นตามนโยบายวงจรชีวิตแบบคงที่
+  title: Visual Studio Team System 2008
+  description: Visual Studio Team System 2008 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 38c593193296d428c6e0f74bb2e039ac2fa8f3d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843177"
-name: ระบบทีมสตูดิโอภาพ 2008
+name: Visual Studio Team System 2008
 summary: >
-  ระบบทีม Studio 2008 ที่มองเห็นตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Visual Studio Team System 2008 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ใช้กับรุ่นต่อไปนี้: ทั้งหมด, สถาปัตยกรรม, ฐานข้อมูล, การพัฒนา, Explorer ทีม, ทีมทดสอบโหลดเอเจนต์
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+  > การสนับสนุนสิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - vs
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [คําแนะนําการโยกย้าย](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้ง หมด\n* สถาปัตยกรรม\n* ฐาน ข้อมูล\n* พัฒนา\n* สํารวจทีม\n* ทีมทดสอบโหลดเอเจนต์"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [คำแนะนำในการย้ายข้อมูล](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้งหมด\n* สถาปัตยกรรม\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent"

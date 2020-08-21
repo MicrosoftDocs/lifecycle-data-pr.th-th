@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: การจัดการนโยบายกลุ่มขั้นสูงของ Microsoft 4.0
-  description: 4.0 การจัดการนโยบายกลุ่มขั้นสูงของ Microsoft ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Advanced Group Policy Management 4.0
+  description: Microsoft Advanced Group Policy Management 4.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ee2407b159ab7e8573aa39ebff7de6fd8002bde
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843373"
-name: การจัดการนโยบายกลุ่มขั้นสูงของ Microsoft 4.0
+name: Microsoft Advanced Group Policy Management 4.0
 summary: >+
-  4.0 การจัดการนโยบายกลุ่มขั้นสูงของ Microsoft ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Advanced Group Policy Management 4.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/19/2009
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ประสบการณ์ข้อมูล MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ประสบการณ์ข้อมูล MDOP](https://technet.microsoft.com/en-us/windows/bb899442)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)"

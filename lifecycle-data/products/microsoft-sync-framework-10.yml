@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: กรอบการซิงค์ของ Microsoft 1.0
-  description: กรอบการซิงค์ของ Microsoft 1.0 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Sync Framework 1.0
+  description: Microsoft Sync Framework 1.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: c57a9049aa6c69c1a71aaa99f5a8184b78d1e144
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843250"
-name: กรอบการซิงค์ของ Microsoft 1.0
+name: Microsoft Sync Framework 1.0
 summary: >
-  กรอบการซิงค์ของ Microsoft 1.0 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Sync Framework 1.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว
 products:
 - vs
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 11/04/2008
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> สนับสนุนการซิงค์ 1.0 SP1 กรอบงานสิ้นสุดในวันที่ระบุยกเว้นการแจกจ่ายเป็นคอมโพเนนต์ของ SharePoint Server 2010, 2013, 2016 หรือ 2019 คอมโพเนนต์ได้รับการสนับสนุนเช่นเดียวกับผลิตภัณฑ์หลักหรือแพลตฟอร์ม"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์](/previous-versions/sql/synchronization/mt490617(v=msdn.10))\n\n> [!NOTE]\n> การสนับสนุน Sync Framework 1.0 SP1 จะสิ้นสุดลงในวันที่ที่ระบุ เว้นแต่จะแจกจ่ายเป็นคอมโพเนนต์ของ SharePoint Server 2010, 2013, 2016 หรือ 2019 ส่วนประกอบจะได้รับการสนับสนุนเหมือนกันกับผลิตภัณฑ์หรือแพลตฟอร์มหลัก"

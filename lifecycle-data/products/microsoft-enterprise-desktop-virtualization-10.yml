@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: การจําลองเสมือนเดสก์ท็อปองค์กร Microsoft 1.0
-  description: การจําลองเสมือนเดสก์ท็อปองค์กร Microsoft 1.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
+  title: Microsoft Enterprise Desktop Virtualization 1.0
+  description: Microsoft Enterprise Desktop Virtualization 1.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 71dcb3cec051dba7376d58dc536d778ae7359f4a
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843297"
-name: การจําลองเสมือนเดสก์ท็อปองค์กร Microsoft 1.0
+name: Microsoft Enterprise Desktop Virtualization 1.0
 summary: >
-  การจําลองเสมือนเดสก์ท็อปองค์กร Microsoft 1.0 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Enterprise Desktop Virtualization 1.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ซึ่งนําไปใช้กับรุ่นต่อไปนี้: องค์กร
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Enterprise
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - windows
 policyType: fixed
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 08/03/2008
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://technet.microsoft.com/en-us/windows/bb899442)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://technet.microsoft.com/en-us/windows/bb899442)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Enterprise"

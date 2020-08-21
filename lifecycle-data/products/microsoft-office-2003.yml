@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์ออฟฟิศ 2003
-  description: Microsoft Office 2003 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Office 2003
+  description: Microsoft Office 2003 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: f02602c99f6318f55290a629a507a1f33df8f32f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842955"
-name: ไมโครซอฟท์ออฟฟิศ 2003
+name: Microsoft Office 2003
 summary: >+
-  Microsoft Office 2003 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Office 2003 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: พื้นฐาน, มืออาชีพ, องค์กรวิชาชีพ, ธุรกิจขนาดเล็ก, มาตรฐาน, นักเรียนและครู, เว็บคอมโพเนนต์
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Basic, Professional, Professional Enterprise, Small Business, Standard, Student and Teacher, Web Components
 
 products:
 - office
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 11/17/2003
   endDate: 07/27/2005
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* พื้นฐาน\n* มือ อาชีพ\n* องค์กรมืออาชีพ\n* ธุรกิจขนาดเล็ก\n* มาตรฐาน\n* นักเรียนและครู\n* คอมโพเนนต์เว็บ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Basic\n* Professional\n* Professional Enterprise\n* Small Business\n* Standard\n* Student and Teacher\n* Web Components"

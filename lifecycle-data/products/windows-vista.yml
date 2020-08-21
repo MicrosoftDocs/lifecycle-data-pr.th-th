@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: วินโดว์ วิสต้า
-  description: Windows Vista เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows Vista
+  description: Windows Vista เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: e2e6ab946bf405ed524f07047d055a786d7174dc
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842794"
-name: วินโดว์ วิสต้า
+name: Windows Vista
 summary: >
-  Windows Vista เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Windows Vista เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: ธุรกิจ, ธุรกิจ N, องค์กร, X64 องค์กร, หน้าแรกพื้นฐาน, หน้าแรกพื้นฐาน 64 บิต, หน้าแรกพื้นฐาน N, หน้าแรกพื้นฐาน N 64 บิต, พรีเมี่ยมบ้านพรีเมี่ยม, พรีเมี่ยมบ้านพรีเมี่ยม 64 บิต, เริ่มต้น, Ultimate, Ultimate 64-bit
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Business, Business N, Enterprise, Enterprise X64, Home Basic, Home Basic 64-bit, Home Basic N, Home Basic N 64-bit, Home Premium, Home Premium 64-bit, Starter, Ultimate, Ultimate 64-bit
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว โปรดดูข้อมูลการย้ายข้อมูลด้านล่าง
+  > การสนับสนุนผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว โปรดดูข้อมูลการย้ายข้อมูลด้านล่าง
 products:
 - windows
 policyType: fixed
@@ -37,4 +37,4 @@ releases:
 - version: Original Release
   startDate: 01/25/2007
   endDate: 04/13/2010
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [ข้อควรพิจารณาเกี่ยวกับการอัปเกรดและการโยกย้ายของ Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* เพื่อ ธุรกิจ\n* ธุรกิจ N\n* องค์กร\n* เอ็นเตอร์ไพรส์ X64\n* หน้าแรกพื้นฐาน\n* หน้าแรก พื้นฐาน 64 บิต\n* หน้าแรก พื้นฐาน N\n* หน้าแรก พื้นฐาน N 64 บิต\n* พรีเมี่ยมโฮม\n* หน้าแรกพรีเมี่ยม 64 บิต\n* สตาร์ท\n* สูง สุด\n* สุดยอด 64 บิต"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://support.microsoft.com/help/22882/windows-vista-end-of-support)\n* [ข้อควรพิจารณาในการอัปเกรดและย้ายข้อมูลของ Windows](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Business\n* Business N\n* Enterprise\n* Enterprise X64\n* Home Basic\n* Home Basic 64-bit\n* Home Basic N\n* Home Basic N 64-bit\n* Home Premium\n* Home Premium 64-bit\n* Starter\n* Ultimate\n* Ultimate 64-bit"

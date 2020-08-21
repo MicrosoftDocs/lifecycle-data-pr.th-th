@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: วินโดวส์ XP
+  title: Windows XP
   description: Windows XP เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: d4fd2bce3e032cdc468570a458c8f10c60ff9170
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842792"
-name: วินโดวส์ XP
+name: Windows XP
 summary: >
-  Windows XP เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Windows XP เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: หน้าแรก, มืออาชีพ, มืออาชีพสําหรับระบบฝังตัว, Starter
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Home, Professional, Professional for Embedded Systems, Starter
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - windows
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 12/31/2001
   endDate: 08/30/2005
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* บ้าน\n* มือ อาชีพ\n* มืออาชีพสําหรับระบบฝังตัว\n* สตาร์ท"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/windows/deployment/upgrade/windows-upgrade-and-migration-considerations)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Home\n* Professional\n* Professional for Embedded Systems\n* Starter"

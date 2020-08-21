@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์แอพลิเคชันเสมือนโฮสติ้ง 4.6 สําหรับเดสก์ทอปของ Windows
-  description: การโฮสต์การจําลองเสมือนของ Microsoft สําหรับ Windows เดสก์ท็อปจะเป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
+  title: Microsoft Application Virtualization Hosting 4.6 สำหรับเดสก์ท็อป Windows
+  description: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 21ed557cd6333e43a274796a3b25791c0d7f96cd
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843360"
-name: ไมโครซอฟท์แอพลิเคชันเสมือนโฮสติ้ง 4.6 สําหรับเดสก์ทอปของ Windows
+name: Microsoft Application Virtualization Hosting 4.6 สำหรับเดสก์ท็อป Windows
 summary: >+
-  การโฮสต์การจําลองเสมือนของ Microsoft สําหรับ Windows เดสก์ท็อปจะเป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Application Virtualization Hosting 4.6 for Windows Desktops เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ใช้กับรุ่นต่อไปนี้: สําหรับเดสก์ท็อปของ Windows
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: for Windows Desktops
 
 products:
 - windows
@@ -36,4 +36,4 @@ releases:
 - version: Original Release
   startDate: 05/27/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์และการย้าย](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> เนื่องจากไคลเอ็นต์ App-V 4.6 ใช้เซิร์ฟเวอร์ App-V 4.5, เซิร์ฟเวอร์ App-V 4.5 จะยังคงได้รับการสนับสนุนตามวันวงจรชีวิตของ App-V 4.6 เมื่อใช้งานกับไคลเอ็นต์ App-V 4.6 ที่ได้รับการสนับสนุน\n\n## <a name=\"editions\"></a>รุ่น \n* สําหรับเดสก์ท็อปของ Windows"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์และการย้ายข้อมูล](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> เนื่องจากไคลเอนต์ App-V 4.6 ใช้เซิร์ฟเวอร์ App-V 4.5 เซิร์ฟเวอร์ App-V 4.5 จะยังคงได้รับการสนับสนุนตามวันที่ของวงจรการใช้งานของ App-V 4.6 เมื่อใช้งานกับไคลเอนต์ App-V 4.6 ที่รองรับ\n\n## <a name=\"editions\"></a>รุ่น \n* for Windows Desktops"

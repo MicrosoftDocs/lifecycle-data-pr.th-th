@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ระบบศูนย์ Microsoft ตัวจัดการการป้องกันข้อมูล 2007
-  description: ตัวจัดการการป้องกันข้อมูลของ Microsoft System Center 2007 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft System Center Data Protection Manager 2007
+  description: Microsoft System Center Data Protection Manager 2007 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: ca60c8ab7630e2ee264017a572243b9f68643607
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843236"
-name: ระบบศูนย์ Microsoft ตัวจัดการการป้องกันข้อมูล 2007
+name: Microsoft System Center Data Protection Manager 2007
 summary: >
-  ตัวจัดการการป้องกันข้อมูลของ Microsoft System Center 2007 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft System Center Data Protection Manager 2007 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - msc
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 12/15/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://blogs.technet.microsoft.com/dpm/2017/01/10/system-center-data-protection-manager-2007-end-of-support/)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)"

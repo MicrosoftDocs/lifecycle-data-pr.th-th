@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เครื่องมือพิสูจน์อักษรของ Microsoft Office 2003
-  description: เครื่องมือพิสูจน์อักษร Microsoft Office 2003 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Office 2003 Proofing Tools
+  description: Microsoft Office 2003 Proofing Tools เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: f21b3139ecce220ee29ff6979ea99f6169fe0149
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843651"
-name: เครื่องมือพิสูจน์อักษรของ Microsoft Office 2003
+name: Microsoft Office 2003 Proofing Tools
 summary: >+
-  เครื่องมือพิสูจน์อักษร Microsoft Office 2003 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Office 2003 Proofing Tools เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์ออฟฟิศ 2010
-  description: Microsoft Office 2010 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Office 2010
+  description: Microsoft Office 2010 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 38b07316aaa247313848fcb558d54d4dad2d9c37
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842951"
-name: ไมโครซอฟท์ออฟฟิศ 2010
+name: Microsoft Office 2010
 summary: >+
-  Microsoft Office 2010 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Office 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: eAcademy, Home และธุรกิจ, บ้านและนักเรียน, ส่วนบุคคล, มืออาชีพ, มืออาชีพทางวิชาการ, มืออาชีพบวก, มืออาชีพพลัสโปรแกรมใช้ที่บ้าน, มาตรฐาน, เริ่มต้น
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: eAcademy, Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Professional Plus Home Use Program, Standard, Starter
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [สิ้นสุดแผนงานการสนับสนุน Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สถาบัน\n* บ้านและธุรกิจ\n* บ้านและนักเรียน\n* ส่วน บุคคล\n* มือ อาชีพ\n* นักวิชาการมืออาชีพ\n* มืออาชีพพลัส\n* โปรแกรมมืออาชีพพลัสใช้บ้าน\n* มาตรฐาน\n* สตาร์ท"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [สิ้นสุดแผนการใช้งานการสนับสนุน Office 2010](/DeployOffice/office-2010-end-support-roadmap)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* eAcademy\n* Home and Business\n* Home and Student\n* Personal\n* Professional\n* Professional Academic\n* Professional Plus\n* Professional Plus Home Use Program\n* Standard\n* Starter"

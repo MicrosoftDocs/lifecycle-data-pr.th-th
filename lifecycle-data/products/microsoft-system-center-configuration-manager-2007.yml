@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ Microsoft 2007
-  description: ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ Microsoft 2007 ตามนโยบายวงจรคง
+  title: Microsoft System Center Configuration Manager 2007
+  description: Microsoft System Center Configuration Manager 2007 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 796670fd93547cc79f69c544085070efb0116650
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843241"
-name: ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ Microsoft 2007
+name: Microsoft System Center Configuration Manager 2007
 summary: >
-  ตัวจัดการการตั้งค่าคอนฟิกศูนย์ระบบ Microsoft 2007 ตามนโยบายวงจร[คง](/lifecycle/policies/fixed)
+  Microsoft System Center Configuration Manager 2007 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - msc
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 11/29/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [ข้อมูลผลิตภัณฑ์](/mem/configmgr/core/understand/introduction)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/mem/configmgr/core/migration/migrate-data-between-hierarchies)\n* [ข้อมูลผลิตภัณฑ์](/mem/configmgr/core/understand/introduction)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)"

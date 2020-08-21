@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ค้นหาอย่างรวดเร็ว 2010 (สําหรับอินเทอร์เน็ตไซต์ สําหรับโปรแกรมประยุกต์ภายใน)
-  description: ค้นหาเร็ว Server 2010 (สําหรับอินเทอร์เน็ตไซต์ สําหรับโปรแกรมประยุกต์ภายใน) ตามนโยบายวงจรชีวิตคงที่
+  title: FAST Search Server 2010 (for Internet Sites, for Internal Applications)
+  description: FAST Search Server 2010 (for Internet Sites, for Internal Applications) เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 86e1732aefb6ae705ff05f1ef7f84e2d14a1feda
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843406"
-name: เซิร์ฟเวอร์ค้นหาอย่างรวดเร็ว 2010 (สําหรับอินเทอร์เน็ตไซต์ สําหรับโปรแกรมประยุกต์ภายใน)
+name: FAST Search Server 2010 (for Internet Sites, for Internal Applications)
 summary: >+
-  ค้นหาเร็ว Server 2010 (สําหรับอินเทอร์เน็ตไซต์ สําหรับโปรแกรมประยุกต์ภายใน) ตามนโยบายวงจรชีวิต[คงที่](/lifecycle/policies/fixed)
+  FAST Search Server 2010 (for Internet Sites, for Internal Applications) เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: โปรแกรมประยุกต์ภายใน, อินเทอร์เน็ตไซต์
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Internal Applications, Internet Sites
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [คําถามที่พบบ่อยเกี่ยวกับวงจรชีวิต - ทั่วไป](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> ยกเว้นรุ่นก่อนหน้านี้ยกเลิกการสนับสนุน การสนับสนุนสําหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการซื้อกิจการ\n\n## <a name=\"editions\"></a>รุ่น \n* การใช้งานภายใน\n* อินเทอร์เน็ตไซต์"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101710)\n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ทั่วไป](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> ไม่รวมเวอร์ชันที่ไม่รองรับก่อนหน้านี้ การสนับสนุนสำหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการจัดซื้อ\n\n## <a name=\"editions\"></a>รุ่น \n* Internal Applications\n* Internet Sites"
