@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ระบบการจัดการการขายปลีก Dynamics 2.0
-  description: Dynamics 2.0 ระบบการจัดการการขายปลีกตามนโยบายวงจรชีวิตแบบคงที่
+  title: Dynamics Retail Management System 2.0
+  description: Dynamics Retail Management System 2.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: e587a27011a62b298f9003be9805c2e01b146057
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842983"
-name: ระบบการจัดการการขายปลีก Dynamics 2.0
+name: Dynamics Retail Management System 2.0
 summary: >+
-  Dynamics 2.0 ระบบการจัดการการขายปลีกตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Dynamics Retail Management System 2.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  การดําเนินการจัดเก็บ
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Headquarters, Store Operations
 
 products:
 - dynamics
@@ -39,4 +39,4 @@ releases:
 - version: Service Pack 1
   startDate: 07/31/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สํานักงานใหญ่\n* การดําเนินงานของร้านค้า"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Headquarters\n* Store Operations"

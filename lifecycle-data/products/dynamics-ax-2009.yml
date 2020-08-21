@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2009 ของ AX ของ Dynamics
-  description: Dynamics AX 2009 ตามนโยบายวงจรการใช้งานแบบคงที่
+  title: Dynamics AX 2009
+  description: Dynamics AX 2009 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 20756fcbadc2386830d4eecb9129443bef1a2bc2
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842738"
-name: 2009 ของ AX ของ Dynamics
+name: Dynamics AX 2009
 summary: >+
-  Dynamics AX 2009 ตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Dynamics AX 2009 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/14/2008
   endDate: 01/11/2011
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [โปรแกรมการโยกย้าย Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [ข้อมูลวงจรชีวิตเพิ่มเติม](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> การสนับสนุนหลักถูกขยายตามที่ปรากฏ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/dynamics365/fin-ops-core/dev-itpro/migration-upgrade/data-migration-tool)\n* [โปรแกรมการย้ายข้อมูล Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [ข้อมูลวงจรการใช้งานเพิ่มเติม](/dynamics365/fin-ops-core/fin-ops/get-started/mainstream-support-ax-2009-2012)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> มีการขยายการสนับสนุนหลักดังที่แสดง"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์ 2007 เกตเวย์ของโปรแกรมประยุกต์อัจฉริยะ
-  description: Microsoft อัจฉริยะแอพลิเคชันเกตเวย์ 2007 ตามนโยบายวงจรชีวิตคงที่
+  title: Microsoft Intelligent Application Gateway 2007
+  description: Microsoft Intelligent Application Gateway 2007 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 6e5cc4784788d27433b7525f6a900cbc1e9f0713
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843383"
-name: ไมโครซอฟท์ 2007 เกตเวย์ของโปรแกรมประยุกต์อัจฉริยะ
+name: Microsoft Intelligent Application Gateway 2007
 summary: >
-  Microsoft อัจฉริยะแอพลิเคชันเกตเวย์ 2007 ตามนโยบายวงจร[ชีวิตคงที่](/lifecycle/policies/fixed)
+  Microsoft Intelligent Application Gateway 2007 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - microsoft-servers
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2007
   endDate: 10/14/2008
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [แผนงาน 2007 สมาร์ทแอพลิเคชันเกตเวย์ของ Microsoft](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [แผนการใช้งาน Microsoft Intelligent Application Gateway 2007](/archive/blogs/testtesttestbug/important-changes-to-the-forefront-product-line)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)"

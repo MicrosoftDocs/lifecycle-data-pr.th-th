@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows XP ฝังตัว
-  description: Windows XP ฝังตัวตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows XP Embedded
+  description: Windows XP Embedded เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 2259d8ae34d4c63ad67bf4966d15bf71f2faa04c
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842793"
-name: Windows XP ฝังตัว
+name: Windows XP Embedded
 summary: >
-  Windows XP ฝังตัวตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Windows XP Embedded เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ซึ่งนําไปใช้กับรุ่นต่อไปนี้: ฝังตัว
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Embedded
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว
 products:
 - windows
 policyType: fixed
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 01/30/2002
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [การสนับสนุน Windows XP ฝังตัว](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ฝัง ตัว"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [การสนับสนุน Windows XP Embedded](https://support.microsoft.com/help/18581)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Embedded"

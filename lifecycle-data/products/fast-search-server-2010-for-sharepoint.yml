@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์การค้นหาอย่างรวดเร็ว 2010 (สําหรับ SharePoint สําหรับไซต์อินเทอร์เน็ตของ SharePoint)
-  description: ค้นหาเซิร์ฟเวอร์ 2010 อย่างรวดเร็ว (สําหรับ SharePoint สําหรับไซต์อินเทอร์เน็ตของ SharePoint) ตามนโยบายวงจรชีวิตแบบคงที่
+  title: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)
+  description: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites) เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 2a2c66a5a5e5b2ffc3fbbf82d4a96803e06ee2e5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843409"
-name: เซิร์ฟเวอร์การค้นหาอย่างรวดเร็ว 2010 (สําหรับ SharePoint สําหรับไซต์อินเทอร์เน็ตของ SharePoint)
+name: FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites)
 summary: >+
-  ค้นหาเซิร์ฟเวอร์ 2010 อย่างรวดเร็ว (สําหรับ SharePoint สําหรับไซต์อินเทอร์เน็ตของ SharePoint) ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  FAST Search Server 2010 (for SharePoint, for SharePoint Internet Sites) เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: สําหรับ SharePoint สําหรับไซต์อินเทอร์เน็ตของ SharePoint
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: for SharePoint, for SharePoint Internet Sites
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/16/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ยกเว้นรุ่นก่อนหน้านี้ยกเลิกการสนับสนุน การสนับสนุนสําหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการซื้อกิจการ\n\n## <a name=\"editions\"></a>รุ่น \n* สําหรับ SharePoint\n* สําหรับไซต์อินเทอร์เน็ตของ SharePoint"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://techcommunity.microsoft.com/t5/Product-Life-Cycle/FAST-products-approaching-the-end-of-extended-support-in-2018/td-p/101711)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> ไม่รวมเวอร์ชันที่ไม่รองรับก่อนหน้านี้ การสนับสนุนสำหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการจัดซื้อ\n\n## <a name=\"editions\"></a>รุ่น \n* for SharePoint\n* for SharePoint Internet Sites"

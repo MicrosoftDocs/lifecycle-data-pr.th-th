@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ป้องกัน Windows สําหรับ Windows Server 2016
-  description: Windows Defender สําหรับ Windows Server 2016 ตามนโยบายวงจรการใช้งานคอมโพเนนต์
+  title: Windows Defender สำหรับ Windows Server 2016
+  description: Windows Defender สำหรับ Windows Server 2016 เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
   ms.date: 07/28/2020
   ms.openlocfilehash: a115c31e3562f17b979200b8da839f873470f6df
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843175"
-name: ป้องกัน Windows สําหรับ Windows Server 2016
+name: Windows Defender สำหรับ Windows Server 2016
 summary: >+
-  Windows Defender สําหรับ Windows Server 2016 ตามนโยบายวงจรการใช้งาน[คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Windows Defender สำหรับ Windows Server 2016 เป็นไปตามนโยบายวงจรการใช้งานของ [คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
 products:
@@ -23,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 10/15/2016
   endDate: 01/12/2027
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [2016 เซิร์ฟเวอร์ของ Windows](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> คอมโพเนนต์นี้เป็นไปตามวงจรการใช้งานของผลิตภัณฑ์หลัก Windows Server 2016"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [Windows Server 2016](/lifecycle/products/windows-server-2016)\n\n> [!NOTE]\n> ส่วนประกอบนี้เป็นไปตามวงจรการใช้งานของผลิตภัณฑ์หลัก Windows Server 2016"

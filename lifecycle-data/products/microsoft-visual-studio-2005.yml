@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์ 2005 Visual Studio
-  description: Microsoft Visual Studio 2005 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Visual Studio 2005
+  description: Microsoft Visual Studio 2005 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 576095a27901552e7a275b0a349ed5e1edee8099
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842677"
-name: ไมโครซอฟท์ 2005 Visual Studio
+name: Microsoft Visual Studio 2005
 summary: >+
-  Microsoft Visual Studio 2005 ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Visual Studio 2005 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: มืออาชีพ, มาตรฐาน, มาตรฐาน, Edition มาตรฐานใบอนุญาตทางวิชาการ, รุ่นทีมสําหรับผู้เชี่ยวชาญด้านฐานข้อมูล, รุ่นทีมสําหรับสถาปนิกซอฟต์แวร์, รุ่นทีมสําหรับนักพัฒนาซอฟต์แวร์, รุ่นทีมสําหรับทดสอบซอฟต์แวร์, ชุดทีม, ทีมทดสอบโหลด Agent, เครื่องมือสําหรับ Microsoft Office System, VB Express, Visual C# Express, Visual C ++ ด่วน, Visual J # Express, Visual Web พัฒนา Express
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Professional, Standard, Standard Edition academic license, Team Edition for Database Professionals, Team Edition for Software Architects, Team Edition for Software Developers, Team Edition for Software Testers, Team Suite, Team Test Load Agent, Tools for the Microsoft Office System, VB Express, Visual C# Express, Visual C++ Express, Visual J# Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2006
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลการสนับสนุนของ Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [คําแนะนําการโยกย้าย](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [ข้อมูลผลิตภัณฑ์ของ Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง\n> [!NOTE]\n> รุ่นทีม 2005 Studio Visual Microsoft สําหรับผู้เชี่ยวชาญด้านฐานข้อมูลที่นําออกใช้บน 2 มีนาคม 2007\n\n## <a name=\"editions\"></a>รุ่น \n* มือ อาชีพ\n* มาตรฐาน\n* ใบอนุญาตวิชาการฉบับมาตรฐาน\n* ทีม Edition สําหรับผู้เชี่ยวชาญด้านฐานข้อมูล\n* รุ่นทีมสําหรับสถาปนิกซอฟต์แวร์\n* ทีมรุ่นสําหรับนักพัฒนาซอฟต์แวร์\n* รุ่นทีมสําหรับการทดสอบซอฟต์แวร์\n* ห้องชุดทีม\n* ทีมทดสอบโหลดเอเจนต์\n* เครื่องมือสําหรับระบบ Microsoft Office\n* เอวี เอ๊กซ์เพรส\n* ภาพด่วน c#\n* ซี++\n* ภาพ J# ด่วน\n* เอ็กซ์เพรสนักพัฒนาเว็บแบบภาพ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลสนับสนุน Visual J#](https://msdn.microsoft.com/vstudio/bb188593)\n* [คำแนะนำในการย้ายข้อมูล](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [ข้อมูลผลิตภัณฑ์ Visual Studio](https://www.VisualStudio.com)\n\n> [!NOTE]\n> การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง\n> [!NOTE]\n> Microsoft Visual Studio 2005 Team Edition for Database Professionals เปิดตัวเมื่อวันที่ 2 มีนาคม ค.ศ. 2007\n\n## <a name=\"editions\"></a>รุ่น \n* Professional\n* Standard\n* Standard Edition academic license\n* Team Edition for Database Professionals\n* Team Edition for Software Architects\n* Team Edition for Software Developers\n* Team Edition for Software Testers\n* Team Suite\n* Team Test Load Agent\n* เครื่องมือสำหรับระบบ Microsoft Office\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual J# Express\n* Visual Web Developer Express"

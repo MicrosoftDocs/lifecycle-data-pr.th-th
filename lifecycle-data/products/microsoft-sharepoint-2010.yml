@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์ SharePoint 2010 (สําหรับอินเทอร์เน็ตไซต์)
-  description: Microsoft SharePoint 2010 (สําหรับอินเทอร์เน็ตไซต์) ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft SharePoint 2010 (for Internet Sites)
+  description: Microsoft SharePoint 2010 (for Internet Sites) เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 91cbc237303d2c4f7f73f93be5375206006b7909
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843253"
-name: ไมโครซอฟท์ SharePoint 2010 (สําหรับอินเทอร์เน็ตไซต์)
+name: Microsoft SharePoint 2010 (for Internet Sites)
 summary: >+
-  Microsoft SharePoint 2010 (สําหรับอินเทอร์เน็ตไซต์) ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft SharePoint 2010 (for Internet Sites) เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ใช้กับรุ่นต่อไปนี้: สําหรับองค์กรอินเทอร์เน็ตไซต์ สําหรับมาตรฐานไซต์อินเทอร์เน็ต
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: for Internet Sites Enterprise, for Internet Sites Standard
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 06/15/2010
   endDate: 04/13/2021
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [เอกสารผลิตภัณฑ์](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [เอกสารสําหรับนักพัฒนา](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> วันที่สิ้นสุดการสนับสนุนของผลิตภัณฑ์นี้ได้รับการขยายเวลาจาก 13 ตุลาคม 2020 ถึง 13 เมษายน 2021\n\n## <a name=\"editions\"></a>รุ่น \n* สําหรับองค์กรอินเทอร์เน็ตไซต์\n* สําหรับอินเทอร์เน็ตไซต์มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [เอกสารประกอบผลิตภัณฑ์](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n* [เอกสารประกอบสําหรับนักพัฒนา](/previous-versions/office/developer/sharepoint-2010/ee557253(v=office.14))\n\n> [!NOTE]\n> วันที่สิ้นสุดการบริการของผลิตภัณฑ์นี้ได้รับการขยายจาก 13 ตุลาคม 2020 เป็น 13 เมษายน 2021\n\n## <a name=\"editions\"></a>รุ่น \n* for Internet Sites Enterprise\n* for Internet Sites Standard"

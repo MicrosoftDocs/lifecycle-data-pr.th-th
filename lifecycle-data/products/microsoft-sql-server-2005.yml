@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์ 2005 เซิร์ฟเวอร์ SQL
-  description: Microsoft SQL Server 2005 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft SQL Server 2005
+  description: Microsoft SQL Server 2005 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: cbfadc2995b179c7ee286f02fb5e78cc01d7db8f
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842837"
-name: ไมโครซอฟท์ 2005 เซิร์ฟเวอร์ SQL
+name: Microsoft SQL Server 2005
 summary: >
-  Microsoft SQL Server 2005 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft SQL Server 2005 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ใช้กับรุ่นต่อไปนี้: กระชับ, นักพัฒนา, ฝังตัว, องค์กร, องค์กรสําหรับระบบที่ใช้ Itanium, องค์กร X64, Express, Express กับบริการขั้นสูง, มาตรฐาน, มาตรฐานสําหรับระบบที่ใช้ Itanium, มาตรฐาน X64, กลุ่มงาน
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Compact, Developer, Embedded, Enterprise, Enterprise for Itanium-based Systems, Enterprise X64, Express, Express with Advanced Services, Standard, Standard for Itanium-based Systems, Standard X64, Workgroup
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - sql-server
 policyType: fixed
@@ -43,4 +43,4 @@ releases:
 - version: Original Release
   startDate: 01/14/2006
   endDate: 07/10/2007
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> รุ่นกระชับ 2005 เซิร์ฟเวอร์ SQL ของ Microsoft ออก 19 กุมภาพันธ์ 2007\n\n## <a name=\"editions\"></a>รุ่น \n* กระชับ ข้อมูล\n* นัก พัฒนา\n* ฝัง ตัว\n* องค์กร\n* องค์กรสําหรับระบบ Itanium ตาม\n* เอ็นเตอร์ไพรส์ X64\n* Express\n* บริการขั้นสูง\n* มาตรฐาน\n* มาตรฐานสําหรับระบบที่ใช้ Itanium\n* มาตรฐาน X64\n* เวิร์ก กรุ๊ป"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/sql/sql-server/end-of-support/sql-server-end-of-life-overview)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> Microsoft SQL Server 2005 Compact Edition ได้รับการเปิดตัวเมื่อวันที่ 19 กุมภาพันธ์ ค.ศ. 2007\n\n## <a name=\"editions\"></a>รุ่น \n* Compact\n* Developer\n* Embedded\n* Enterprise\n* Enterprise for Itanium-based Systems\n* Enterprise X64\n* Express\n* Express with Advanced Services\n* Standard\n* Standard for Itanium-based Systems\n* Standard X64\n* Workgroup"

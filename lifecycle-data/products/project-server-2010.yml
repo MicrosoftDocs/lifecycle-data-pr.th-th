@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์โครงการ 2010
-  description: โครงการ Server 2010 ตามนโยบายวงจรชีวิตคงที่
+  title: Project Server 2010
+  description: Project Server 2010 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 6c04194a3d405101429475ce7fd4561743790151
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842676"
-name: เซิร์ฟเวอร์โครงการ 2010
+name: Project Server 2010
 summary: >+
-  โครงการ Server 2010 ตามนโยบายวงจร[ชีวิตคงที่](/lifecycle/policies/fixed)
+  Project Server 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [ส่วนขยายการสนับสนุน](https://aka.ms/SharePoint/server/2010/supportextension)\n* [แผนงานเซิร์ฟเวอร์โครงการ](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> วันที่สิ้นสุดการสนับสนุนของผลิตภัณฑ์นี้ได้รับการขยายเวลาจาก 13 ตุลาคม 2020 ถึง 13 เมษายน 2021"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/office365/enterprise/upgrade-from-sharepoint-2010)\n* [การขยายการสนับสนุน](https://aka.ms/SharePoint/server/2010/supportextension)\n* [แผนการใช้งาน Project Server](/office365/enterprise/project-server-2010-end-of-support)\n\n> [!NOTE]\n> วันที่สิ้นสุดการบริการของผลิตภัณฑ์นี้ได้รับการขยายจาก 13 ตุลาคม 2020 เป็น 13 เมษายน 2021"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: สตูดิโอภาพ 2010
-  description: 2010 Studio ที่มองเห็นตามนโยบายวงจรชีวิตแบบคงที่
+  title: Visual Studio 2010
+  description: Visual Studio 2010 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 30c112ab23bba45aaec60660ab85c362bcebf030
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842810"
-name: สตูดิโอภาพ 2010
+name: Visual Studio 2010
 summary: >+
-  2010 Studio ที่มองเห็นตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Visual Studio 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ใช้กับรุ่นต่อไปนี้: เอเจนต์, ทั้งหมด, ASP .NET MVC 4, Express, F# 2.0 รันไทม์, การจัดการห้องปฏิบัติการ, เครื่องมือประสิทธิภาพการทํางาน, พรีเมี่ยม, มืออาชีพ, ดีบักเกอร์ระยะไกล, SDK, เชลล์ (รวม)&, เชลล์ (รวม),
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, VB Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ตัว แทน จำหน่าย\n* ทั้ง หมด\n* ASP .NET MVC 4\n* Express\n* เวลา F # 2.0\n* การจัดการห้องปฏิบัติการ\n* เครื่องมือประสิทธิภาพการทํางาน\n* พรี เมี่ ยม\n* มือ อาชีพ\n* ดีบักเกอร์ระยะไกล\n* Sdk\n* เชลล์ (ในตัว)\n* เชลล์ (แยก)\n* ตัวแทนทีม\n* สํารวจทีม\n* มืออาชีพการทดสอบ\n* เครื่องมือสําหรับระบบ Office 4.0 รันไทม์\n* สูง สุด\n* เอวี เอ๊กซ์เพรส\n* ภาพด่วน c#\n* ซี++\n* เอ็กซ์เพรสนักพัฒนาเว็บแบบภาพ\n* การสร้างแบบจําลอง&การแสดงภาพ SDK"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Agents\n* ทั้งหมด\n* ASP .NET MVC 4\n* Express\n* F# 2.0 Runtime\n* Lab Management\n* Performance Tools\n* Premium\n* Professional\n* Remote Debugger\n* SDK\n* Shell (Integrated)\n* Shell (Isolated)\n* Team Agents\n* Team Explorer\n* Test Professional\n* Tools for Office System 4.0 Runtime\n* Ultimate\n* VB Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express\n* Visualization & Modeling SDK"

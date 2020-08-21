@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: "10.0"
+  title: Dynamics GP 10.0
   description: Dynamics GP 10.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 2cf687c6b390751074f0c89bbbd354f19257a5fe
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843422"
-name: "10.0"
+name: Dynamics GP 10.0
 summary: >+
-  Dynamics GP 10.0 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Dynamics GP 10.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -40,4 +40,4 @@ releases:
 - version: Original Release
   startDate: 08/04/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n* [คําแนะนําการโยกย้าย](/dynamics-gp/upgrade/introduction)\n\n> [!NOTE]\n> ผลิตภัณฑ์นี้ไม่รองรับ โปรดดูข้อมูลการย้ายข้อมูลด้านล่าง"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n* [คำแนะนำในการย้ายข้อมูล](/dynamics-gp/upgrade/introduction)\n\n> [!NOTE]\n> ผลิตภัณฑ์นี้ไม่ได้รับการสนับสนุน โปรดดูข้อมูลการย้ายข้อมูลด้านล่าง"

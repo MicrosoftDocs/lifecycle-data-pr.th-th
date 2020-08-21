@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 3.0 บริการปรับปรุงเซิร์ฟเวอร์ Windows
-  description: 3.0 บริการการปรับปรุงเซิร์ฟเวอร์ windows ตามนโยบายวงจรคง
+  title: Windows Server Update Services 3.0
+  description: Windows Server Update Services 3.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: b5e6ed046b5497010706f64c93962f1c4af0e2a0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843515"
-name: 3.0 บริการปรับปรุงเซิร์ฟเวอร์ Windows
+name: Windows Server Update Services 3.0
 summary: >
-  3.0 บริการการปรับปรุงเซิร์ฟเวอร์ windows ตามนโยบายวงจร[คง](/lifecycle/policies/fixed)
+  Windows Server Update Services 3.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+  > การสนับสนุนสิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - windows
 policyType: fixed
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2007
   endDate: 07/14/2009
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> การสนับสนุนถูกขยายจาก 7/11/2017 เป็น 1/14/2020"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://technet.microsoft.com/library/mt772341%28WS.11%29.aspx)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> การสนับสนุนถูกขยายออกไปตั้งแต่วันที่ 7/11/2017 จนถึงวันที่ 1/14/2020"

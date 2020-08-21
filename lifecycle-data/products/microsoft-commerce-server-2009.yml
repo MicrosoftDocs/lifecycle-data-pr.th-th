@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ Microsoft พาณิชย์ 2009
-  description: เซิร์ฟเวอร์ Microsoft พาณิชย์ 2009 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Commerce Server 2009
+  description: Microsoft Commerce Server 2009 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: ca4dbecaf633f9551ab9af5e9a7fec7b0fe9f99e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843316"
-name: เซิร์ฟเวอร์ Microsoft พาณิชย์ 2009
+name: Microsoft Commerce Server 2009
 summary: >
-  เซิร์ฟเวอร์ Microsoft พาณิชย์ 2009 ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Commerce Server 2009 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: องค์กรมาตรฐาน
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว
 products:
 - microsoft-servers
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 04/23/2009
   endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ภาพรวมสถาปัตยกรรมของ Dynamics 365 Commerce](/dynamics365/commerce/commerce-architecture)\n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n\n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ภาพรวมโครงสร้างของ Dynamics 365 Commerce](/dynamics365/commerce/commerce-architecture)\n* [Azure](https://azure.microsoft.com/free/virtual-network/search/?OCID=AID2000128_SEM_Xp_oegAAAFhodQoD:20200628234515:s&msclkid=96a2c292042b18351aec9c6b2f5bfc8d&ef_id=Xp_oegAAAFhodQoD:20200628234515:s&dclid=CJrU8sXYpeoCFQ5kfgodDnQP4A)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Enterprise\n* Standard"

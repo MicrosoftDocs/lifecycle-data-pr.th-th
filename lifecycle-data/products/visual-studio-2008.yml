@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: สตูดิโอภาพ 2008
-  description: 2008 Studio ที่มองเห็นตามนโยบายวงจรชีวิตแบบคงที่
+  title: Visual Studio 2008
+  description: Visual Studio 2008 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 2c78c508275eda64e51e80bb21e954944bd86404
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842811"
-name: สตูดิโอภาพ 2008
+name: Visual Studio 2008
 summary: >+
-  2008 Studio ที่มองเห็นตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Visual Studio 2008 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ใช้กับรุ่นต่อไปนี้: ทั้งหมด Pro w/MSDN Premium มืออาชีพ w/MSDN มืออาชีพชุดทีมตัวแทนโหลดการทดสอบทีม VB Express, Express Visual Basic, Visual c# Express, Express c ++ Visual, Visual Web นักพัฒนา Express
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: All, Pro w/MSDN Premium, Professional, Professional w/MSDN , Team Suite, Team Test Load Agent, VB Express, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 products:
 - vs
@@ -30,4 +30,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> รวม Visual c ++ Express, Visual Express c#, VB Express, แสดงเว็บ Visual นักพัฒนาด่วน และ Visual Studio ระบบรุ่น\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้ง หมด\n* โปร w / พรีเมี่ยม MSDN\n* มือ อาชีพ\n* มืออาชีพ w / MSDN \n* ห้องชุดทีม\n* ทีมทดสอบโหลดเอเจนต์\n* เอวี เอ๊กซ์เพรส\n* เอ็กซ์เพรสพื้นฐาน\n* ภาพด่วน c#\n* ซี++\n* เอ็กซ์เพรสนักพัฒนาเว็บแบบภาพ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year/)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> รวมถึงรุ่น Visual C++ Express, Visual C# Express, VB Express, Visual Web Developer Express, and Visual Studio Team System\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้งหมด\n* Pro w/MSDN Premium\n* Professional\n* Professional w/MSDN \n* Team Suite\n* Team Test Load Agent\n* VB Express\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

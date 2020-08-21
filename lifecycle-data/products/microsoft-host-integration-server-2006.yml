@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2006
-  description: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2006 ตามนโยบายวงจรคง
+  title: Microsoft Host Integration Server 2006
+  description: Microsoft Host Integration Server 2006 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: bb7b9894a034924a5ddeb112c903ae6891321264
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842971"
-name: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2006
-summary: "เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2006 ตามนโยบายวงจร[คง](/lifecycle/policies/fixed)\n\nสิ่งนี้ใช้กับรุ่นต่อไปนี้: นักพัฒนา, มาตรฐาน\n\n> [!IMPORTANT]\n> การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง \n"
+name: Microsoft Host Integration Server 2006
+summary: "Microsoft Host Integration Server 2006 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)\n\nสิ่งนี้ใช้กับรุ่นต่อไปนี้: Developer, Standard\n\n> [!IMPORTANT]\n> การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/27/2007
   endDate: 04/12/2011
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* นัก พัฒนา\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://blogs.msdn.microsoft.com/hostintegrationserver/2016/09/06/end-of-support-for-host-integration-server-2006)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Developer\n* Standard"

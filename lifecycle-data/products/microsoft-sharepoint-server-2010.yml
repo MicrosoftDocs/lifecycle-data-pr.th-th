@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ของ SharePoint 2010
-  description: Microsoft SharePoint Server 2010 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft SharePoint Server 2010
+  description: Microsoft SharePoint Server 2010 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 71adef7342f1471a67bd170430b3470dc6ea1a87
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842688"
-name: เซิร์ฟเวอร์ของ SharePoint 2010
+name: Microsoft SharePoint Server 2010
 summary: >+
-  Microsoft SharePoint Server 2010 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft SharePoint Server 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ซึ่งนําไปใช้กับรุ่นต่อไปนี้: บริการการเข้าถึง, บริการ Excel ทั้งหมด, บริการจุดประสิทธิภาพ
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Access Services, All applicable, Excel Services, Performance Point Services
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 07/10/2012
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ส่วนขยายการสนับสนุน](https://aka.ms/SharePoint/server/2010/supportextension)\n* [คําแนะนําการโยกย้าย](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> วันที่สิ้นสุดการสนับสนุนของผลิตภัณฑ์นี้ได้รับการขยายเวลาจาก 13 ตุลาคม 2020 ถึง 13 เมษายน 2021\n\n## <a name=\"editions\"></a>รุ่น \n* บริการเข้าถึง\n* ทั้งหมดที่ใช้บังคับ\n* บริการ Excel\n* บริการจุดประสิทธิภาพ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [การขยายการสนับสนุน](https://aka.ms/SharePoint/server/2010/supportextension)\n* [คำแนะนำในการย้ายข้อมูล](/office365/enterprise/upgrade-from-sharepoint-2010)\n\n> [!NOTE]\n> วันที่สิ้นสุดการบริการของผลิตภัณฑ์นี้ได้รับการขยายจาก 13 ตุลาคม 2020 เป็น 13 เมษายน 2021\n\n## <a name=\"editions\"></a>รุ่น \n* Access Services\n* ทั้งหมดที่เกี่ยวข้อง\n* Excel Services\n* Performance Point Services"
