@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Mediaroom
+  description: Microsoft Mediaroom ต่อไปนี้ตามนโยบายวัฏจักรที่ได้รับการแก้ไข
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 811ad478d76a023e8bfc6d610114e84b209529db
+  ms.sourcegitcommit: b887dde29aba4827223427ffe2a108bb0b7f8a2f
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "907310"
+name: Microsoft Mediaroom
+summary: >+
+  Microsoft Mediaroom ต่อไปนี้ตามนโยบายวัฏจักรที่ได้รับการ[แก้ไข](/lifecycle/policies/fixed)
+
+
+  ซึ่งจะนำไปใช้กับรุ่นต่อไปนี้: แอปพลิเคชัน Services ๑.๐, ไคลเอ็นต์๒.๐, ไคลเอ็นต์๒.๑, Server ๒.๐, Server ๒.๑
+
+products:
+- windows
+policyType: fixed-mainstream-only
+supportDates:
+  start: 08/03/2010
+releases:
+- version: Original Release
+  startDate: 08/03/2010
+content: "\n\n> [!NOTE]\n> อีริคสันที่ได้รับผลิตภัณฑ์ Microsoft Mediaroom ใน๒๐๑๓ สำหรับข้อมูลเพิ่มเติมโปรดดูที่ข่าว [ประชา](http://www.ericsson.com/news/1691160)สัมพันธ์ สำหรับลูกค้าที่ต้องการความช่วยเหลือโปรดไป[ที่นี่](https://sharepoint.partners.extranet.microsoft.com/sites/mediaroom/informationresources/lifecycle.aspx)\n> [!NOTE]\n> Microsoft Mediaroom Client ๒.๑ได้รับการเผยแพร่เมื่อวันที่27ธันวาคม๒๐๑๑ \n\n## <a name=\"editions\"></a>รุ่น \n* แอปพลิเคชันบริการ๑.๐\n* ไคลเอ็นต์๒.๐\n* ไคลเอ็นต์๒.๑\n* เซิร์ฟเวอร์๒.๐\n* เซิร์ฟเวอร์๒.๑"
