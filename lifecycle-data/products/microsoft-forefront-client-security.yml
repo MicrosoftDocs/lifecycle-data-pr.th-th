@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ความปลอดภัยของไคลเอ็นต์ Microsoft Forefront
+  description: ความปลอดภัยของไคลเอ็นต์ Microsoft Forefront ต่อไปนี้นโยบายวัฏจักรที่คงที่
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 802c6836324ac39b0b8ffc99c1f7f6734906445b
+  ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 08/25/2020
+  ms.locfileid: "908940"
+name: ความปลอดภัยของไคลเอ็นต์ Microsoft Forefront
+summary: >+
+  ความปลอดภัยของไคลเอ็นต์ Microsoft Forefront ต่อไปนี้นโยบายวัฏจักรที่ [คง](/lifecycle/policies/fixed) ที่
+
+
+products:
+- msc
+policyType: fixed
+supportDates:
+  start: 08/02/2007
+  extendedEnd: 07/14/2015
+releases:
+- version: Original Release
+  startDate: 08/02/2007
+  endDate: 07/14/2015
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [การป้องกันจุดสิ้นสุดของศูนย์ระบบ](http://www.microsoft.com/server-cloud/products/system-center-2012-r2-configuration-manager/default.aspx)\n\n> [!NOTE]\n> การรักษาความปลอดภัยของไคลเอ็นต์ Forefront ถูกยกเลิก การสนับสนุนสิ้นสุดวันที่14กรกฎาคม๒๐๑๕ การอัปเดตคำนิยาม Antimalware และป้องกันสปายแวร์จะไม่พร้อมใช้งานอีกต่อไปหลังจากสิ้นสุดการสนับสนุนสำหรับเวอร์ชันผลิตภัณฑ์ โปรดประเมินการป้องกันจุดสิ้นสุดของศูนย์กลางระบบเป็นการแทนที่"
