@@ -1,0 +1,30 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Microsoft Visual FoxPro ๘.๐รุ่นสำหรับมืออาชีพ
+  description: เวอร์ชัน Professional ของ Microsoft Visual FoxPro ๘.๐ต่อไปนี้ตามนโยบายวัฏจักรที่คงที่
+  ms.date: 08/21/2020
+  ms.openlocfilehash: 4552c757cfb8eddcd64d909a1f9cb556f2255de2
+  ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 08/21/2020
+  ms.locfileid: "908115"
+name: Microsoft Visual FoxPro ๘.๐รุ่นสำหรับมืออาชีพ
+summary: >+
+  เวอร์ชัน Professional ของ Microsoft Visual FoxPro ๘.๐ต่อไปนี้ตามนโยบายวัฏจักรที่ [คง](/lifecycle/policies/fixed) ที่
+
+
+  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: Professional
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 03/12/2003
+  end: 04/08/2008
+  extendedEnd: 04/09/2013
+releases:
+- version: Original Release
+  startDate: 03/12/2003
+  endDate: 04/09/2013
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* Professional"
