@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: ข้อมูลเชิงลึกเกี่ยวกับผลิตภัณฑ์ Dynamics ๓๖๕
+  description: ข้อมูลเชิงลึกของผลิตภัณฑ์ Dynamics ๓๖๕จะเป็นไปตามนโยบายวัฏจักรสมัยใหม่
+  ms.date: 08/25/2020
+  ms.openlocfilehash: 96ad93ad104312327e146d10a83d6b42943ab714
+  ms.sourcegitcommit: d28d18dd801693302858cb5086cabb3a5d2083f3
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 08/26/2020
+  ms.locfileid: "911450"
+name: ข้อมูลเชิงลึกเกี่ยวกับผลิตภัณฑ์ Dynamics ๓๖๕
+summary: >+
+  ข้อมูลเชิงลึกของผลิตภัณฑ์ Dynamics ๓๖๕จะเป็นไปตามนโยบายวัฏจักร[สมัยใหม่](/lifecycle/policies/modern)
+
+
+products:
+- dynamics
+policyType: modern-online
+supportDates:
+  start: 10/01/2019
+releases:
+- version: Original Release
+  startDate: 10/01/2019
+content: ''
