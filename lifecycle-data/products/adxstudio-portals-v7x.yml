@@ -1,0 +1,27 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Adxstudio พอร์ทัล v7
+  description: Adxstudio พอร์ทัล v7 จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 08/28/2020
+  ms.openlocfilehash: 5b9bb57b3e2e036f484196a07dcf60aa0e8912e1
+  ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 08/28/2020
+  ms.locfileid: "924450"
+name: Adxstudio พอร์ทัล v7
+summary: >+
+  Adxstudio พอร์ทัล v7 จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+
+
+products:
+- dynamics
+policyType: fixed
+supportDates:
+  start: 09/29/2015
+  extendedEnd: 08/01/2018
+releases:
+- version: v7.x
+  startDate: 09/29/2015
+  endDate: 08/01/2018
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://cloudblogs.microsoft.com/dynamics365/it/2017/09/14/changes-coming-for-legacy-adxstudio-portals-v7/?source=crm)\n\n> [!NOTE]\n> การสนับสนุนสำหรับผลิตภัณฑ์นี้อยู่ภายใต้ข้อกำหนดของการซื้อและสิ้นสุดลง ดูคำแนะนำในการย้ายข้อมูลด้านล่าง"
