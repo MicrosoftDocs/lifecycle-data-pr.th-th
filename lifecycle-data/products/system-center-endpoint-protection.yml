@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: การป้องกันจุดสิ้นสุดของศูนย์ระบบ
+  description: การป้องกันจุดสิ้นสุดของศูนย์ระบบต่อไปนี้นโยบายวัฏจักรสมัยใหม่
+  ms.date: 08/28/2020
+  ms.openlocfilehash: 2b8878c629a27bc6960a9cbceb4447b7757e61d2
+  ms.sourcegitcommit: 90c2bb5823fb637bc42baaba1512486144104f70
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 08/31/2020
+  ms.locfileid: "924687"
+name: การป้องกันจุดสิ้นสุดของศูนย์ระบบ
+summary: >+
+  การป้องกันจุดสิ้นสุดของศูนย์ระบบต่อไปนี้นโยบายวัฏจักร[สมัยใหม่](/lifecycle/policies/modern)
+
+
+products:
+- msc
+policyType: modern-on-prem
+supportDates:
+  start: 12/08/2015
+releases:
+- version: Original Release
+  startDate: 12/08/2015
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [การสนับสนุนสำหรับเวอร์ชันการป้องกันจุดสิ้นสุดของศูนย์ระบบ (เดิมเรียกว่าตัวจัดการการกำหนดค่าสาขาปัจจุบัน)](/mem/configmgr/core/servers/manage/current-branch-versions-supported?redirectedfrom=MSDN)"
