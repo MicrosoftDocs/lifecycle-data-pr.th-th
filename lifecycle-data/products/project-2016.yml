@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: โครงการ 2559
-  description: โครงการ 2016 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 83433460cac12bdaace5894520903d80636483ab
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Project ๒๐๑๖
+  description: Project ๒๐๑๖จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: Professional,Standard
+  ms.openlocfilehash: 5d4110f5d6f16efd84205e08dc375cdd839c3220
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864443"
-name: โครงการ 2559
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "926552"
+name: Project ๒๐๑๖
 summary: >+
-  โครงการ 2016 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Project ๒๐๑๖จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: มืออาชีพ, มาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Professional, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/14/2025
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* มือ อาชีพ\n* มาตรฐาน"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* Professional\n* Standard"
