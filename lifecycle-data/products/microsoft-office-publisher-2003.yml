@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์สํานักพิมพ์ 2003
-  description: Microsoft Office Publisher 2003 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: dc74fbb4c7ad1e9d6e27b507d00c15aadd1665dc
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Office Publisher ๒๐๐๓
+  description: Microsoft Office Publisher ๒๐๐๓จะทำตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: Standard,with Digital Imaging
+  ms.openlocfilehash: 02171136d8f297220ab847aa34d70f61e3264555
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843268"
-name: ไมโครซอฟท์สํานักพิมพ์ 2003
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930363"
+name: Microsoft Office Publisher ๒๐๐๓
 summary: >+
-  Microsoft Office Publisher 2003 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Office Publisher ๒๐๐๓จะทำตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: มาตรฐาน, กับการถ่ายภาพดิจิตอล
+  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: มาตรฐานพร้อมด้วยการถ่ายภาพดิจิทัล
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/24/2003
   endDate: 04/08/2014
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* มาตรฐาน\n* กับการถ่ายภาพดิจิตอล"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* Standard\n* ด้วยการถ่ายภาพดิจิตอล"

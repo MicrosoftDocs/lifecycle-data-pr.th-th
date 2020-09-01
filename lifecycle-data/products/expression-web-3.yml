@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: นิพจน์ 3
-  description: นิพจน์ 3 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9544cb1ac337a36e0e9d12b4afde25d392bdd767
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: นิพจน์3
+  description: นิพจน์3เป็นไปตามนโยบายวงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio,Web
+  ms.openlocfilehash: 406642d42292645f0a1f233b77937ba831d08671
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842726"
-name: นิพจน์ 3
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930770"
+name: นิพจน์3
 summary: >+
-  นิพจน์ 3 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  นิพจน์3เป็นไปตามนโยบายวงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: ออกแบบ, Encoder, Studio, Web
+  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: การออกแบบ, ตัวเข้ารหัส, Studio, Web
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/19/2009
   endDate: 01/14/2020
-content: "\n\n> [!NOTE]\n> วันที่เริ่มต้นสําหรับนิพจน์การออกแบบ 3 คือ 19 พฤศจิกายน 2009 \n\n## <a name=\"editions\"></a>รุ่น \n* ดี ไซน์ โดด เด่น\n* ตัวเข้ารหัส\n* สตูดิโอ\n* เว็บ"
+content: "\n\n> [!NOTE]\n> วันที่เริ่มต้นสำหรับนิพจน์การออกแบบ3คือ19พฤศจิกายน๒๐๐๙ \n\n## <a name=\"editions\"></a>รุ่น \n* แบบ\n* ตัว\n* Studio\n* Web"

@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: นิพจน์ 4
-  description: นิพจน์ 4 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: d043cbcae1ace9a561a53c39af5458bae79b4919
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: นิพจน์4
+  description: นิพจน์ที่4เป็นไปตามนโยบายวัฏจักรแบบคงที่
+  ms.date: 09/01/2020
+  keywords: Design,Encoder,Studio Ultimate,Web
+  ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842727"
-name: นิพจน์ 4
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930881"
+name: นิพจน์4
 summary: >+
-  นิพจน์ 4 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  นิพจน์ที่4เป็นไปตามนโยบายวัฏจักรแบบ [คง](/lifecycle/policies/fixed) ที่
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: ออกแบบ, Encoder, สตูดิโอ Ultimate, เว็บ
+  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: การออกแบบ, ตัวเข้ารหัส, สตูดิโอที่ดีที่สุด, เว็บ
 
 products:
 - expression
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> จุดสิ้นสุดของการสนับสนุนหลักสําหรับนิพจน์สตูดิโอที่ดีที่สุด 4 คือ 13 ตุลาคม 2015\n\n## <a name=\"editions\"></a>รุ่น \n* ดี ไซน์ โดด เด่น\n* ตัวเข้ารหัส\n* สตูดิโอสุดยอด\n* เว็บ"
+content: "\n\n> [!NOTE]\n> จุดสิ้นสุดของการสนับสนุนหลักสำหรับนิพจน์ Studio ที่ดีที่สุดคือวันที่13ตุลาคม๒๐๑๕\n\n## <a name=\"editions\"></a>รุ่น \n* แบบ\n* ตัว\n* สตูดิโอที่ดีที่สุด\n* Web"
