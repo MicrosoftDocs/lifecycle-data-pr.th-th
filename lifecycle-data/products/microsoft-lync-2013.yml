@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Lync 2013
-  description: Lync 2013 ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 009c0c9a5f3eae47f5abd1b83b81dcc98bba3482
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Lync ๒๐๑๓
+  description: Lync ๒๐๑๓เป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: SDK,Standard
+  ms.openlocfilehash: a5523cba92283c421c42d23d9753864a0408bf01
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864469"
-name: Lync 2013
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "933360"
+name: Lync ๒๐๑๓
 summary: >+
-  Lync 2013 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Lync ๒๐๑๓เป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
 
-  ใช้กับรุ่นต่อไปนี้: SDK มาตรฐาน
+  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: SDK, Standard
 
 products:
 - office
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/11/2023
-content: "\n\n> [!NOTE]\n> Skype สําหรับรีลีสไคลเอ็นต์ 2015 ธุรกิจมีการปรับปรุงไปยังไคลเอนต์ Lync 2013 และจะทําตามวงจรผลิตภัณฑ์เดียวกัน\nวันที่เริ่มต้นสําหรับ Lync 2013 SDK คือ 23 กุมภาพันธ์ 2013 \n\n## <a name=\"editions\"></a>รุ่น \n* Sdk\n* มาตรฐาน"
+content: "\n\n> [!NOTE]\n> การวางจำหน่ายไคลเอ็นต์ Skype for Business ๒๐๑๕เป็นการอัปเดตเป็นไคลเอ็นต์ Lync ๒๐๑๓และจะทำตามวงจรผลิตภัณฑ์เดียวกัน\nวันที่เริ่มต้นสำหรับ Lync ๒๐๑๓ SDK คือ23กุมภาพันธ์๒๐๑๓ \n\n## <a name=\"editions\"></a>รุ่น \n* SDK\n* Standard"
