@@ -2,13 +2,14 @@
 metadata:
   title: Windows Small Business Server 2008
   description: Windows Small Business Server 2008 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: ca524a5b2238d362198454212c1b53d9946cdb05
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 09/01/2020
+  keywords: Premium,Standard
+  ms.openlocfilehash: 947f1cc48a1ef1b5397103a64ce7fb2f3e52db2d
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: HT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842798"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939206"
 name: Windows Small Business Server 2008
 summary: "Windows Small Business Server 2008 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)\n\nสิ่งนี้ใช้กับรุ่นต่อไปนี้: พรีเมียม และมาตรฐาน\n\n> [!IMPORTANT]\n> การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว \n\nวันที่สนับสนุนสำหรับแพ็กเกจผลิตภัณฑ์นี้จะกำหนดโดยวงจรการใช้งานของผลิตภัณฑ์แต่ละคอมโพเนนต์ โปรดตรวจสอบวงจรการใช้งานของผลิตภัณฑ์แต่ละคอมโพเนนต์เพื่อระบุระยะเวลาการสนับสนุน\n"
 products:

@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์ Visual Basic สุทธิ 2003
-  description: Microsoft Visual Basic .NET 2003 ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: aa66f6d0e0a3cd91eb4a22845d303643d8482004
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Visual Basic .NET ๒๐๐๓
+  description: Microsoft Visual Basic .NET ๒๐๐๓เป็นไปตามนโยบายวงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: a709317781cb79dd954af31cb81d916d4476b0ab
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843220"
-name: ไมโครซอฟท์ Visual Basic สุทธิ 2003
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "938170"
+name: Microsoft Visual Basic .NET ๒๐๐๓
 summary: >+
-  Microsoft Visual Basic .NET 2003 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Visual Basic .NET ๒๐๐๓เป็นไปตามนโยบายวงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
 
-  ซึ่งใช้กับรุ่นต่อไปนี้: มาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Standard
 
 products:
 - vs
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/10/2003
   endDate: 10/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* มาตรฐาน"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* Standard"
