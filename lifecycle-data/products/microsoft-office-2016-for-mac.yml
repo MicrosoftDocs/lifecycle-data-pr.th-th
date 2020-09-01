@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์สํานักงาน 2016 สําหรับ Mac
-  description: Microsoft Office 2016 for Mac เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 8d2998bebb75602990459d9d60060f04cc516e03
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: Microsoft Office ๒๐๑๖ for Mac
+  description: Microsoft Office ๒๐๑๖ for Mac จะเป็นไปตามนโยบายวงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: Home and Business,Home and Student,Standard
+  ms.openlocfilehash: b92cf0db708d566826b8d260ef9026bc308c41ce
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864795"
-name: ไมโครซอฟท์สํานักงาน 2016 สําหรับ Mac
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "936320"
+name: Microsoft Office ๒๐๑๖ for Mac
 summary: >+
-  Microsoft Office 2016 for Mac เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Office ๒๐๑๖ for Mac จะเป็นไปตามนโยบายวงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: บ้านและธุรกิจ, บ้านและนักเรียน, มาตรฐาน
+  การดำเนินการนี้จะนำไปใช้กับรุ่นต่อไปนี้: Home และ Business, Home และ Student, Standard
 
 products:
 - office
@@ -26,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 09/22/2015
   endDate: 10/13/2020
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* บ้านและธุรกิจ\n* บ้านและนักเรียน\n* มาตรฐาน"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* Home and Business\n* Home and Student\n* Standard"
