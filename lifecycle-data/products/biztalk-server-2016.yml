@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2016 เซิร์ฟเวอร์ BizTalk
-  description: 2016 เซิร์ฟเวอร์ BizTalk ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0cce3539c4760d2472891e36f8edfa267a44c7ac
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: BizTalk Server ๒๐๑๖
+  description: BizTalk Server ๒๐๑๖จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: Branch,Developer,Enterprise,Standard
+  ms.openlocfilehash: 1442cb807ade39555954dc0f2fba82434027cb2c
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864338"
-name: 2016 เซิร์ฟเวอร์ BizTalk
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "932176"
+name: BizTalk Server ๒๐๑๖
 summary: >+
-  2016 เซิร์ฟเวอร์ BizTalk ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  BizTalk Server ๒๐๑๖จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: สาขา, นักพัฒนา, องค์กร, มาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Branch, Developer, Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 12/01/2016
   endDate: 01/11/2027
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/biztalk/install-and-config-guides/biztalk-server-2016-what-s-new-and-installation)\n\n\n## <a name=\"editions\"></a>รุ่น \n* สาขา\n* นัก พัฒนา\n* องค์กร\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์](/biztalk/install-and-config-guides/biztalk-server-2016-what-s-new-and-installation)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Branch\n* Developer\n* Enterprise\n* Standard"
