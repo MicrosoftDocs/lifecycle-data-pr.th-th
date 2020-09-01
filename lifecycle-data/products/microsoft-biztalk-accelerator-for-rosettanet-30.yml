@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวเร่งความเร็วของ BizTalk ของ Microsoft สําหรับ 3.0
-  description: ตัวเร่งความเร็วของ Microsoft BizTalk สําหรับ RosettaNet 3.0 ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a05bb75568c10e4fe532eddbfd12ce767ac91714
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: ตัวเร่ง Microsoft BizTalk สำหรับ RosettaNet ๓.๐
+  description: ส่วนช่วยดำเนินการ Microsoft BizTalk สำหรับ RosettaNet ๓.๐จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 1a27e01c802b94c72dbcab51e79d200fb0877182
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843352"
-name: ตัวเร่งความเร็วของ BizTalk ของ Microsoft สําหรับ 3.0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934840"
+name: ตัวเร่ง Microsoft BizTalk สำหรับ RosettaNet ๓.๐
 summary: >+
-  ตัวเร่งความเร็วของ Microsoft BizTalk สําหรับ RosettaNet 3.0 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  ส่วนช่วยดำเนินการ Microsoft BizTalk สำหรับ RosettaNet ๓.๐จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: องค์กรมาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Enterprise, Standard
 
 products:
 - microsoft-servers
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 02/22/2005
   endDate: 04/14/2015
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร\n* มาตรฐาน"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* Enterprise\n* Standard"

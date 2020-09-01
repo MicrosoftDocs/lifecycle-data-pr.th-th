@@ -1,20 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: กรอบการทํางานของบริการที่เชื่อมต่อของ Microsoft 2.5
-  description: กรอบการทํางานของบริการที่เชื่อมต่อของ Microsoft 2.5 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 1475487e7ff1f7d6b5a54e58a3ba2b45e9a7ccf8
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft ที่เชื่อมต่อบริการกรอบงาน๒.๕
+  description: Microsoft ที่เชื่อมต่อบริการกรอบงาน๒.๕จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: Order Handling Standard Business Event 2.5,Server,Service Provider
+  ms.openlocfilehash: e0cdc315d310b2a6ed3c705261592af5be8ca851
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843313"
-name: กรอบการทํางานของบริการที่เชื่อมต่อของ Microsoft 2.5
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934137"
+name: Microsoft ที่เชื่อมต่อบริการกรอบงาน๒.๕
 summary: >+
-  กรอบการทํางานของบริการที่เชื่อมต่อของ Microsoft 2.5 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft ที่เชื่อมต่อบริการกรอบงาน๒.๕จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
 
-  ใช้กับรุ่นต่อไปนี้: ใบสั่งการจัดการเหตุการณ์ทางธุรกิจมาตรฐาน 2.5 เซิร์ฟเวอร์ผู้ให้บริการ
+  การดำเนินการนี้จะนำไปใช้กับรุ่นต่อไปนี้: การจัดการใบสั่งซื้อเหตุการณ์มาตรฐานของธุรกิจ๒.๕, Server, ผู้ให้บริการ
 
 products:
 - connected-services-framework
@@ -27,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/26/2005
   endDate: 10/13/2015
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* การจัดการคําสั่งซื้อกิจกรรมทางธุรกิจมาตรฐาน 2.5\n* เซิร์ฟเวอร์\n* บริการ"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* การจัดการการสั่งซื้อเหตุการณ์มาตรฐานของธุรกิจ๒.๕\n* Server\n* ผู้ให้บริการ"

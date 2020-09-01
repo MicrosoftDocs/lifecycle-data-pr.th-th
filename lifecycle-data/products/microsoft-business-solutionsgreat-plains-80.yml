@@ -1,25 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: โซลูชันธุรกิจของ Microsoft -- ที่ราบ 8.0
-  description: โซลูชันทางธุรกิจของ Microsoft--ที่ราบ 8.0 จะเป็นไปตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 708ba112ad66ce2d89482c6771b24c9fb9e31cab
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Microsoft Business Solutions--ที่ราบดี๘.๐
+  description: Microsoft Business Solutions--ที่ราบยอดเยี่ยม๘.๐ต่อไปนี้นโยบายวัฏจักรที่ได้รับการแก้ไข
+  ms.date: 09/01/2020
+  keywords: Standard
+  ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843333"
-name: โซลูชันธุรกิจของ Microsoft -- ที่ราบ 8.0
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "934692"
+name: Microsoft Business Solutions--ที่ราบดี๘.๐
 summary: >
-  โซลูชันทางธุรกิจของ Microsoft--ที่ราบ 8.0 จะเป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Business Solutions--ที่ราบยอดเยี่ยม๘.๐ต่อไปนี้นโยบายวัฏจักรที่ได้รับการ[แก้ไข](/lifecycle/policies/fixed)
 
 
-  ซึ่งใช้กับรุ่นต่อไปนี้: มาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Standard
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้สิ้นสุดวันที่ 13 ตุลาคม 2009
+  > การสนับสนุนสำหรับผลิตภัณฑ์นี้มีสิ้นสุดวันที่13ตุลาคม๒๐๐๙
 products:
 - dynamics
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2004
   endDate: 10/13/2009
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* มาตรฐาน"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* Standard"
