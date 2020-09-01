@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: นิพจน์ 2
-  description: นิพจน์ 2 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 0ff3dba3df24ff405a22bfacac75ea04ab227f90
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: นิพจน์2
+  description: นิพจน์ที่2จะเป็นไปตามนโยบายวงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: Blend,Design,Encoder,Studio,Web
+  ms.openlocfilehash: 5186f4bbb53b110f625835b0250418a4594bf78b
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842728"
-name: นิพจน์ 2
-summary: "นิพจน์ 2 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)\n\nนี้ใช้กับรุ่นต่อไปนี้: ผสมผสาน, ออกแบบ, Encoder, Studio, เว็บ\n\n> [!IMPORTANT]\n> การสนับสนุนได้สิ้นสุดลงสําหรับผลิตภัณฑ์นี้ \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "930844"
+name: นิพจน์2
+summary: "นิพจน์ที่2จะเป็นไปตามนโยบายวงจรชีวิต [คง](/lifecycle/policies/fixed) ที่\n\nสิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: การผสมผสานออกแบบตัวเข้ารหัสสตูดิโอเว็บ\n\n> [!IMPORTANT]\n> การสนับสนุนได้สิ้นสุดลงแล้วสำหรับผลิตภัณฑ์นี้ \n"
 products:
 - expression
 policyType: fixed
@@ -22,4 +23,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2008
   endDate: 10/09/2018
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* ผสม\n* ดี ไซน์ โดด เด่น\n* ตัวเข้ารหัส\n* สตูดิโอ\n* เว็บ"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* ผสม\n* แบบ\n* ตัว\n* Studio\n* Web"
