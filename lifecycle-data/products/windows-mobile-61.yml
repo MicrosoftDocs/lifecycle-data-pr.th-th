@@ -1,25 +1,26 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: หน้าต่างโมบาย 6.1
-  description: Windows Mobile 6.1 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 09ef8cd65daf2ed34f0557d1180ba9b405bf0956
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: Windows Mobile ๖.๑
+  description: Windows Mobile ๖.๑จะเป็นไปตามนโยบายวงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: Adaptation Kit,Professional,Standard
+  ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "842636"
-name: หน้าต่างโมบาย 6.1
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "939835"
+name: Windows Mobile ๖.๑
 summary: >
-  Windows Mobile 6.1 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Windows Mobile ๖.๑จะเป็นไปตามนโยบายวงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: ชุดดัดแปลง, มืออาชีพ, มาตรฐาน
+  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: ชุดการปรับตัวแบบมืออาชีพมาตรฐาน
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว
 products:
 - windows
 policyType: fixed-mainstream-only
@@ -30,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2008
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* ชุดดัดแปลง\n* มือ อาชีพ\n* มาตรฐาน"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* ชุดการปรับตัว\n* Professional\n* Standard"

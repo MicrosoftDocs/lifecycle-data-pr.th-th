@@ -1,16 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์เสมือน 2005 R2
-  description: เซิร์ฟเวอร์เสมือน 2005 R2 ตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9a66e757579adfefd5a7b2dd3f2ee034dcf0a8b6
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  title: เซิร์ฟเวอร์เสมือน๒๐๐๕ R2
+  description: เซิร์ฟเวอร์เสมือน๒๐๐๕ R2 ตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: Enterprise,Standard
+  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
+  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843179"
-name: เซิร์ฟเวอร์เสมือน 2005 R2
-summary: "เซิร์ฟเวอร์เสมือน 2005 R2 ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)\n\nนี้ใช้กับรุ่นต่อไปนี้: องค์กรมาตรฐาน\n\n> [!IMPORTANT]\n> การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว \n"
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "937948"
+name: เซิร์ฟเวอร์เสมือน๒๐๐๕ R2
+summary: "เซิร์ฟเวอร์เสมือน๒๐๐๕ R2 ตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่\n\nสิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Standard\n\n> [!IMPORTANT]\n> การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว \n"
 products:
 - windows
 policyType: fixed
@@ -25,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 01/28/2006
   endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Enterprise\n* Standard"
