@@ -1,17 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: มูลนิธิ SharePoint 2013
-  description: 2013 พื้นฐานของ SharePoint เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 547a00535381e850eb04e63f5f876c1485928c9a
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
+  title: SharePoint Foundation ๒๐๑๓
+  description: SharePoint Foundation ๒๐๑๓เป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 09/01/2020
+  keywords: ''
+  ms.openlocfilehash: f3241162e2d2a4953850015a7b1625b07adfbcbf
+  ms.sourcegitcommit: 81b08c37762fa90d8258fe5a26c257089bcc981b
   ms.translationtype: MT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864752"
-name: มูลนิธิ SharePoint 2013
+  ms.lasthandoff: 09/01/2020
+  ms.locfileid: "941096"
+name: SharePoint Foundation ๒๐๑๓
 summary: >+
-  2013 พื้นฐานของ SharePoint เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  SharePoint Foundation ๒๐๑๓เป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
 
 
 products:
@@ -28,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 01/09/2013
   endDate: 04/14/2015
-content: ''
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [เอกสารประกอบของนักพัฒนา๒๐๑๓มูลฐานของ Microsoft SharePoint](/sharepoint/dev)\n* [เอกสารประกอบผลิตภัณฑ์ของ Microsoft SharePoint Foundation ๒๐๑๓](/sharepoint/sharepoint-server)"
