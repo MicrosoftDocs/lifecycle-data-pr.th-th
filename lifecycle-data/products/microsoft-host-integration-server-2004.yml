@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2004
-  description: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2004 ตามนโยบายวงจรคง
+  title: Microsoft Host Integration Server 2004
+  description: Microsoft Host Integration Server 2004 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 25028677f10f76293af0536c479e50a6996dfaf0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842970"
-name: เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2004
-summary: "เซิร์ฟเวอร์การรวมโฮสต์ Microsoft 2004 ตามนโยบายวงจร[คง](/lifecycle/policies/fixed)\n\nสิ่งนี้ใช้กับรุ่นต่อไปนี้: นักพัฒนา, องค์กร, มาตรฐาน\n\n> [!IMPORTANT]\n> การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว \n"
+name: Microsoft Host Integration Server 2004
+summary: "Microsoft Host Integration Server 2004 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)\n\nสิ่งนี้ใช้กับรุ่นต่อไปนี้: Developer, Enterprise, Standard\n\n> [!IMPORTANT]\n> การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว \n"
 products:
 - microsoft-servers
 policyType: fixed
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 10/30/2004
   endDate: 07/14/2008
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* นัก พัฒนา\n* องค์กร\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Developer\n* Enterprise\n* Standard"

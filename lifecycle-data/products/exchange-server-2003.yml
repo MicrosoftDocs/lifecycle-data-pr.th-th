@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ Exchange 2003
-  description: Exchange Server 2003 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Exchange Server 2003
+  description: Exchange Server 2003 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 5a2858bb27edff6224fcdc816c1c16c11193d7ed
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842733"
-name: เซิร์ฟเวอร์ Exchange 2003
+name: Exchange Server 2003
 summary: >+
-  Exchange Server 2003 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Exchange Server 2003 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: องค์กรมาตรฐาน
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Standard
 
 products:
 - office
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2003
   endDate: 05/25/2005
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Enterprise\n* Standard"

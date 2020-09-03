@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2010 การป้องกัน forsfront สําหรับ Exchange Server
-  description: Forefront Protection 2010 for Exchange Server follows the Fixed Lifecycle Policy.
+  title: Forefront Protection 2010 for Exchange Server
+  description: Forefront Protection 2010 for Exchange Server เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 9565d051119e9367e55a37ab1aeb269fe0fb3ed7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843403"
-name: 2010 การป้องกัน forsfront สําหรับ Exchange Server
-summary: "Forefront Protection 2010 for Exchange Server follows the [Fixed](/lifecycle/policies/fixed) Lifecycle Policy.\n\n\n> [!IMPORTANT]\n> แผนงานสําหรับผลิตภัณฑ์รักษาความปลอดภัยภายใต้แบรนด์ Forsfront มีการเปลี่ยนแปลง ผลิตภัณฑ์นี้ยกเลิก ณ วันที่ 31 ธันวาคม 2558 โปรดดูคําแนะนําการโยกย้าย \n"
+name: Forefront Protection 2010 for Exchange Server
+summary: "Forefront Protection 2010 for Exchange Server เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> แผนงานสำหรับผลิตภัณฑ์ด้านความปลอดภัยภายใต้แบรนด์ Forefront มีการเปลี่ยนแปลง สินค้านี้ถูกยกเลิกตั้งแต่วันที่ 31 ธันวาคม ค.ศ. 2015 โปรดดูคำแนะนำในการย้ายข้อมูล \n"
 products:
 - office
 policyType: fixed
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 11/01/2009
   endDate: 12/31/2015
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://www.microsoft.com/microsoft-365/blog/2015/01/23/still-using-forefront-protection-2010-exchange-server-make-move-soon/)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://www.microsoft.com/microsoft-365/blog/2015/01/23/still-using-forefront-protection-2010-exchange-server-make-move-soon/)"

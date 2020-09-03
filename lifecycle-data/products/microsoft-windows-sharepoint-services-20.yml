@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: บริการของ Windows 2.0
-  description: 2.0 บริการของ Microsoft Windows SharePoint ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Windows SharePoint Services 2.0
+  description: Microsoft Windows SharePoint Services 2.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 3293736b7dd1f77d735150f0c004daf5840d0be0
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843215"
-name: บริการของ Windows 2.0
-summary: "2.0 บริการของ Microsoft Windows SharePoint ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> การสนับสนุนสิ้นสุดลงแล้ว \n"
+name: Microsoft Windows SharePoint Services 2.0
+summary: "Microsoft Windows SharePoint Services 2.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> การสนับสนุนสิ้นสุดลงแล้ว \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 06/03/2003
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [เอกสารสําหรับนักพัฒนา 2.0 บริการ SharePoint ของ Windows](/previous-versions/office/developer/sharepoint2003/dd587302(v=office.11))\n* [เอกสารประกอบผลิตภัณฑ์ 2.0 บริการ SharePoint ของ Windows](/previous-versions/tn-archive/cc288501(v=office.12))"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [เอกสารประกอบของนักพัฒนา Windows SharePoint Services 2.0](/previous-versions/office/developer/sharepoint2003/dd587302(v=office.11))\n* [เอกสารประกอบของผลิตภัณฑ์ Windows SharePoint Services 2.0](/previous-versions/tn-archive/cc288501(v=office.12))"

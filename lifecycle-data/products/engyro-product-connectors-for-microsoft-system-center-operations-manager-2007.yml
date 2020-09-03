@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวเชื่อมต่อผลิตภัณฑ์ Engyro สําหรับ Microsoft ระบบศูนย์การดําเนินงาน Manager 2007
-  description: ตัวเชื่อมต่อผลิตภัณฑ์ Engyro สําหรับ Microsoft ระบบศูนย์การดําเนินงาน Manager 2007 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Engyro Product Connectors สำหรับ Microsoft System Center Operations Manager 2007
+  description: Engyro Product Connectors for Microsoft System Center Operations Manager 2007 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 434c323cabe12823036a8bc7854aa026253d65a9
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843664"
-name: ตัวเชื่อมต่อผลิตภัณฑ์ Engyro สําหรับ Microsoft ระบบศูนย์การดําเนินงาน Manager 2007
+name: Engyro Product Connectors สำหรับ Microsoft System Center Operations Manager 2007
 summary: >
-  ตัวเชื่อมต่อผลิตภัณฑ์ Engyro สําหรับ Microsoft ระบบศูนย์การดําเนินงาน Manager 2007 ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Engyro Product Connectors for Microsoft System Center Operations Manager 2007 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว
 products:
 - msc
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 10/01/2007
   endDate: 07/11/2017
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://blogs.technet.microsoft.com/momteam/2017/01/10/engyro-product-connector-support-ending-this-year/)"
