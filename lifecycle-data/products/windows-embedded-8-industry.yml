@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: อุตสาหกรรม Windows ฝังตัว 8
-  description: อุตสาหกรรม Windows Embedded 8 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows Embedded 8 Industry
+  description: Windows Embedded 8 Industry เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 9ea7dea72b8c455d30007ba3b166f43cf59a4822
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864380"
-name: อุตสาหกรรม Windows ฝังตัว 8
+name: Windows Embedded 8 Industry
 summary: >
-  อุตสาหกรรม Windows Embedded 8 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Windows Embedded 8 Industry เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: องค์กร, Pro
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Enterprise, Pro
 
 
   > [!IMPORTANT]
 
-  > ลูกค้าต้องโยกย้ายไปยังใบสั่ง Windows 8.1in จะยังคงได้รับการสนับสนุน
+  > ลูกค้าต้องย้ายข้อมูลไปยัง Windows 8.1 เพื่อให้ยังคงได้รับการสนับสนุน
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/24/2013
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [โยกย้ายคําแนะนํา](https://www.microsoft.com/download/details.aspx?id=40279)\n* [คําถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ของ Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร\n* Pro"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://www.microsoft.com/download/details.aspx?id=40279)\n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ Windows](/lifecycle/faq/windows)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Enterprise\n* Pro"

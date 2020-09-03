@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: กรอบสุทธิของ Microsoft 4.5
-  description: กรอบงาน Microsoft .NET 4.5 ตามนโยบายวงจรการใช้งานคอมโพเนนต์
+  title: Microsoft .NET Framework 4.5
+  description: Microsoft .NET Framework 4.5 เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
   ms.date: 07/28/2020
   ms.openlocfilehash: 0462a82a1db09bc170784225cae666c3d526559c
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864464"
-name: กรอบสุทธิของ Microsoft 4.5
+name: Microsoft .NET Framework 4.5
 summary: >+
-  กรอบงาน Microsoft .NET 4.5 ตามนโยบายวงจรการใช้งาน[คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft .NET Framework 4.5 เป็นไปตามนโยบายวงจรการใช้งานของ [คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/09/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําถามที่พบบ่อยเกี่ยวกับวงจรชีวิต - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [ข้อมูลผลิตภัณฑ์](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> การสนับสนุนสําหรับ.NET Framework 4, 4.5 และ 4.5.1 สิ้นสุดในวันที่ 12 มกราคม 2016"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [ข้อมูลผลิตภัณฑ์](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-45)\n\n> [!NOTE]\n> การสนับสนุนสำหรับ .NET Framework 4, 4.5 และ 4.5.1 สิ้นสุดในวันที่ 12 มกราคม 2016"

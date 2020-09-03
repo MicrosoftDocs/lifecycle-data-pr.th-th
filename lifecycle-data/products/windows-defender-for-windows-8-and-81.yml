@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: หน้าต่าง Defender สําหรับ Windows 8 และ 8.1
-  description: Windows Defender สําหรับ Windows 8 และ 8.1 เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
+  title: Windows Defender For Windows 8 และ 8.1
+  description: Windows Defender For Windows 8 และ 8.1 เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
   ms.date: 07/28/2020
   ms.openlocfilehash: d4024d32c3d61568ee01854acd1422ef614fedfb
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864381"
-name: หน้าต่าง Defender สําหรับ Windows 8 และ 8.1
+name: Windows Defender For Windows 8 และ 8.1
 summary: >+
-  Windows Defender สําหรับ Windows 8 และ 8.1 เป็นไปตามนโยบายวงจรการใช้งาน[ของคอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Windows Defender For Windows 8 และ 8.1 เป็นไปตามนโยบายวงจรการใช้งานของ [คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
 products:
@@ -27,4 +27,4 @@ releases:
 - version: For Windows 8
   startDate: 10/30/2012
   endDate: 01/12/2016
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [วินโดวส์ 8](/lifecycle/)\n\n> [!NOTE]\n> รุ่นนี้เรียกว่าคอมโพเนนต์ซึ่งเป็นไปตามวงจรการใช้งานของผลิตภัณฑ์หลัก"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [Windows 8](/lifecycle/)\n\n> [!NOTE]\n> รุ่นนี้เป็นที่รู้จักกันว่าเป็นคอมโพเนนต์หนึ่ง ซึ่งเป็นไปตามวงจรการใช้งานของผลิตภัณฑ์หลัก"

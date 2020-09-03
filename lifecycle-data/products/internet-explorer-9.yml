@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Internet Explorer 9
-  description: Internet Explorer 9 จะเป็นไปตามนโยบายวัฏจักรของคอมโพเนนต์
+  description: Internet Explorer 9 เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
   ms.date: 08/12/2020
   ms.openlocfilehash: 56f6d95703597d63faee14b9b135d0d6611e80c8
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "893629"
 name: Internet Explorer 9
 summary: >+
-  Internet Explorer 9 จะเป็นไปตามนโยบายวัฏจักรของ[คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Internet Explorer 9 เป็นไปตามนโยบายวงจรการใช้งานของ [คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 03/15/2011
-content: "\n## <a name=\"links\"></a>เชื่อม \n* [คำแนะนำในการโยกย้าย](https://www.microsoft.com/itpro/microsoft-edge)\n* [คำถามที่ถามบ่อยเกี่ยวกับนโยบายวัฏจักรของ Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> เริ่มต้นวันที่12มกราคม๒๐๑๖เฉพาะเวอร์ชันล่าสุดของ Internet Explorer ที่พร้อมใช้งานสำหรับระบบปฏิบัติการที่สนับสนุนเท่านั้นที่จะได้รับการสนับสนุนทางเทคนิคและการอัปเดตความปลอดภัย"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://www.microsoft.com/itpro/microsoft-edge)\n* [คำถามที่พบบ่อยเกี่ยวกับนโยบายวงจรการใช้งานของ Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> ตั้งแต่วันที่ 12 มกราคม ค.ศ. 2016 เฉพาะ Internet Explorer เวอร์ชันล่าสุดที่พร้อมใช้งานสำหรับระบบปฏิบัติการที่รองรับเท่านั้นที่จะได้รับการสนับสนุนทางเทคนิคและการอัปเดตด้านความปลอดภัย"

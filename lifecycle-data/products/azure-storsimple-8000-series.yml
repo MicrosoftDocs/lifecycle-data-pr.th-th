@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Stor Stor 8000
-  description: Azure StorSimple 8000 Series เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Azure StorSimple 8000 Series
+  description: Azure StorSimple 8000 Series เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: b7f4d4313e664c1d52d52ee6394c8cad97f69e85
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864360"
-name: Stor Stor 8000
+name: Azure StorSimple 8000 Series
 summary: >+
-  Azure StorSimple 8000 Series เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Azure StorSimple 8000 Series เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -24,4 +24,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2014
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [การสนับสนุนโซลูชัน StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [คําแนะนําการโยกย้าย](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> การสนับสนุนสําหรับ Azure StorSimple 8000 Series ขยายตามที่แสดงเพื่อให้ลูกค้ามีระยะเวลาวงจรชีวิตมาตรฐาน การสนับสนุนเพิ่มเติมรวมถึงการเปลี่ยนฮาร์ดแวร์และการปรับปรุงความปลอดภัยเท่านั้น"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [การสนับสนุนโซลูชัน StorSimple](https://msdn.microsoft.com/library/mt433077(TechNet.10).aspx)\n* [คำแนะนำในการย้ายข้อมูล](/azure/storage/files/storage-files-migration-storsimple-8000)\n\n> [!NOTE]\n> การสนับสนุนสำหรับ Azure StorSimple 8000 Series ได้ัรับการยืดเวลาดังที่แสดงให้เห็นเพื่อมอบไทม์ไลน์สำหรับรอบการใช้งานตามมาตรฐานให้กับลูกค้า การสนับสนุนที่ยืดอายุประกอบไปด้วยการเปลี่ยนฮาร์ดแวร์และอัปเดตการรักษาความปลอดภัยเท่านั้น"

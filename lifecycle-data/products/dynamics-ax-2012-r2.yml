@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Dynamics AX 2012 R2
-  description: R2 2012 ของ AX Dynamics ตามนโยบายวงจรการใช้งานแบบคงที่
+  description: Dynamics AX 2012 R2 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 0c416b7a522ce30abd5dc690132e3daa91db99ba
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864623"
 name: Dynamics AX 2012 R2
 summary: >+
-  R2 2012 ของ AX Dynamics ตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Dynamics AX 2012 R2 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2013
   endDate: 10/12/2021
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [โปรแกรมการโยกย้าย Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [ข้อมูลวงจรชีวิตเพิ่มเติม](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> การสนับสนุนหลักถูกขยายตามที่ปรากฏ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/dynamics365/unified-operations/dev-itpro/migration-upgrade/upgrade-overview-2012)\n* [โปรแกรมการย้ายข้อมูล Dynamics 365](https://dynamics.microsoft.com/migration-program/)\n* [ข้อมูลวงจรการใช้งานเพิ่มเติม](/dynamics365/unified-operations/fin-and-ops/get-started/mainstream-support-ax-2009-2012)\n\n> [!NOTE]\n> มีการขยายการสนับสนุนหลักดังที่แสดง"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 2008 เซิร์ฟเวอร์ธุรกิจที่สําคัญ
-  description: Windows 2008 เซิร์ฟเวอร์ธุรกิจที่จําเป็นตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows Essential Business Server 2008
+  description: Windows Essential Business Server 2008 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/30/2020
   ms.openlocfilehash: eec6a2b5b250aa779f288b4fa18e5c3330fe9f28
   ms.sourcegitcommit: e3a3bd051020add66386d68528657bb59240d90b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/30/2020
   ms.locfileid: "879025"
-name: Windows 2008 เซิร์ฟเวอร์ธุรกิจที่สําคัญ
+name: Windows Essential Business Server 2008
 summary: >
-  Windows 2008 เซิร์ฟเวอร์ธุรกิจที่จําเป็นตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Windows Essential Business Server 2008 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 
   > [!IMPORTANT]
 
-  > วันที่สนับสนุนสําหรับแพคเกจผลิตภัณฑ์นี้จะถูกกําหนดโดยแต่ละระยะเวลาของผลิตภัณฑ์ส่วนประกอบที่เกี่ยวข้อง โปรดตรวจทานวงจรการใช้งานของผลิตภัณฑ์แต่ละคอมโพเนนต์เพื่อกําหนดระยะเวลาการสนับสนุน
+  > วันที่สนับสนุนสำหรับแพ็กเกจผลิตภัณฑ์นี้จะกำหนดโดยวงจรการใช้งานของผลิตภัณฑ์แต่ละคอมโพเนนต์ โปรดตรวจสอบวงจรการใช้งานของผลิตภัณฑ์แต่ละคอมโพเนนต์เพื่อระบุระยะเวลาการสนับสนุน
 products:
 - windows
 policyType: fixed
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 12/12/2008
   endDate: 02/13/2020
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://aka.ms/AA1ovn4)\n* [ข้อมูลผลิตภัณฑ์](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://aka.ms/AA1ovn4)\n* [ข้อมูลผลิตภัณฑ์](/previous-versions/tn-archive/cc540094(v=ws.10)?redirectedfrom=MSDN)"

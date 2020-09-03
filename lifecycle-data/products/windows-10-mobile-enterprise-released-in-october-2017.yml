@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: องค์กรโมบายของ Windows 10 เปิดตัวในเดือน 2017 ตุลาคม
-  description: องค์กรมือถือของ Windows 10 เปิดตัวในเดือนตุลาคม 2017 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows 10 Mobile Enterprise เปิดตัวในเดือนตุลาคม 2017
+  description: Windows 10 Mobile Enterprise ที่นำออกใช้ในเดือนตุลาคม ค.ศ. 2017 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: eca2b57c1fc69d610cf6f8cf0232c11eccf06ead
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872757"
-name: องค์กรโมบายของ Windows 10 เปิดตัวในเดือน 2017 ตุลาคม
+name: Windows 10 Mobile Enterprise เปิดตัวในเดือนตุลาคม 2017
 summary: >
-  องค์กรมือถือของ Windows 10 เปิดตัวในเดือนตุลาคม 2017 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Windows 10 Mobile Enterprise ที่นำออกใช้ในเดือนตุลาคม ค.ศ. 2017 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว
 products:
 - windows
 policyType: fixed
@@ -28,4 +28,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/17/2017
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําถามที่พบบ่อยเกี่ยวกับวงจรการใช้งานของระบบปฏิบัติการอุปกรณ์](/lifecycle/faq/device-operating-systems)\n* [การสนับสนุน Windows 10 Mobile สิ้นสุดการสนับสนุนในวันที่ 10 ธันวาคม 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งานของระบบปฏิบัติการอุปกรณ์](/lifecycle/faq/device-operating-systems)\n* [Windows 10 Mobile สิ้นสุดการสนับสนุนในวันที่ 10 ธันวาคม ค.ศ. 2019](/lifecycle/announcements/windows-10-mobile-end-of-support)"

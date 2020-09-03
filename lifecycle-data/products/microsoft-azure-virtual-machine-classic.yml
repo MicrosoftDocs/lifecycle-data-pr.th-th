@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เครื่องเสมือน Microsoft Azure (คลาสสิก) (ยืนยันกับ Azure ก่อนเผยแพร่ - ไม่มีวันที่สิ้นสุดบนเส้นตารางวันที่)
-  description: เครื่องเสมือน Microsoft Azure (คลาสสิก) (ยืนยันกับ Azure ก่อนเผยแพร่ - ไม่มีวันที่สิ้นสุดบนเส้นตารางวันที่) ตามนโยบายวงจรชีวิตสมัยใหม่
+  title: Microsoft Azure Virtual Machine (classic) (ยืนยันด้วย Azure ก่อนเผยแพร่ - ไม่มีวันที่สิ้นสุดในเส้นตารางวันที่)
+  description: Microsoft Azure Virtual Machine (classic) (ยืนยันด้วย Azure ก่อนเผยแพร่ - ไม่มีวันที่สิ้นสุดในเส้นตารางวันที่) เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
   ms.date: 07/28/2020
   ms.openlocfilehash: 62691a5a8045c8744b291cd5475ad7b6828542e8
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864678"
-name: เครื่องเสมือน Microsoft Azure (คลาสสิก) (ยืนยันกับ Azure ก่อนเผยแพร่ - ไม่มีวันที่สิ้นสุดบนเส้นตารางวันที่)
+name: Microsoft Azure Virtual Machine (classic) (ยืนยันด้วย Azure ก่อนเผยแพร่ - ไม่มีวันที่สิ้นสุดในเส้นตารางวันที่)
 summary: >+
-  เครื่องเสมือน Microsoft Azure (คลาสสิก) (ยืนยันกับ Azure ก่อนเผยแพร่ - ไม่มีวันที่สิ้นสุดบนเส้นตารางวันที่) ตามนโยบายวงจร[ชีวิตสมัยใหม่](/lifecycle/policies/modern)
+  Microsoft Azure Virtual Machine (classic) (ยืนยันด้วย Azure ก่อนเผยแพร่ - ไม่มีวันที่สิ้นสุดในเส้นตารางวันที่) เป็นไปตามนโยบายวงจรการใช้งาน [แบบสมัยใหม่](/lifecycle/policies/modern)
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 06/07/2012
   endDate: 03/01/2023
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/azure/virtual-machines/classic-vm-deprecation)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/azure/virtual-machines/classic-vm-deprecation)"
