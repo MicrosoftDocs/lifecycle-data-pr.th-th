@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: อินเทอร์เน็ตเอกซ์พลอเรอร์ 7
-  description: Internet Explorer 7 ตามนโยบายวงจรการใช้งานคอมโพเนนต์
+  title: Internet Explorer 7
+  description: Internet Explorer 7 เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
   ms.date: 07/28/2020
   ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843382"
-name: อินเทอร์เน็ตเอกซ์พลอเรอร์ 7
+name: Internet Explorer 7
 summary: >+
-  Internet Explorer 7 ตามนโยบายวงจรการใช้งาน[คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Internet Explorer 7 เป็นไปตามนโยบายวงจรการใช้งานของ [คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://www.microsoft.com/itpro/microsoft-edge)\n* [คําถามที่ถามบ่อยเกี่ยวกับนโยบายวงจรการใช้งานของ Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> ตั้งแต่ต้นวันที่ 12 มกราคม 2016 เฉพาะ Internet Explorer รุ่นล่าสุดที่พร้อมใช้งานสําหรับระบบปฏิบัติการที่ได้รับการสนับสนุนเท่านั้นที่จะได้รับการสนับสนุนทางเทคนิคและการปรับปรุงการรักษาความปลอดภัย"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://www.microsoft.com/itpro/microsoft-edge)\n* [คำถามที่พบบ่อยเกี่ยวกับนโยบายวงจรการใช้งานของ Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> ตั้งแต่วันที่ 12 มกราคม ค.ศ. 2016 เฉพาะ Internet Explorer เวอร์ชันล่าสุดที่พร้อมใช้งานสำหรับระบบปฏิบัติการที่รองรับเท่านั้นที่จะได้รับการสนับสนุนทางเทคนิคและการอัปเดตด้านความปลอดภัย"

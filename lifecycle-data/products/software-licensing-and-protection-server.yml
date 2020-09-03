@@ -1,25 +1,25 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: สิทธิ์การใช้งานซอฟต์แวร์และเซิร์ฟเวอร์การป้องกัน
-  description: สิทธิ์การใช้งานซอฟต์แวร์และเซิร์ฟเวอร์การป้องกันเป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Software Licensing and Protection Server
+  description: Software Licensing and Protection Server เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 9a42af57f9f0bfd7232e67126c6d9923413e06f6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842678"
-name: สิทธิ์การใช้งานซอฟต์แวร์และเซิร์ฟเวอร์การป้องกัน
+name: Software Licensing and Protection Server
 summary: >
-  สิทธิ์การใช้งานซอฟต์แวร์และเซิร์ฟเวอร์การป้องกันเป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Software Licensing and Protection Server เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: องค์กรมาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Enterprise, Standard
 
 
   > [!IMPORTANT]
 
-  > เนื่องจากการดําน้ําของซอฟต์แวร์อนุญาตให้ใช้สิทธิ์และเซิร์ฟเวอร์ป้องกัน (SLPS), Microsoft สนับสนุน SLPS จนถึง 24 กันยายน 2009
+  > เนื่องจากการยกเลิก Software Licensing and Protection Server (SLPS) Microsoft จะสนับสนุน SLPS ไปจนถึงวันที่ 24 กันยายน ค.ศ. 2009
 products:
 - windows
 policyType: fixed
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 12/30/2007
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [สิทธิ์การใช้งานซอฟต์แวร์และเซิร์ฟเวอร์ป้องกัน (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>รุ่น \n* องค์กร\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [Software Licensing and Protection Server (SLPS)](https://www.microsoft.com/slps)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Enterprise\n* Standard"

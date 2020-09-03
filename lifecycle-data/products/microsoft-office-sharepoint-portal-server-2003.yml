@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2003 เซิร์ฟเวอร์ของพอร์ทัลของ SharePoint ของ Microsoft Office
-  description: Microsoft Office SharePoint Portal Server 2003 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Office SharePoint Portal Server 2003
+  description: Microsoft Office SharePoint Portal Server 2003 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: ddcdf5740b01da6e536d1d65bcde6a80f702e8e6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843262"
-name: 2003 เซิร์ฟเวอร์ของพอร์ทัลของ SharePoint ของ Microsoft Office
+name: Microsoft Office SharePoint Portal Server 2003
 summary: >+
-  Microsoft Office SharePoint Portal Server 2003 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Office SharePoint Portal Server 2003 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 11/23/2003
   endDate: 01/10/2006
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)"

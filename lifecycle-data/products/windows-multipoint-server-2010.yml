@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์แบบหลายจุดของ Windows 2010
-  description: เซิร์ฟเวอร์แบบหลายจุด Windows 2010 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows MultiPoint Server 2010
+  description: Windows MultiPoint Server 2010 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: fe2e8699f2c0dd5d2303ba32477aa39287a7c354
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843148"
-name: เซิร์ฟเวอร์แบบหลายจุดของ Windows 2010
+name: Windows MultiPoint Server 2010
 summary: >+
-  เซิร์ฟเวอร์แบบหลายจุด Windows 2010 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Windows MultiPoint Server 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  นี้ใช้กับรุ่นต่อไปนี้: วิชาการ, มาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Academic, Standard
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 05/13/2010
   endDate: 07/14/2020
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](https://aka.ms/AA1ovn4)\n* [คําแนะนําการย้ายเพิ่มเติม](/windows-server/get-started/installation-and-upgrade)\n* [ข้อมูลผลิตภัณฑ์](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>รุ่น \n* วิชาการ\n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://aka.ms/AA1ovn4)\n* [คำแนะนำการย้ายข้อมูลเพิ่มเติม](/windows-server/get-started/installation-and-upgrade)\n* [ข้อมูลผลิตภัณฑ์](/windows-server/remote/multipoint-services/getting-started-with-multipoint-services)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Academic\n* Standard"

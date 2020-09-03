@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ระบบศูนย์ Microsoft ตัวจัดการการป้องกันข้อมูล 2006
-  description: ตัวจัดการการป้องกันข้อมูลของ Microsoft System Center 2006 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft System Center Data Protection Manager 2006
+  description: Microsoft System Center Data Protection Manager 2006 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: e1d39ae874bd9d3a0491711fa466958ed75fae39
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843239"
-name: ระบบศูนย์ Microsoft ตัวจัดการการป้องกันข้อมูล 2006
+name: Microsoft System Center Data Protection Manager 2006
 summary: >+
-  ตัวจัดการการป้องกันข้อมูลของ Microsoft System Center 2006 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft System Center Data Protection Manager 2006 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 10/22/2005
   endDate: 01/08/2008
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n* [คําแนะนําการโยกย้าย](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n* [คำแนะนำในการย้ายข้อมูล](https://blogs.technet.microsoft.com/dpm/2016/03/24/system-center-data-protection-manager-2006-end-of-support)"

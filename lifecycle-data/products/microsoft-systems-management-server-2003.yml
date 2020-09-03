@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์การจัดการระบบของ Microsoft 2003
-  description: เซิร์ฟเวอร์การจัดการระบบ Microsoft 2003 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Systems Management Server 2003
+  description: Microsoft Systems Management Server 2003 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 1a0eb37a2f2ee74b56d465ba62abb191952c76d7
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843219"
-name: เซิร์ฟเวอร์การจัดการระบบของ Microsoft 2003
+name: Microsoft Systems Management Server 2003
 summary: >+
-  เซิร์ฟเวอร์การจัดการระบบ Microsoft 2003 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Systems Management Server 2003 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -34,4 +34,4 @@ releases:
 - version: Original Release
   startDate: 01/20/2004
   endDate: 09/10/2005
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)"
