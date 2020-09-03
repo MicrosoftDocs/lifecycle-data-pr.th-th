@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไดนามิค C5 2012
+  title: Dynamics C5 2012
   description: Dynamics C5 2012 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 0e2fde2211933228e6bd97265e65fd5c7d711bde
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864620"
-name: ไดนามิค C5 2012
+name: Dynamics C5 2012
 summary: >+
-  Dynamics C5 2012 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Dynamics C5 2012 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ซึ่งใช้กับรุ่นต่อไปนี้: มาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Standard
 
 products:
 - dynamics
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 01/10/2012
   endDate: 01/14/2014
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* มาตรฐาน"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/dynamics-nav-app/localfunctionality/denmark/ui-extensions-c5-data-migration)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Standard"

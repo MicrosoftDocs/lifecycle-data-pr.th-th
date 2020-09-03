@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวจัดการการตั้งค่าคอนฟิก R2 2012 R2 ของศูนย์ระบบ Microsoft
-  description: ตัวจัดการการตั้งค่าคอนฟิก R2 2012 ระบบของ Microsoft ตามนโยบายวงจรคง
+  title: Microsoft System Center 2012 R2 Configuration Manager
+  description: Microsoft System Center 2012 R2 Configuration Manager เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 61515e636a9af310a2107c9505067fa551d26b15
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864450"
-name: ตัวจัดการการตั้งค่าคอนฟิก R2 2012 R2 ของศูนย์ระบบ Microsoft
+name: Microsoft System Center 2012 R2 Configuration Manager
 summary: >+
-  ตัวจัดการการตั้งค่าคอนฟิก R2 2012 ระบบของ Microsoft ตามนโยบายวงจร[คง](/lifecycle/policies/fixed)
+  Microsoft System Center 2012 R2 Configuration Manager เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2016
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)\n* [เอกสารประกอบสําหรับตัวจัดการการตั้งค่าคอนฟิก](/mem/configmgr/core/misc/online-documentation)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n* [เอกสารประกอบสำหรับ Configuration Manager](/mem/configmgr/core/misc/online-documentation)"

@@ -1,20 +1,20 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SQL Server ๒๐๑๖
-  description: SQL Server ๒๐๑๖จะเป็นไปตามนโยบายวงจรชีวิตคงที่
+  title: SQL Server 2016
+  description: SQL Server 2016 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 08/12/2020
   ms.openlocfilehash: e54ceed1e30fb7075b341e068c5d65d7c9e95858
   ms.sourcegitcommit: c7c4e0a2e3a93e251df1f1cdc0e078a7787b3dc3
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 08/13/2020
   ms.locfileid: "892778"
-name: SQL Server ๒๐๑๖
+name: SQL Server 2016
 summary: >+
-  SQL Server ๒๐๑๖จะเป็นไปตามนโยบายวงจรชีวิต[คง](/lifecycle/policies/fixed)ที่
+  SQL Server 2016 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: นักพัฒนา, องค์กร, องค์กรหลัก, Express, Standard, Web
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Developer, Enterprise, Enterprise Core, Express, Standard, Web
 
 products:
 - sql-server
@@ -33,4 +33,4 @@ releases:
 - version: Original Release
   startDate: 06/01/2016
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>เชื่อม \n* [นโยบาย service pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* นักพัฒนา\n* องค์กร\n* หลักขององค์กร\n* Express\n* มาตรฐาน\n* เว็บ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Developer\n* Enterprise\n* Enterprise Core\n* Express\n* Standard\n* Web"

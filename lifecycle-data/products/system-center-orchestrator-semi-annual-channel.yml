@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ระบบศูนย์วงกึ่งช่องประจําปี
-  description: สถานีออเคสตราเตอร์ประจําปีกึ่งศูนย์ระบบตามนโยบายวงจรการใช้งานที่ทันสมัย
+  title: System Center Orchestrator Semi Annual Channel
+  description: System Center Orchestrator Semi Annual Channel เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
   ms.date: 07/28/2020
   ms.openlocfilehash: 9b854c8bacdf528bc85b87d07b03664a62fd04c2
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872799"
-name: ระบบศูนย์วงกึ่งช่องประจําปี
+name: System Center Orchestrator Semi Annual Channel
 summary: >
-  สถานีออเคสตราเตอร์ประจําปีกึ่งศูนย์ระบบตามนโยบายวงจร[การใช้งานที่ทันสมัย](/lifecycle/policies/modern)
+  System Center Orchestrator Semi Annual Channel เป็นไปตามนโยบายวงจรการใช้งาน [แบบสมัยใหม่](/lifecycle/policies/modern)
 
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+  > การสนับสนุนสิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - msc
 policyType: modern-on-prem
@@ -31,4 +31,4 @@ releases:
 - version: Version 1801
   startDate: 02/08/2018
   endDate: 08/08/2019
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/system-center/orchestrator/upgrade-orch?view=sc-orch-2019)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/system-center/orchestrator/upgrade-orch?view=sc-orch-2019)"

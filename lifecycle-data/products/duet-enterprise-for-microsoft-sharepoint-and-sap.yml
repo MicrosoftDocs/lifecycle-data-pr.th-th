@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เอ็นเตอร์ไพรส์คู่สําหรับ Microsoft SharePoint และ SAP
-  description: เอ็นเตอร์ไพรส์คู่สําหรับ Microsoft SharePoint และ SAP ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Duet Enterprise for Microsoft SharePoint and SAP
+  description: Duet Enterprise for Microsoft SharePoint and SAP เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: fbab932e4c44c55969682684dc2ec7590c3dd6f9
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864628"
-name: เอ็นเตอร์ไพรส์คู่สําหรับ Microsoft SharePoint และ SAP
+name: Duet Enterprise for Microsoft SharePoint and SAP
 summary: >
-  เอ็นเตอร์ไพรส์คู่สําหรับ Microsoft SharePoint และ SAP ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Duet Enterprise for Microsoft SharePoint and SAP เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ผลิตภัณฑ์นี้ขายและสนับสนุนโดย SAP
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ผลิตภัณฑ์นี้จำหน่ายและสนับสนุนโดย SAP
 products:
 - office
 policyType: fixed
@@ -32,4 +32,4 @@ releases:
 - version: Original Release
   startDate: 03/16/2011
   endDate: 12/31/2017
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [การสนับสนุนของ SAP](https://support.sap.com/index.html)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [การสนับสนุน SAP](https://support.sap.com/index.html)"

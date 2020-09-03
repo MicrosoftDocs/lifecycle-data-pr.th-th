@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office ตสื่อสาร Server ๒๐๐๗ R2
-  description: Microsoft Office ตสื่อสาร Server ๒๐๐๗ R2 จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Microsoft Office Communications Server 2007 R2
+  description: Microsoft Office Communications Server 2007 R2 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 08/07/2020
   ms.openlocfilehash: 229bad5ba97248c738f950b7252cd9c69e238cf1
   ms.sourcegitcommit: 41160e72cd21aa5bf1748336c3975d8ec9b9ac06
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 08/07/2020
   ms.locfileid: "885849"
-name: Microsoft Office ตสื่อสาร Server ๒๐๐๗ R2
-summary: "Microsoft Office ตสื่อสาร Server ๒๐๐๗ R2 จะเป็นไปตามกรมธรรม์วงจรชีวิต[คง](/lifecycle/policies/fixed)ที่\n\nการทำเช่นนี้จะนำไปใช้กับรุ่นต่อไปนี้: ที่เกี่ยวข้องทั้งหมด, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> การสนับสนุนสำหรับผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการโยกย้าย \n"
+name: Microsoft Office Communications Server 2007 R2
+summary: "Microsoft Office Communications Server 2007 R2 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)\n\nสิ่งนี้ใช้กับรุ่นต่อไปนี้: ทุกรุ่นที่ใช้ได้, Enterprise, XMPP Gateway\n\n> [!IMPORTANT]\n> การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูล \n"
 products:
 - office
 policyType: fixed
@@ -22,4 +22,4 @@ releases:
 - version: Original Release
   startDate: 09/28/2009
   endDate: 01/09/2018
-content: "\n## <a name=\"links\"></a>เชื่อม \n* [คำแนะนำในการโยกย้าย](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP เกตเวย์ที่วางจำหน่ายบน9/28/2009\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้งหมดที่เกี่ยวข้อง\n* องค์กร\n* XMPP เกตเวย์"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://blogs.technet.microsoft.com/nexthop/2016/02/22/end-of-extended-support-for-office-communicator-and-office-communications-server/)\n\n> [!NOTE]\n> XMPP Gateway ที่นำออกใช้ในวันที่ 9/28/2009\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้งหมดที่เกี่ยวข้อง\n* Enterprise\n* XMPP Gateway"
