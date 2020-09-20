@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวจัดการการป้องกันข้อมูล 2012 R2 ของศูนย์ระบบ Microsoft
-  description: ตัวจัดการการป้องกันข้อมูล 2012 R2 ของ Microsoft System Center เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft System Center 2012 R2 Data Protection Manager
+  description: Microsoft System Center 2012 R2 Data Protection Manager เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: ed0d5ccd32c082afb84d8310d7497d11ffdfe0b0
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864658"
-name: ตัวจัดการการป้องกันข้อมูล 2012 R2 ของศูนย์ระบบ Microsoft
+name: Microsoft System Center 2012 R2 Data Protection Manager
 summary: >+
-  ตัวจัดการการป้องกันข้อมูล 2012 R2 ของ Microsoft System Center เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft System Center 2012 R2 Data Protection Manager เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 01/16/2014
   endDate: 07/12/2022
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [เอกสารศูนย์ระบบ](/system-center/#pivot=components&panel=components-all)\n* [ทรัพยากรศูนย์ระบบ](https://www.microsoft.com/system-center/resources)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [เอกสารประกอบของ System Center](/system-center/#pivot=components&panel=components-all)\n* [แหล่งทรัพยากรของ System Center](https://www.microsoft.com/system-center/resources)"

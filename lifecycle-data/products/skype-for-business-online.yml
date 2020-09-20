@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype สําหรับธุรกิจออนไลน์
-  description: Skype สําหรับธุรกิจออนไลน์ตามนโยบายวงจรชีวิตสมัยใหม่
+  title: Skype for Business Online
+  description: Skype for Business Online เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
   ms.date: 07/28/2020
   ms.openlocfilehash: 68200f8b9758ff25b2515f027f39c91bddde4c7e
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864739"
-name: Skype สําหรับธุรกิจออนไลน์
+name: Skype for Business Online
 summary: >
-  Skype สําหรับธุรกิจออนไลน์ตามนโยบายวงจร[ชีวิตสมัยใหม่](/lifecycle/policies/modern)
+  Skype for Business Online เป็นไปตามนโยบายวงจรการใช้งาน [แบบสมัยใหม่](/lifecycle/policies/modern)
 
 
 
   > [!IMPORTANT]
 
-  > บริการนี้จะออกใช้ในวันที่ 31 กรกฎาคม 2021 ดูคําแนะนําการโยกย้ายด้านล่าง
+  > บริการนี้จะเลิกใช้ในวันที่ 31 กรกฎาคม ค.ศ. 2021 ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - office
 policyType: modern-online
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2015
   endDate: 07/31/2021
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/MicrosoftTeams/upgrade-start-here)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/MicrosoftTeams/upgrade-start-here)"

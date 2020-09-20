@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ระบบ Cloud Platform
-  description: ระบบ Cloud Platform จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Cloud Platform System
+  description: Cloud Platform System เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 77f8b0e296d10279130459a1c0917c04382c26bc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932065"
-name: ระบบ Cloud Platform
+name: Cloud Platform System
 summary: >+
-  ระบบ Cloud Platform จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Cloud Platform System เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
   สิ่งนี้ใช้กับรุ่นต่อไปนี้: Standard
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 01/29/2015
   endDate: 07/12/2022
-content: "\n\n> [!NOTE]\n> การสนับสนุนสำหรับระบบแพลตฟอร์มระบบคลาวด์ถูกขยายตามที่แสดงเพื่อให้ลูกค้าทั้งหมดที่มีไทม์ไลน์การเปลี่ยนระยะเวลามาตรฐาน\n> [!NOTE]\n> ระบบ Cloud Platform Standard เปิดตัวเมื่อวันที่18กันยายน๒๐๑๗\n\n## <a name=\"editions\"></a>รุ่น \n* Standard"
+content: "\n\n> [!NOTE]\n> การสนับสนุนสำหรับ Cloud Platform System ได้ถูกขยายเวลาออกไปดังที่แสดงเอาไว้ เพื่อให้ลูกค้าทุกคนมีไทม์ไลน์ในการเปลี่ยนวงจรการใช้งานแบบมาตรฐาน\n> [!NOTE]\n> Cloud Platform System Standard เปิดใช้เมื่อวันที่ 18 กันยายน ค.ศ. 2017\n\n## <a name=\"editions\"></a>รุ่น \n* Standard"

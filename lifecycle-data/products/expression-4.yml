@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: นิพจน์4
-  description: นิพจน์ที่4เป็นไปตามนโยบายวัฏจักรแบบคงที่
+  title: Expression 4
+  description: Expression 4 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Design,Encoder,Studio Ultimate,Web
   ms.openlocfilehash: ad3463184e4da721215fe51169c93401d2d9c848
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930881"
-name: นิพจน์4
+name: Expression 4
 summary: >+
-  นิพจน์ที่4เป็นไปตามนโยบายวัฏจักรแบบ [คง](/lifecycle/policies/fixed) ที่
+  Expression 4 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: การออกแบบ, ตัวเข้ารหัส, สตูดิโอที่ดีที่สุด, เว็บ
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Design, Encoder, Studio Ultimate, Web
 
 products:
 - expression
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 08/26/2010
   endDate: 07/14/2020
-content: "\n\n> [!NOTE]\n> จุดสิ้นสุดของการสนับสนุนหลักสำหรับนิพจน์ Studio ที่ดีที่สุดคือวันที่13ตุลาคม๒๐๑๕\n\n## <a name=\"editions\"></a>รุ่น \n* แบบ\n* ตัว\n* สตูดิโอที่ดีที่สุด\n* Web"
+content: "\n\n> [!NOTE]\n> การสิ้นสุดการสนับสนุนหลักสำหรับ Expression Studio Ultimate 4 คือวันที่ 13 ตุลาคม ค.ศ. 2015\n\n## <a name=\"editions\"></a>รุ่น \n* Design\n* Encoder\n* Studio Ultimate\n* Web"

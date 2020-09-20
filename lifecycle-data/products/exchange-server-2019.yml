@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Exchange Server ๒๐๑๙
-  description: Exchange Server ๒๐๑๙จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Exchange Server 2019
+  description: Exchange Server 2019 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 56188a0231413a812f5b4dea4eb8371c9bc9110b
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931140"
-name: Exchange Server ๒๐๑๙
+name: Exchange Server 2019
 summary: >+
-  Exchange Server ๒๐๑๙จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Exchange Server 2019 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Enterprise, Standard
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Standard
 
 products:
 - office

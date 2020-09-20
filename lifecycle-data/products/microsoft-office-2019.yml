@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office ๒๐๑๙
-  description: Microsoft Office ๒๐๑๙จะเป็นไปตามนโยบายวงจรชีวิตคงที่
+  title: Microsoft Office 2019
+  description: Microsoft Office 2019 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Personal,Professional,Professional Academic,Professional Plus,Standard
   ms.openlocfilehash: 902490302b48c61548ee755b3765506bb1e53b04
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "930400"
-name: Microsoft Office ๒๐๑๙
+name: Microsoft Office 2019
 summary: >+
-  Microsoft Office ๒๐๑๙จะเป็นไปตามนโยบายวงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Microsoft Office 2019 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  การดำเนินการนี้จะนำไปใช้กับรุ่นต่อไปนี้: หน้าแรกและธุรกิจ, Home and Student, ส่วนตัว, มืออาชีพ, วิชาชีพนักวิชาการ, Professional Plus, Standard
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Home and Business, Home and Student, Personal, Professional, Professional Academic, Professional Plus, Standard
 
 products:
 - office

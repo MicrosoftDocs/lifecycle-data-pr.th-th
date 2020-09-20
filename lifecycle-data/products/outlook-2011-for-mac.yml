@@ -1,16 +1,16 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Outlook 2011 สําหรับ Mac
-  description: Outlook 2011 for Mac เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Outlook 2011 for Mac
+  description: Outlook 2011 for Mac เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 61a62fb9ad78ceb10de85cd875d2435072b9c770
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864411"
-name: Outlook 2011 สําหรับ Mac
-summary: "Outlook 2011 for Mac เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว \n"
+name: Outlook 2011 for Mac
+summary: "Outlook 2011 for Mac เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)\n\n\n> [!IMPORTANT]\n> การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว \n"
 products:
 - office
 policyType: fixed-mainstream-only
@@ -21,4 +21,4 @@ releases:
 - version: Original Release
   startDate: 12/09/2010
   endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> การสนับสนุนหลักสําหรับ Microsoft Office สําหรับ Mac 2011 ถูกขยายตามที่แสดงเพื่อให้ลูกค้าทั้งหมดมีระยะเวลาในการเปลี่ยนวงจรชีวิตมาตรฐาน"
+content: "\n\n> [!NOTE]\n> การสนับสนุนหลักสำหรับ Microsoft Office for Mac 2011 ได้รับการขยายเวลาออกไปดังที่แสดงเอาไว้ เพื่อให้ลูกค้าทุกคนได้รับไทม์ไลน์ในการเปลี่ยนแปลงวงจรการใช้งานแบบมาตรฐาน"

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Office Live Meeting
-  description: การประชุม Office Live ต่อไปนี้เป็นนโยบายวัฏจักรสมัยใหม่
+  description: Office Live Meeting เป็นไปตามนโยบายวงจรการใช้งานสมัยใหม่
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f5d328b887173c82655f707e9d931266c2d7b857
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "928920"
 name: Office Live Meeting
-summary: "การประชุม Office Live ต่อไปนี้เป็นนโยบายวัฏจักร[สมัยใหม่](/lifecycle/policies/modern)\n\nสิ่งนี้ใช้กับรุ่นต่อไปนี้: Standard\n\n> [!IMPORTANT]\n> การสนับสนุนสำหรับบริการนี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง \n"
+summary: "Office Live Meeting เป็นไปตามนโยบายวงจรการใช้งาน [สมัยใหม่](/lifecycle/policies/modern)\n\nสิ่งนี้ใช้กับรุ่นต่อไปนี้: Standard\n\n> [!IMPORTANT]\n> การสนับสนุนสำหรับบริการนี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง \n"
 products:
 - office
 policyType: modern-online

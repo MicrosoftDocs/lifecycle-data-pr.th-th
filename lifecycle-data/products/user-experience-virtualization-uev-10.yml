@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: การจําลองเสมือนประสบการณ์การใช้งานของผู้ใช้ (UE-V) 1.0
-  description: การจําลองเสมือนประสบการณ์การใช้งานของผู้ใช้ (UE-V) 1.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
+  title: User Experience Virtualization (UE-V) 1.0
+  description: User Experience Virtualization (UE-V) 1.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 4be913f32a545326fbfcd9b752017f9f4070c6ec
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864401"
-name: การจําลองเสมือนประสบการณ์การใช้งานของผู้ใช้ (UE-V) 1.0
+name: User Experience Virtualization (UE-V) 1.0
 summary: >+
-  การจําลองเสมือนประสบการณ์การใช้งานของผู้ใช้ (UE-V) 1.0 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  User Experience Virtualization (UE-V) 1.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

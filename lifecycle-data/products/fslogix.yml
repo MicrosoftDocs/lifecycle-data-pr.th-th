@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: FSLogix
-  description: FSLogix ตามนโยบายวงจรชีวิตสมัยใหม่
+  description: FSLogix เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
   ms.date: 07/28/2020
   ms.openlocfilehash: 22f58db08e156a88911a67899e81a054683a0d34
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864524"
 name: FSLogix
 summary: >+
-  FSLogix ตามนโยบายวงจร[ชีวิตสมัยใหม่](/lifecycle/policies/modern)
+  FSLogix เป็นไปตามนโยบายวงจรการใช้งาน [แบบสมัยใหม่](/lifecycle/policies/modern)
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 03/15/2016
   endDate: 09/01/2019
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ดาวน์โหลดและติดตั้ง FSLogix](/fslogix/install-ht)\n* [การสนับสนุน FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> การสนับสนุนสําหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการซื้อกิจการ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ดาวน์โหลดและติดตั้ง FSLogix](/fslogix/install-ht)\n* [การสนับสนุน FSLogix](https://social.msdn.microsoft.com/Forums/14ea5f6f-760b-4ad2-83cf-23c3cbc1bcc4/how-to-open-a-fslogix-support-request?forum=FSLogix)\n\n> [!NOTE]\n> การสนับสนุนสำหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการจัดซื้อ"
