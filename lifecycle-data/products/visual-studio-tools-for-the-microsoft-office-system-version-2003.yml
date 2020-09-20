@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เครื่องมือ Studio แสดงผลสําหรับ Microsoft Office รุ่นระบบ 2003
-  description: เครื่องมือ Studio Visual สําหรับ Microsoft Office รุ่นระบบ 2003 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Visual Studio Tools for the Microsoft Office System version 2003
+  description: Visual Studio Tools for the Microsoft Office System version 2003 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: b877fed2caa81c31462f70f8db36b2ea28ef67e5
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842806"
-name: เครื่องมือ Studio แสดงผลสําหรับ Microsoft Office รุ่นระบบ 2003
+name: Visual Studio Tools for the Microsoft Office System version 2003
 summary: >+
-  เครื่องมือ Studio Visual สําหรับ Microsoft Office รุ่นระบบ 2003 ตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  Visual Studio Tools for the Microsoft Office System version 2003 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

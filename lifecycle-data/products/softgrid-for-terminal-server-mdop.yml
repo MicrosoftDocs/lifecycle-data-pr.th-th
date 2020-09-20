@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ซอฟต์กริดสําหรับเซิร์ฟเวอร์เทอร์มินัล (MDOP)
-  description: Softgrid สําหรับเซิร์ฟเวอร์เทอร์มินัล (MDOP) ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Softgrid for Terminal Server (MDOP)
+  description: Softgrid for Terminal Server (MDOP) เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 678dd6057802afee1e92f8bba4296ee1b620a97d
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842660"
-name: ซอฟต์กริดสําหรับเซิร์ฟเวอร์เทอร์มินัล (MDOP)
+name: Softgrid for Terminal Server (MDOP)
 summary: >+
-  Softgrid สําหรับเซิร์ฟเวอร์เทอร์มินัล (MDOP) ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Softgrid for Terminal Server (MDOP) เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําถามที่พบบ่อยเกี่ยวกับวงจรชีวิต - ทั่วไป](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> ยกเว้นรุ่นก่อนหน้านี้ยกเลิกการสนับสนุน การสนับสนุนสําหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการซื้อกิจการ"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ทั่วไป](/lifecycle/faq/general-lifecycle)\n\n> [!NOTE]\n> ไม่รวมเวอร์ชันที่ไม่รองรับก่อนหน้านี้ การสนับสนุนสำหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการจัดซื้อ"
