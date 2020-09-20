@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office ๒๐๑๖ for Mac
-  description: Microsoft Office ๒๐๑๖ for Mac จะเป็นไปตามนโยบายวงจรชีวิตคงที่
+  title: Microsoft Office 2016 for Mac
+  description: Microsoft Office 2016 for Mac เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Home and Business,Home and Student,Standard
   ms.openlocfilehash: b92cf0db708d566826b8d260ef9026bc308c41ce
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "936320"
-name: Microsoft Office ๒๐๑๖ for Mac
+name: Microsoft Office 2016 for Mac
 summary: >+
-  Microsoft Office ๒๐๑๖ for Mac จะเป็นไปตามนโยบายวงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Microsoft Office 2016 for Mac เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  การดำเนินการนี้จะนำไปใช้กับรุ่นต่อไปนี้: Home และ Business, Home และ Student, Standard
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Home and Business, Home and Student, Standard
 
 products:
 - office
