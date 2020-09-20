@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ระบบศูนย์ Microsoft ตัวจัดการการป้องกันข้อมูล 2010
-  description: ตัวจัดการการป้องกันข้อมูลของ Microsoft System Center 2010 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft System Center Data Protection Manager 2010
+  description: Microsoft System Center Data Protection Manager 2010 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 7534f6aceaf0d1bb13a70109e9df6b5dd07c1153
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843237"
-name: ระบบศูนย์ Microsoft ตัวจัดการการป้องกันข้อมูล 2010
+name: Microsoft System Center Data Protection Manager 2010
 summary: >+
-  ตัวจัดการการป้องกันข้อมูลของ Microsoft System Center 2010 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft System Center Data Protection Manager 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 10/13/2020
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [คําแนะนําการโยกย้าย](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการโอนย้ายข้อมูล ](/system-center/dpm/upgrade-dpm?view=sc-dpm-2019)"

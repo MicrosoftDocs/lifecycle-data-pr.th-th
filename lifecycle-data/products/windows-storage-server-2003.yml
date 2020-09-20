@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: 2003 เซิร์ฟเวอร์การจัดเก็บของ Windows
-  description: เซิร์ฟเวอร์ที่เก็บของ Windows 2003 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows Storage Server 2003
+  description: Windows Storage Server 2003 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 065ac07411e0e7178b8eba5b5c8f11989dc654aa
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842630"
-name: 2003 เซิร์ฟเวอร์การจัดเก็บของ Windows
+name: Windows Storage Server 2003
 summary: >
-  เซิร์ฟเวอร์ที่เก็บของ Windows 2003 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Windows Storage Server 2003 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสําหรับผลิตภัณฑ์นี้ได้สิ้นสุดลงแล้ว ดูคําแนะนําการโยกย้ายด้านล่าง
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
 - windows
 policyType: fixed
@@ -29,4 +29,4 @@ releases:
 - version: Original Release
   startDate: 05/05/2003
   endDate: 04/10/2007
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ภาพรวมของการปรับรุ่น Windows Server](/windows-server/upgrade/upgrade-overview)\n* [ข้อมูลการอัพเกรดเพิ่มเติม](/windows-server/get-started/installation-and-upgrade)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ภาพรวมของการอัปเกรด Windows Server](/windows-server/upgrade/upgrade-overview)\n* [ข้อมูลการอัปเกรดเพิ่มเติม](/windows-server/get-started/installation-and-upgrade)"

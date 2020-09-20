@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: บริการข้อมูลทางอินเทอร์เน็ตของ Microsoft 7.0
-  description: บริการข้อมูลทางอินเทอร์เน็ตของ Microsoft 7.0 เป็นไปตามนโยบายวงจรการใช้งานคอมโพเนนต์
+  title: Microsoft Internet Information Services 7.0
+  description: Microsoft Internet Information Services 7.0 เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
   ms.date: 07/28/2020
   ms.openlocfilehash: 2db2bbc83343f99aea9be4749fa1fcd0aeb12220
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843659"
-name: บริการข้อมูลทางอินเทอร์เน็ตของ Microsoft 7.0
+name: Microsoft Internet Information Services 7.0
 summary: >+
-  บริการข้อมูลทางอินเทอร์เน็ตของ Microsoft 7.0 เป็นไปตามนโยบายวงจรการใช้งาน[คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft Internet Information Services 7.0 เป็นไปตามนโยบายวงจรการใช้งานของ [คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 01/25/2007
-content: "> [!TIP]\n> รุ่นนี้เป็นที่รู้จักกันเป็นคอมโพเนนต์ซึ่งเป็นไปตามวงจรการสนับสนุนของผลิตภัณฑ์หลัก, Windows Server 2008\n\n## <a name=\"links\"></a>เชื่อม โยง \n* [เซิร์ฟเวอร์ Windows 2008](/lifecycle/products/windows-server-2008)"
+content: "> [!TIP]\n> รุ่นนี้เป็นที่รู้จักกันว่าเป็นคอมโพเนนต์หนึ่ง ซึ่งเป็นไปตามวงจรการใช้งานการสนับสนุนของผลิตภัณฑ์หลัก ซึ่งก็คือ Windows Server 2008\n\n## <a name=\"links\"></a>ลิงก์ \n* [Windows Server 2008](/lifecycle/products/windows-server-2008)"

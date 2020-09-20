@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: แฟ้ม BizTalk Microsoftการดําเนินการและอะแดปเตอร์ระหว่างการดําเนินการสําหรับ SWIFT
-  description: แฟ้ม BizTalk Microsoftและอะแดปเตอร์ระหว่างสําหรับ SWIFT ตามนโยบายวงจรชีวิตคงที่
+  title: Microsoft BizTalk FileAct และ InterAct Adapters สำหรับ SWIFT
+  description: Microsoft BizTalk FileAct and InterAct Adapters for SWIFT เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 654ca219f5eb9869d6bae2aaaef848a48af3560e
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843341"
-name: แฟ้ม BizTalk Microsoftการดําเนินการและอะแดปเตอร์ระหว่างการดําเนินการสําหรับ SWIFT
+name: Microsoft BizTalk FileAct และ InterAct Adapters สำหรับ SWIFT
 summary: >+
-  แฟ้ม BizTalk Microsoftและอะแดปเตอร์ระหว่างสําหรับ SWIFT ตามนโยบายวงจรชีวิต[คงที่](/lifecycle/policies/fixed)
+  Microsoft BizTalk FileAct and InterAct Adapters for SWIFT เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
