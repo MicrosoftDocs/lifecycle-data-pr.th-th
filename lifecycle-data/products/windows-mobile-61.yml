@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile ๖.๑
-  description: Windows Mobile ๖.๑จะเป็นไปตามนโยบายวงจรชีวิตคงที่
+  title: Windows Mobile 6.1
+  description: Windows Mobile 6.1 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Adaptation Kit,Professional,Standard
   ms.openlocfilehash: 97c434aaac90a1923508ffe5b1d18e735bfa4101
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939835"
-name: Windows Mobile ๖.๑
+name: Windows Mobile 6.1
 summary: >
-  Windows Mobile ๖.๑จะเป็นไปตามนโยบายวงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Windows Mobile 6.1 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: ชุดการปรับตัวแบบมืออาชีพมาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Adaptation Kit, Professional, Standard
 
 
   > [!IMPORTANT]
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2008
   endDate: 01/08/2013
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* ชุดการปรับตัว\n* Professional\n* Standard"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* Adaptation Kit\n* Professional\n* Standard"

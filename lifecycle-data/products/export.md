@@ -1,13 +1,13 @@
 ---
 title: การส่งออกข้อมูลวงจรชีวิต
 description: ส่งออกข้อมูลวัฏจักรของผลิตภัณฑ์
-ms.date: 09/14/2020
-ms.openlocfilehash: 66fc9fb6f5f5660380570bae8d69a327c9a1db80
-ms.sourcegitcommit: a246bd5f3f9227f1dbfca6471808b64cb076623a
+ms.date: 09/18/2020
+ms.openlocfilehash: eaaece725a9a3535c228d48598195b4b4a50401d
+ms.sourcegitcommit: 445dd417cde533a0479a2e7012b0a7bc5338e3a1
 ms.translationtype: MT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/14/2020
-ms.locfileid: "1008484"
+ms.lasthandoff: 09/18/2020
+ms.locfileid: "1025049"
 ---
 # <a name="lifecycle-data-export"></a>การส่งออกข้อมูลวงจรชีวิต
 

@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวเร่ง Microsoft BizTalk สำหรับบริการทางการเงิน๑.๐
-  description: ตัวเร่ง Microsoft BizTalk สำหรับบริการทางการเงิน๑.๐เป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Microsoft BizTalk Accelerator for Financial Services 1.0
+  description: Microsoft BizTalk Accelerator for Financial Services 1.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 4e6c4d0bd0d99808dff1c4cd2cf01f6c0ba6adf6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "935358"
-name: ตัวเร่ง Microsoft BizTalk สำหรับบริการทางการเงิน๑.๐
+name: Microsoft BizTalk Accelerator for Financial Services 1.0
 summary: >+
-  ตัวเร่ง Microsoft BizTalk สำหรับบริการทางการเงิน๑.๐เป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Microsoft BizTalk Accelerator for Financial Services 1.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Enterprise, Standard
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Standard
 
 products:
 - microsoft-servers

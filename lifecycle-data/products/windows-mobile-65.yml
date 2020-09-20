@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows Mobile ๖.๕
-  description: Windows Mobile ๖.๕จะเป็นไปตามนโยบายวงจรชีวิตคงที่
+  title: Windows Mobile 6.5
+  description: Windows Mobile 6.5 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Professional,Standard
   ms.openlocfilehash: 33efcc83ffb0f417751ab3b65937ba480a5d0ac7
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939761"
-name: Windows Mobile ๖.๕
+name: Windows Mobile 6.5
 summary: >
-  Windows Mobile ๖.๕จะเป็นไปตามนโยบายวงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Windows Mobile 6.5 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
   สิ่งนี้ใช้กับรุ่นต่อไปนี้: Professional, Standard

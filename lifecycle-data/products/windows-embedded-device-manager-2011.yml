@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวจัดการอุปกรณ์ที่ฝังตัวของ Windows ๒๐๑๑
-  description: ตัวจัดการอุปกรณ์ที่ฝังตัวของ Windows ๒๐๑๑จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Windows Embedded Device Manager 2011
+  description: Windows Embedded Device Manager 2011 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Client,SDK,Server
   ms.openlocfilehash: 8d46a10b12894b95bfb25872c893b3148aa7a550
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "939946"
-name: ตัวจัดการอุปกรณ์ที่ฝังตัวของ Windows ๒๐๑๑
+name: Windows Embedded Device Manager 2011
 summary: >
-  ตัวจัดการอุปกรณ์ที่ฝังตัวของ Windows ๒๐๑๑จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Windows Embedded Device Manager 2011 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้นำไปใช้กับรุ่นต่อไปนี้: ไคลเอ็นต์, SDK, เซิร์ฟเวอร์
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Client, SDK, Server
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 05/29/2011
   endDate: 01/08/2013
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ไคลเอ็นต์\n* SDK\n* Server"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ไคลเอ็นต์\n* SDK\n* เซิร์ฟเวอร์"

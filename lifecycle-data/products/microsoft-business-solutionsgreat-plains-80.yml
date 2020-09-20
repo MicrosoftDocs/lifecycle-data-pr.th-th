@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Business Solutions--ที่ราบดี๘.๐
-  description: Microsoft Business Solutions--ที่ราบยอดเยี่ยม๘.๐ต่อไปนี้นโยบายวัฏจักรที่ได้รับการแก้ไข
+  title: Microsoft Business Solutions--Great Plains 8.0
+  description: Microsoft Business Solutions--Great Plains 8.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: 536666c99ff11026e44547243dc841425050faaa
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934692"
-name: Microsoft Business Solutions--ที่ราบดี๘.๐
+name: Microsoft Business Solutions--Great Plains 8.0
 summary: >
-  Microsoft Business Solutions--ที่ราบยอดเยี่ยม๘.๐ต่อไปนี้นโยบายวัฏจักรที่ได้รับการ[แก้ไข](/lifecycle/policies/fixed)
+  Microsoft Business Solutions--Great Plains 8.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
   สิ่งนี้ใช้กับรุ่นต่อไปนี้: Standard
@@ -20,7 +20,7 @@ summary: >
 
   > [!IMPORTANT]
 
-  > การสนับสนุนสำหรับผลิตภัณฑ์นี้มีสิ้นสุดวันที่13ตุลาคม๒๐๐๙
+  > การสนับสนุนสำหรับผลิตภัณฑ์นี้สิ้นสุดลงแล้ววันที่ 13 ตุลาคม ค.ศ. 2009
 products:
 - dynamics
 policyType: fixed-mainstream-only
