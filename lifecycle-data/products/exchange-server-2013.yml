@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Exchange Server ๒๐๑๓
-  description: Exchange Server ๒๐๑๓จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Exchange Server 2013
+  description: Exchange Server 2013 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 4362a67d623b5d2b1c99600a31880e0a584137a5
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "931325"
-name: Exchange Server ๒๐๑๓
+name: Exchange Server 2013
 summary: >+
-  Exchange Server ๒๐๑๓จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Exchange Server 2013 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Enterprise, Standard
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Standard
 
 products:
 - office

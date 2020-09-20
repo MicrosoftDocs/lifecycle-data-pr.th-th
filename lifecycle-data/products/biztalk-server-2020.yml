@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: BizTalk Server ๒๐๒๐
-  description: BizTalk Server ๒๐๒๐จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: BizTalk Server 2020
+  description: BizTalk Server 2020 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Branch,Developer,Enterprise,Standard
   ms.openlocfilehash: 029f4f55b44e8b40b27261ba44bdd3cef775e6d0
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932139"
-name: BizTalk Server ๒๐๒๐
+name: BizTalk Server 2020
 summary: >+
-  BizTalk Server ๒๐๒๐จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  BizTalk Server 2020 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
   สิ่งนี้ใช้กับรุ่นต่อไปนี้: Branch, Developer, Enterprise, Standard

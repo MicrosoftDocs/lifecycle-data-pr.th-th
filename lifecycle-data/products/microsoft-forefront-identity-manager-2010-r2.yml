@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวจัดการข้อมูลประจําตัวของ Forsfront Microsoft 2010 R2
-  description: ตัวจัดการข้อมูลประจําตัวของ Microsoft Forsfront 2010 R2 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Forefront Identity Manager 2010 R2
+  description: Microsoft Forefront Identity Manager 2010 R2 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 73bd6dedc5fd3618801bd75b09eda9c7bbfaf460
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864662"
-name: ตัวจัดการข้อมูลประจําตัวของ Forsfront Microsoft 2010 R2
+name: Microsoft Forefront Identity Manager 2010 R2
 summary: >+
-  ตัวจัดการข้อมูลประจําตัวของ Microsoft Forsfront 2010 R2 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Forefront Identity Manager 2010 R2 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 07/24/2012
   endDate: 04/08/2014
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [นโยบายเซอร์วิสแพ็ค](/lifecycle/policies/fixed#service-packs)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)"

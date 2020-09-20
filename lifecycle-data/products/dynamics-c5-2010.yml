@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Dynamics C5 ๒๐๑๐
-  description: Dynamics C5 ๒๐๑๐ต่อไปนี้ตามนโยบายวัฏจักรที่ได้รับการแก้ไข
+  title: Dynamics C5 2010
+  description: Dynamics C5 2010 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Standard
   ms.openlocfilehash: f391af0a4393f73c8cdc73a17e71a011b8aaa7fc
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "932028"
-name: Dynamics C5 ๒๐๑๐
+name: Dynamics C5 2010
 summary: >+
-  Dynamics C5 ๒๐๑๐ต่อไปนี้ตามนโยบายวัฏจักรที่ได้รับการ[แก้ไข](/lifecycle/policies/fixed)
+  Dynamics C5 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
   สิ่งนี้ใช้กับรุ่นต่อไปนี้: Standard
