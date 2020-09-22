@@ -1,0 +1,32 @@
+### YamlMime:Lifecycle
+metadata:
+  title: การตรวจสอบความถูกต้องของข้อมูลประจำตัว Alacris Server/ไคลเอ็นต์
+  description: Alacris การตรวจสอบความถูกต้องของข้อมูลประจำตัวของเซิร์ฟเวอร์/ไคลเอ็นต์ตามกรมธรรม์วงจรชีวิตคงที่
+  ms.date: 09/10/2020
+  keywords: 
+  ms.openlocfilehash: b5857ca1946f0997051c9c6113c86ee5933555d3
+  ms.sourcegitcommit: aad3374f5e2d7399cba4e705265ade76f11419d8
+  ms.translationtype: MT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 09/21/2020
+  ms.locfileid: "1025392"
+name: การตรวจสอบความถูกต้องของข้อมูลประจำตัว Alacris Server/ไคลเอ็นต์
+summary: >
+  Alacris การตรวจสอบความถูกต้องของข้อมูลประจำตัวของเซิร์ฟเวอร์/ไคลเอ็นต์ตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+
+
+
+  > [!IMPORTANT]
+
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว
+products:
+- m365
+policyType: fixed-mainstream-only
+supportDates:
+  start: 03/07/2006
+  end: 12/31/2007
+releases:
+- version: Original Release
+  startDate: 03/07/2006
+  endDate: 12/31/2007
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ทั่วไป](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> ไม่รวมเวอร์ชันที่ไม่รองรับก่อนหน้านี้ การสนับสนุนสำหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการจัดซื้อ"
