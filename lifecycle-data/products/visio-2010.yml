@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Visio ๒๐๑๐
-  description: Visio ๒๐๑๐จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Visio 2010
+  description: Visio 2010 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Premium,Professional,Standard
   ms.openlocfilehash: c716322b214c44ce9cfe9f102d9260a24f2d0877
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937874"
-name: Visio ๒๐๑๐
+name: Visio 2010
 summary: >+
-  Visio ๒๐๑๐จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Visio 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้จะนำไปใช้กับรุ่นต่อไปนี้: Premium, Professional, Standard
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Premium, Professional, Standard
 
 products:
 - office

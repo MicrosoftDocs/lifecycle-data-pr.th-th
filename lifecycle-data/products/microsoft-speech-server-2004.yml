@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Speech Server ๒๐๐๔
-  description: Microsoft Speech Server ๒๐๐๔จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Microsoft Speech Server 2004
+  description: Microsoft Speech Server 2004 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: 2fb4a48b2caffce89e54dac838ff7f1149886d48
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "937097"
-name: Microsoft Speech Server ๒๐๐๔
+name: Microsoft Speech Server 2004
 summary: >+
-  Microsoft Speech Server ๒๐๐๔จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Microsoft Speech Server 2004 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Enterprise, Standard
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Standard
 
 products:
 - office
