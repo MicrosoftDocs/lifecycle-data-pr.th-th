@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Office ตรวจสอบและควบคุมการจัดการเซิร์ฟเวอร์๒๐๑๓
-  description: Microsoft Office ตรวจสอบและควบคุมการจัดการ Server ๒๐๑๓จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Microsoft Office Audit and Control Management Server 2013
+  description: Microsoft Office Audit and Control Management Server 2013 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 08/21/2020
   ms.openlocfilehash: 95c21c2239aee0e4e83c2caf5dc3752c0915b58e
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "907930"
-name: Microsoft Office ตรวจสอบและควบคุมการจัดการเซิร์ฟเวอร์๒๐๑๓
+name: Microsoft Office Audit and Control Management Server 2013
 summary: >+
-  Microsoft Office ตรวจสอบและควบคุมการจัดการ Server ๒๐๑๓จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Microsoft Office Audit and Control Management Server 2013 เป็นไปตามนโยบายวงจรการใช้ [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

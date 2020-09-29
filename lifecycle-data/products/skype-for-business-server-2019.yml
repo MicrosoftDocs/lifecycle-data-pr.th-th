@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Skype สําหรับธุรกิจเซิร์ฟเวอร์ 2019
-  description: Skype สําหรับธุรกิจเซิร์ฟเวอร์ 2019 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Skype สำหรับ Business Server 2019
+  description: Skype for Business Server 2019 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 1e16227ae7297efb028f02ceb3ac8bfc11ce6864
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872764"
-name: Skype สําหรับธุรกิจเซิร์ฟเวอร์ 2019
+name: Skype สำหรับ Business Server 2019
 summary: >+
-  Skype สําหรับธุรกิจเซิร์ฟเวอร์ 2019 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Skype for Business Server 2019 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

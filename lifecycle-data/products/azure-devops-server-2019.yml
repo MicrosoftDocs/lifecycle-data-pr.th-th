@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ DevOps Azure 2019
-  description: 2019 เซิร์ฟเวอร์ DevOps azure ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Azure DevOps Server 2019
+  description: Azure DevOps Server 2019 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: a15d9ba4c905a38a9743b959a5b36e8e3f24ec3b
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872724"
-name: เซิร์ฟเวอร์ DevOps Azure 2019
+name: Azure DevOps Server 2019
 summary: >+
-  2019 เซิร์ฟเวอร์ DevOps azure ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Azure DevOps Server 2019 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

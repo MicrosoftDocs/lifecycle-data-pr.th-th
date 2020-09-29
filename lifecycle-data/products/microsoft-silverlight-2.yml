@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
   title: Microsoft Silverlight 2
-  description: Microsoft Silverlight 2 เป็นไปตามนโยบายวงจรชีวิตคงที่
+  description: Microsoft Silverlight 2 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 08/19/2020
   ms.openlocfilehash: 618979f69c809bc5e02dc991417fa3162f59279a
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904597"
 name: Microsoft Silverlight 2
 summary: >+
-  Microsoft Silverlight 2 เป็นไปตามนโยบายวงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Microsoft Silverlight 2 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 10/10/2008
   endDate: 10/12/2010
-content: "\n\n> [!NOTE]\n> การสนับสนุนสำหรับเครื่องมือสิ้นสุดไม่น้อยกว่า12เดือนตามวันที่แจ้งให้ทราบ"
+content: "\n\n> [!NOTE]\n> การสนับสนุนสําหรับเครื่องมือสิ้นสุดลงไม่น้อยกว่า 12 เดือน นับจากวันที่แจ้งเตือน"

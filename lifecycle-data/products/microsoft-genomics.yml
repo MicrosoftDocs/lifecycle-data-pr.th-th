@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์จีโนมิกส์
-  description: จีโนมิคของ Microsoft เป็นไปตามนโยบายวงจรชีวิตสมัยใหม่
+  title: Microsoft Genomics
+  description: Microsoft Genomics เป็นไปตามนโยบายวงจรการใช้งานสมัยใหม่
   ms.date: 07/28/2020
   ms.openlocfilehash: 9f52d7baf49b2bad411cda9bc96706cfc39bd5c0
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872675"
-name: ไมโครซอฟท์จีโนมิกส์
+name: Microsoft Genomics
 summary: >+
-  จีโนมิคของ Microsoft เป็นไปตามนโยบายวงจรชีวิต[สมัยใหม่](/lifecycle/policies/modern)
+  Microsoft Genomics เป็นไปตามนโยบายวงจรการใช้งาน [สมัยใหม่](/lifecycle/policies/modern)
 
 
 products:
@@ -22,4 +22,4 @@ supportDates:
 releases:
 - version: Original Release
   startDate: 11/01/2017
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลการให้บริการ](/azure/genomics/version-release-history-genomics)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลการให้บริการ](/azure/genomics/version-release-history-genomics)"

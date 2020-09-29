@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: บริการ BizTalk ของ Azure
-  description: บริการ BizTalk ของ Azure ต่อไปนี้ตามนโยบายวัฏจักรสมัยใหม่
+  title: Azure BizTalk Services
+  description: Azure BizTalk Services เป็นไปตามนโยบายวงจรการใช้งานสมัยใหม่
   ms.date: 08/19/2020
   ms.openlocfilehash: 3fba232a5fce7a5cbc705ce79978718f84181737
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904587"
-name: บริการ BizTalk ของ Azure
+name: Azure BizTalk Services
 summary: >+
-  บริการ BizTalk ของ Azure ต่อไปนี้ตามนโยบายวัฏจักร[สมัยใหม่](/lifecycle/policies/modern)
+  Azure BizTalk Services เป็นไปตามนโยบายวงจรการใช้งาน [สมัยใหม่](/lifecycle/policies/modern)
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 11/21/2013
   endDate: 05/31/2018
-content: "\n## <a name=\"links\"></a>เชื่อม \n* [คำแนะนำในการโยกย้าย](https://azure.microsoft.com/services/biztalk-services)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://azure.microsoft.com/services/biztalk-services)"

@@ -1,23 +1,23 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Edge แบบดั้งเดิม
-  description: Microsoft Edge สืบทอดตามนโยบายวัฏจักรของคอมโพเนนต์
+  title: Microsoft Edge Legacy
+  description: Microsoft Edge Legacy เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
   ms.date: 08/24/2020
   ms.openlocfilehash: e3739694176a49b69fa121857ed8740523a36816
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908939"
-name: Microsoft Edge แบบดั้งเดิม
+name: Microsoft Edge Legacy
 summary: >
-  Microsoft Edge สืบทอดตามนโยบายวัฏจักรของ[คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Microsoft Edge Legacy เป็นไปตามนโยบายวงจรการใช้งานของ [คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
 
   > [!IMPORTANT]
 
-  > โปรดทราบว่าการสนับสนุนสำหรับผลิตภัณฑ์นี้สิ้นสุดในวันที่9มีนาคม๒๐๒๑ ไป [ที่นี่](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) เพื่อเรียนรู้เพิ่มเติม
+  > โปรดทราบว่าการสนับสนุนผลิตภัณฑ์นี้จะสิ้นสุดลงในวันที่ 9 มีนาคม ค.ศ. 2021 ไป [ที่นี่](https://techcommunity.microsoft.com/t5/microsoft-365-blog/microsoft-365-apps-say-farewell-to-internet-explorer-11-and/ba-p/1591666) เพื่อเรียนรู้เพิ่มเติม
 products:
 - microsoft-edge
 policyType: component

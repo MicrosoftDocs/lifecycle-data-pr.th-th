@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Adxstudio พอร์ทัล v6 x หรือก่อนหน้า
-  description: Adxstudio พอร์ทัล v6 หรือก่อนหน้านี้จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Adxstudio Portals v6.x หรือรุ่นก่อนหน้า
+  description: Adxstudio Portals v6.x หรือรุ่นก่อนหน้า เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 08/28/2020
   ms.openlocfilehash: d30568ac94980a8ea178e1971f3841f5093514fa
   ms.sourcegitcommit: 570c824dbe19150d37398333df7d2c416a51eac9
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 08/28/2020
   ms.locfileid: "924448"
-name: Adxstudio พอร์ทัล v6 x หรือก่อนหน้า
+name: Adxstudio Portals v6.x หรือรุ่นก่อนหน้า
 summary: >+
-  Adxstudio พอร์ทัล v6 หรือก่อนหน้านี้จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Adxstudio Portals v6.x หรือรุ่นก่อนหน้า เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 09/29/2015
   endDate: 04/12/2016
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำถามที่ถามบ่อยเกี่ยวกับวัฏจักร-การซื้อ](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> การสนับสนุนสำหรับผลิตภัณฑ์นี้อยู่ภายใต้ข้อกำหนดของการซื้อและสิ้นสุดลง"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - การจัดหา](/lifecycle/faq/general-lifecycle#what-is-the-lifecycle-policy-for-products-or-companies-that-microsoft-acquires)\n\n> [!NOTE]\n> การสนับสนุนสำหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการจัดหาและได้สิ้นสุดลงแล้ว"
