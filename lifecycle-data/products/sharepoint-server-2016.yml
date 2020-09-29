@@ -1,18 +1,18 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: SharePoint Server ๒๐๑๖
-  description: SharePoint Server ๒๐๑๖จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: SharePoint Server 2016
+  description: SharePoint Server 2016 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: ''
   ms.openlocfilehash: 14f1c2b997bd6d39354b686f28c341218d41abc5
   ms.sourcegitcommit: 37b80a1b6fcda4dc6147d99a362a75b884d08a51
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/02/2020
   ms.locfileid: "941753"
-name: SharePoint Server ๒๐๑๖
+name: SharePoint Server 2016
 summary: >+
-  SharePoint Server ๒๐๑๖จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  SharePoint Server 2016 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -26,4 +26,4 @@ releases:
 - version: Original Release
   startDate: 05/01/2016
   endDate: 07/14/2026
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลการให้บริการ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> ดูเอกสารประกอบของ[ผลิตภัณฑ์](https://docs.microsoft.com/sharepoint/sharepoint-server)และ[นักพัฒนา](https://developer.microsoft.com/sharepoint/docs)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลการให้บริการ](/SharePoint/product-servicing-policy/updated-product-servicing-policy-for-sharepoint-server-2016)\n\n> [!NOTE]\n> โปรดดูเอกสารประกอบสำหรับ [ผลิตภัณฑ์](https://docs.microsoft.com/sharepoint/sharepoint-server) และ [นักพัฒนา](https://developer.microsoft.com/sharepoint/docs)"

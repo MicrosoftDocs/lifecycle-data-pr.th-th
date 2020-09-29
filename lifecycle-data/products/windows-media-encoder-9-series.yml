@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ชุด Windows Media ตัวเข้ารหัส9ชุด
-  description: ชุดของ Windows Media ตัวเข้ารหัส9จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Windows Media Encoder 9 Series
+  description: Windows Media Encoder 9 Series เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: 64 Bit,Standard
   ms.openlocfilehash: 902d5b57d6d0e0615acf48da69f17582e84164b6
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "940020"
-name: ชุด Windows Media ตัวเข้ารหัส9ชุด
+name: Windows Media Encoder 9 Series
 summary: >+
-  ชุดของ Windows Media ตัวเข้ารหัส9จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Windows Media Encoder 9 Series เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  ซึ่งจะนำไปใช้กับรุ่นต่อไปนี้:๖๔ Bit, Standard
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: 64 Bit, Standard
 
 products:
 - windows
@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 11/15/2002
   endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> Windows Media ตัวเข้ารหัส 9 Series x 64 รุ่นที่เผยแพร่เมื่อวันที่15กันยายน๒๐๐๕\n\n## <a name=\"editions\"></a>รุ่น \n* 64 Bit\n* Standard"
+content: "\n\n> [!NOTE]\n> Windows Media Encoder 9 Series x64 Edition นำออกใช้เมื่อวันที่ 15 กันยายน ค.ศ. 2005\n\n## <a name=\"editions\"></a>รุ่น \n* 64 Bit\n* Standard"

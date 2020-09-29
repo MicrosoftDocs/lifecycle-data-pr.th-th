@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Groove ๓.๑
-  description: Groove ๓.๑จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Groove 3.1
+  description: Groove 3.1 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/03/2020
   keywords: Enterprise Backup Service,Enterprise Data Bridge,Enterprise Relay Server,Hosted Management Services,Hosted Relay Services,Office Project,Virtual Office File Sharing,Virtual Office Professional,Web Services Development Kit
   ms.openlocfilehash: 19dab25c567ea1b34565a675dffe9c99c6c21ba5
   ms.sourcegitcommit: 59291eb409a67c9e002fd0e45e37aca76d599df0
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/03/2020
   ms.locfileid: "950877"
-name: Groove ๓.๑
+name: Groove 3.1
 summary: >+
-  Groove ๓.๑จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  Groove 3.1 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  การทำเช่นนี้จะนำไปใช้กับเวอร์ชันต่อไปนี้: บริการการสำรองข้อมูลขององค์กร, บริดจ์ข้อมูลองค์กร, เซิร์ฟเวอร์การรีเลย์ขององค์กร, บริการการจัดการที่เป็นโฮสต์, บริการรีเลย์ที่โฮสต์, Project Project, การแชร์ไฟล์ Office เสมือน, Office Professional, Kit การพัฒนาเว็บเซอร์วิส
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Enterprise Backup Service, Enterprise Data Bridge, Enterprise Relay Server, Hosted Management Services, Hosted Relay Services, Office Project, Virtual Office File Sharing, Virtual Office Professional, Web Services Development Kit
 
 products:
 - office
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 07/01/2004
   endDate: 04/16/2010
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* บริการการสำรองข้อมูลขององค์กร\n* บริดจ์ข้อมูลขององค์กร\n* เซิร์ฟเวอร์การรีเลย์ขององค์กร\n* บริการการจัดการที่โฮสต์\n* บริการรีเลย์ที่โฮสต์\n* Office Project\n* การแชร์ไฟล์ Office เสมือน\n* Office แบบมืออาชีพเสมือน\n* ชุดการพัฒนาเว็บเซอร์วิส"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* Enterprise Backup Service\n* Enterprise Data Bridge\n* Enterprise Relay Server\n* Hosted Management Services\n* Hosted Relay Services\n* Office Project\n* Virtual Office File Sharing\n* Virtual Office Professional\n* Web Services Development Kit"
