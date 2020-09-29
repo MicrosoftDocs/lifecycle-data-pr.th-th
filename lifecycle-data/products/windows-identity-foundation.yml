@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: พื้นฐานข้อมูลประจําตัวของ Windows
-  description: พื้นฐานข้อมูลประจําตัวของ Windows เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Windows Identity Foundation
+  description: Windows Identity Foundation เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: bf0feb07b0de728c2a1e19c8e9476a943719a6b6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842635"
-name: พื้นฐานข้อมูลประจําตัวของ Windows
+name: Windows Identity Foundation
 summary: >+
-  พื้นฐานข้อมูลประจําตัวของ Windows เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Windows Identity Foundation เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

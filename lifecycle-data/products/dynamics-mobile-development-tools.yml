@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เครื่องมือพัฒนาอุปกรณ์เคลื่อนที่ของ Dynamics
-  description: เครื่องมือพัฒนา Dynamics Mobile เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
+  title: Dynamics Mobile Development Tools
+  description: Dynamics Mobile Development Tools เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
   ms.date: 07/28/2020
   ms.openlocfilehash: eacb8775d2e07be3c802073e4006099af4089699
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842991"
-name: เครื่องมือพัฒนาอุปกรณ์เคลื่อนที่ของ Dynamics
+name: Dynamics Mobile Development Tools
 summary: >+
-  เครื่องมือพัฒนา Dynamics Mobile เป็นไปตามนโยบายวงจรการใช้งาน[ของคอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Dynamics Mobile Development Tools เป็นไปตามนโยบายวงจรการใช้งานของ [คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
 products:

@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: โซลูชันทางธุรกิจของ Microsoft--โซโลมอน 6.0
-  description: โซลูชันทางธุรกิจของ Microsoft--โซโลมอน 6.0 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Business Solutions--Solomon 6.0
+  description: Microsoft Business Solutions--Solomon 6.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 540bb6a54428f0ebae78d2599649a27a4504fea6
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843329"
-name: โซลูชันทางธุรกิจของ Microsoft--โซโลมอน 6.0
+name: Microsoft Business Solutions--Solomon 6.0
 summary: >+
-  โซลูชันทางธุรกิจของ Microsoft--โซโลมอน 6.0 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Business Solutions--Solomon 6.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

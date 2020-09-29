@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์อินโฟพาธ 2003
-  description: Microsoft Office InfoPath 2003 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: Microsoft Office InfoPath 2003
+  description: Microsoft Office InfoPath 2003 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: c490e0240e02cc438b919d05116dc8595f3fedc3
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842931"
-name: ไมโครซอฟท์อินโฟพาธ 2003
+name: Microsoft Office InfoPath 2003
 summary: >+
-  Microsoft Office InfoPath 2003 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Office InfoPath 2003 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
