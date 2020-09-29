@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวจัดการการดําเนินงาน 2016 ศูนย์ระบบ
-  description: ตัวจัดการการดําเนินงาน 2016 ศูนย์ระบบตามนโยบายวงจรชีวิตแบบคงที่
+  title: System Center 2016 Operations Manager
+  description: System Center 2016 Operations Manager เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 2425df9d07aa43c7141ac3a66f658f81a109b555
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864766"
-name: ตัวจัดการการดําเนินงาน 2016 ศูนย์ระบบ
+name: System Center 2016 Operations Manager
 summary: >+
-  ตัวจัดการการดําเนินงาน 2016 ศูนย์ระบบตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  System Center 2016 Operations Manager เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

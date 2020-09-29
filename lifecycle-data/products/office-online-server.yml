@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ออนไลน์ของ Office
-  description: เซิร์ฟเวอร์ออนไลน์ของ Office เป็นไปตามนโยบายวงจรการใช้งานที่ทันสมัย
+  title: Office Online Server
+  description: Office Online Server เป็นไปตามนโยบายวงจรการใช้งานสมัยใหม่
   ms.date: 07/28/2020
   ms.openlocfilehash: 953cd5a923a96f676bc0204fc7c9419e95889496
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864444"
-name: เซิร์ฟเวอร์ออนไลน์ของ Office
+name: Office Online Server
 summary: >+
-  เซิร์ฟเวอร์ออนไลน์ของ Office เป็นไปตามนโยบายวงจรการใช้งาน[ที่ทันสมัย](/lifecycle/policies/modern)
+  Office Online Server เป็นไปตามนโยบายวงจรการใช้งาน [สมัยใหม่](/lifecycle/policies/modern)
 
 
 products:

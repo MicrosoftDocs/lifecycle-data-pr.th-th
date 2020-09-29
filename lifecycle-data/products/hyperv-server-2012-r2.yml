@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: เซิร์ฟเวอร์ Hyper-V 2012 R2
-  description: เซิร์ฟเวอร์ Hyper-V 2012 R2 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: Hyper-V Server 2012 R2
+  description: Hyper-V Server 2012 R2 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: b64900d0a04701e5f7f505d2234c43d520949d28
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864582"
-name: เซิร์ฟเวอร์ Hyper-V 2012 R2
+name: Hyper-V Server 2012 R2
 summary: >+
-  เซิร์ฟเวอร์ Hyper-V 2012 R2 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Hyper-V Server 2012 R2 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
