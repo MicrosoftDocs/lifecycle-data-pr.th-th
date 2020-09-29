@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: สิ่งจําเป็นสําหรับการเรียนรู้ 2.0 สําหรับ Microsoft Office
-  description: สิ่งจําเป็นสําหรับการเรียนรู้ 2.0 สําหรับ Microsoft Office เป็นไปตามนโยบายวงจรการใช้งานคอมโพเนนต์
+  title: Learning Essentials 2.0 for Microsoft Office
+  description: Learning Essentials 2.0 for Microsoft Office เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
   ms.date: 07/28/2020
   ms.openlocfilehash: 1bdfd924e319c432bbaf5d2b75f5945ca6408915
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843375"
-name: สิ่งจําเป็นสําหรับการเรียนรู้ 2.0 สําหรับ Microsoft Office
+name: Learning Essentials 2.0 for Microsoft Office
 summary: >+
-  สิ่งจําเป็นสําหรับการเรียนรู้ 2.0 สําหรับ Microsoft Office เป็นไปตามนโยบายวงจรการใช้งาน[คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
+  Learning Essentials 2.0 for Microsoft Office เป็นไปตามนโยบายวงจรการใช้งานของ [คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
 products:

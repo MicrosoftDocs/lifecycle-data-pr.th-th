@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: โซลูชันทางธุรกิจของ Microsoft สําหรับการวิเคราะห์ Forecaster 6.7
-  description: โซลูชันทางธุรกิจของ Microsoft สําหรับ Analytics Forecaster 6.7 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
+  title: Microsoft Business Solutions for Analytics Forecaster 6.7
+  description: Microsoft Business Solutions for Analytics Forecaster 6.7 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 36be353ad94fe53b83be08cae60d98902f0e7c92
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843335"
-name: โซลูชันทางธุรกิจของ Microsoft สําหรับการวิเคราะห์ Forecaster 6.7
+name: Microsoft Business Solutions for Analytics Forecaster 6.7
 summary: >+
-  โซลูชันทางธุรกิจของ Microsoft สําหรับ Analytics Forecaster 6.7 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Business Solutions for Analytics Forecaster 6.7 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

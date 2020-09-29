@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: การวินิจฉัยและการกู้คืน 6.5 เครื่องมือการวินิจฉัยของ Microsoft
-  description: การวินิจฉัยและการกู้คืนของ Microsoft Toolset 6.5 เป็นไปตามนโยบายวงจรชีวิตแบบคงที่
+  title: ชุดเครื่องมือการวินิจฉัยและการกู้คืน Microsoft 6.5
+  description: Microsoft Diagnostics and Recovery Toolset 6.5 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 1e9cfdf6271094dc9535df33e253f559501416ba
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843303"
-name: การวินิจฉัยและการกู้คืน 6.5 เครื่องมือการวินิจฉัยของ Microsoft
+name: ชุดเครื่องมือการวินิจฉัยและการกู้คืน Microsoft 6.5
 summary: >+
-  การวินิจฉัยและการกู้คืนของ Microsoft Toolset 6.5 เป็นไปตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Diagnostics and Recovery Toolset 6.5 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

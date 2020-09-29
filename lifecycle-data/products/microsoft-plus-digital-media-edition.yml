@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ไมโครซอฟท์พลัส! สื่อดิจิตอลฉบับ
-  description: ไมโครซอฟท์พลัส! รุ่นสื่อดิจิทัลเป็นไปตามนโยบายวงจรชีวิตคงที่
+  title: Microsoft Plus! Digital Media Edition
+  description: Microsoft Plus! Digital Media Edition เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 70735dde8da269fd12ebf6dabba3dcdbe33fbe76
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "842694"
-name: ไมโครซอฟท์พลัส! สื่อดิจิตอลฉบับ
+name: Microsoft Plus! Digital Media Edition
 summary: >+
-  ไมโครซอฟท์พลัส! รุ่นสื่อดิจิทัลเป็นไปตามนโยบายวงจรชีวิต[คงที่](/lifecycle/policies/fixed)
+  Microsoft Plus! Digital Media Edition เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

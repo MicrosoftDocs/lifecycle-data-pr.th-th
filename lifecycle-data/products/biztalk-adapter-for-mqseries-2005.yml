@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวปรับต่อ BizTalk สําหรับ MQSeries 2005
-  description: ตัวปรับต่อ BizTalk สําหรับ MQSeries 2005 ตามนโยบายวงจรชีวิตแบบคงที่
+  title: BizTalk Adapter for MQSeries 2005
+  description: BizTalk Adapter for MQSeries 2005 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: b38f030ecd18a0709313dc96f4237852115cc896
   ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/28/2020
   ms.locfileid: "843568"
-name: ตัวปรับต่อ BizTalk สําหรับ MQSeries 2005
+name: BizTalk Adapter for MQSeries 2005
 summary: >+
-  ตัวปรับต่อ BizTalk สําหรับ MQSeries 2005 ตามนโยบายวงจรชีวิต[แบบคงที่](/lifecycle/policies/fixed)
+  BizTalk Adapter for MQSeries 2005 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
