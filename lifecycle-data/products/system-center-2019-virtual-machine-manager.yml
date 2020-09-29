@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวจัดการเครื่องเสมือน 2019 ศูนย์ระบบ
-  description: ตัวจัดการเครื่องเสมือน 2019 ศูนย์ของระบบตามนโยบายวงจรชีวิตแบบคงที่
+  title: System Center 2019 Virtual Machine Manager
+  description: System Center 2019 Virtual Machine Manager เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 875ab9d5c18f9945a0b32539e1ae75401ebbd978
   ms.sourcegitcommit: e15c32a90036b92acce9ef863cc808ad719160b8
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "872806"
-name: ตัวจัดการเครื่องเสมือน 2019 ศูนย์ระบบ
+name: System Center 2019 Virtual Machine Manager
 summary: >+
-  ตัวจัดการเครื่องเสมือน 2019 ศูนย์ของระบบตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  System Center 2019 Virtual Machine Manager เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release
   startDate: 03/14/2019
   endDate: 04/09/2029
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลผลิตภัณฑ์](/system-center/)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์](/system-center/)"

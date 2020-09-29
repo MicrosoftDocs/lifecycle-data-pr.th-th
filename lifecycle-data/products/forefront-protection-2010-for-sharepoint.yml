@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ๒๐๑๐การป้องกัน Forefront สำหรับ SharePoint
-  description: ๒๐๑๐การป้องกัน Forefront สำหรับ SharePoint ต่อไปนี้นโยบายวัฏจักรที่ได้รับการแก้ไข
+  title: Forefront Protection 2010 for SharePoint
+  description: Forefront Protection 2010 for SharePoint เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 08/21/2020
   ms.openlocfilehash: cb0b92034979bf559cc72ac5d6b6302d3e986f39
   ms.sourcegitcommit: 2f3e18a9447115504ef274bd044dbcdb08231f5b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 08/25/2020
   ms.locfileid: "908938"
-name: ๒๐๑๐การป้องกัน Forefront สำหรับ SharePoint
+name: Forefront Protection 2010 for SharePoint
 summary: >+
-  ๒๐๑๐การป้องกัน Forefront สำหรับ SharePoint ต่อไปนี้นโยบายวัฏจักรที่ได้รับการ[แก้ไข](/lifecycle/policies/fixed)
+  Forefront Protection 2010 for SharePoint เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -24,4 +24,4 @@ releases:
 - version: Original Release
   startDate: 07/15/2010
   endDate: 12/31/2015
-content: "\n\n> [!NOTE]\n> แผนการใช้งานสำหรับผลิตภัณฑ์ด้านความปลอดภัยภายใต้แบรนด์ Forefront มีการเปลี่ยนแปลง ผลิตภัณฑ์นี้ยกเลิกการใช้งานในวันที่31ธันวาคม๒๐๑๕"
+content: "\n\n> [!NOTE]\n> แผนงานสำหรับผลิตภัณฑ์ด้านความปลอดภัยภายใต้แบรนด์ Forefront มีการเปลี่ยนแปลง  สินค้านี้ถูกยกเลิกตั้งแต่วันที่ 31 ธันวาคม ค.ศ. 2015\n\n\n"

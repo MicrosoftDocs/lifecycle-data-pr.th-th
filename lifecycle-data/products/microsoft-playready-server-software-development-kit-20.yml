@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft PlayReady Server Software Kit การพัฒนา๒.๐
-  description: ชุดการพัฒนาซอฟต์แวร์ Microsoft PlayReady Server ๒.๐ต่อไปนี้ตามนโยบายวัฏจักรแบบคงที่
+  title: Microsoft PlayReady Server Software Development Kit 2.0
+  description: Microsoft PlayReady Server Software Development Kit 2.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 08/21/2020
   ms.openlocfilehash: 61635292b88f853a5daeda3ffcc766a1786e42cd
   ms.sourcegitcommit: c4013bce086aedc575584ea34b1acb5c27d06a1b
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 08/21/2020
   ms.locfileid: "908078"
-name: Microsoft PlayReady Server Software Kit การพัฒนา๒.๐
+name: Microsoft PlayReady Server Software Development Kit 2.0
 summary: >+
-  ชุดการพัฒนาซอฟต์แวร์ Microsoft PlayReady Server ๒.๐ต่อไปนี้ตามนโยบายวัฏจักรแบบ [คง](/lifecycle/policies/fixed) ที่
+  Microsoft PlayReady Server Software Development Kit 2.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

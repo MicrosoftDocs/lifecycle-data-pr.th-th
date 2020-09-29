@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวปรับต่อ BizTalk สำหรับการเพิ่มประสิทธิภาพของเว็บเซอร์วิส๒.๐
-  description: ตัวปรับต่อ BizTalk สำหรับการเพิ่มประสิทธิภาพของเว็บเซอร์วิส๒.๐จะเป็นไปตามนโยบายวัฏจักรแบบคงที่
+  title: BizTalk Adapter for Web Services Enhancement 2.0
+  description: BizTalk Adapter for Web Services Enhancement 2.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 08/19/2020
   ms.openlocfilehash: 4b442c30ed4d826959b43220b1b964c1c7d3419a
   ms.sourcegitcommit: acbc3d1849bad925ef030cf951960bd7eb1b4e42
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 08/19/2020
   ms.locfileid: "904586"
-name: ตัวปรับต่อ BizTalk สำหรับการเพิ่มประสิทธิภาพของเว็บเซอร์วิส๒.๐
+name: BizTalk Adapter for Web Services Enhancement 2.0
 summary: >+
-  ตัวปรับต่อ BizTalk สำหรับการเพิ่มประสิทธิภาพของเว็บเซอร์วิส๒.๐จะเป็นไปตามนโยบายวัฏจักรแบบ [คง](/lifecycle/policies/fixed) ที่
+  BizTalk Adapter for Web Services Enhancement 2.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
