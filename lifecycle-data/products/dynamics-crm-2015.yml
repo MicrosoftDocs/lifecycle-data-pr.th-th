@@ -5,13 +5,13 @@ metadata:
   ms.date: 07/28/2020
   ms.openlocfilehash: 8ed74b140e6c7efc0913db1aced0cac171298a8b
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864802"
 name: Dynamics CRM 2015
 summary: >+
-  Dynamics CRM 2015 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Dynamics CRM 2015 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
@@ -25,4 +25,4 @@ releases:
 - version: Original Release (ver 7.0)
   startDate: 02/11/2015
   endDate: 01/14/2025
-content: "\n## <a name=\"links\"></a>เชื่อม โยง \n* [ข้อมูลสนับสนุน](https://support.microsoft.com/help/3018363/microsoft-dynamics-crm-2015-updates-and-hotfixes)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลสนับสนุน](https://support.microsoft.com/help/3018363/microsoft-dynamics-crm-2015-updates-and-hotfixes)"

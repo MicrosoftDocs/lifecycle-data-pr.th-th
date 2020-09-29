@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวจัดการเครื่องเสมือน 2016 ศูนย์ระบบ
-  description: ตัวจัดการเครื่องเสมือน 2016 ศูนย์ของระบบตามนโยบายวงจรชีวิตแบบคงที่
+  title: System Center 2016 Virtual Machine Manager
+  description: System Center 2016 Virtual Machine Manager เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 43bd64cf4f3bcde6c41718f57bddd96ccd63a8a6
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864654"
-name: ตัวจัดการเครื่องเสมือน 2016 ศูนย์ระบบ
+name: System Center 2016 Virtual Machine Manager
 summary: >+
-  ตัวจัดการเครื่องเสมือน 2016 ศูนย์ของระบบตามนโยบายวงจร[ชีวิตแบบคงที่](/lifecycle/policies/fixed)
+  System Center 2016 Virtual Machine Manager เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:

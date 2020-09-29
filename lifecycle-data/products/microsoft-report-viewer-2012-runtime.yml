@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: รันไทม์ตัวแสดงรายงาน Microsoft 2012
-  description: รันไทม์ตัวแสดงรายงานของ Microsoft 2012 ตามนโยบายวงจรการใช้งานแบบคงที่
+  title: Microsoft Report Viewer 2012 Runtime
+  description: Microsoft Report Viewer 2012 Runtime เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
   ms.openlocfilehash: 0196fc49180deffdca7cde2bb35c0ab53dcb6c01
   ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 07/29/2020
   ms.locfileid: "864664"
-name: รันไทม์ตัวแสดงรายงาน Microsoft 2012
+name: Microsoft Report Viewer 2012 Runtime
 summary: >+
-  รันไทม์ตัวแสดงรายงานของ Microsoft 2012 ตามนโยบายวงจร[การใช้งานแบบคงที่](/lifecycle/policies/fixed)
+  Microsoft Report Viewer 2012 Runtime เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
