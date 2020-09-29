@@ -1,21 +1,21 @@
 ### YamlMime:Lifecycle
 metadata:
   title: PolicyMaker
-  description: PolicyMaker ตามกรมธรรม์วงจรชีวิตคงที่
+  description: PolicyMaker เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Application Security,Outlook Edition,Professional 9.0,Registry Extension 2.0,Share Manager 1.0,Software Update 1.0,Software Update 2.0,Standard 1.0,Standard 2.0
   ms.openlocfilehash: be11ae6bee427a5aa059ec56cb88f007bb5134ec
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "938059"
 name: PolicyMaker
 summary: >+
-  PolicyMaker ตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่
+  PolicyMaker เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้นำไปใช้กับเวอร์ชันต่อไปนี้: การรักษาความปลอดภัยของแอปพลิเคชัน, Outlook Edition, Professional ๙.๐, นามสกุลรีจิสทรี๒.๐, แชร์ผู้จัดการ๑.๐, อัปเดตซอฟต์แวร์๑.๐, อัปเดตซอฟต์แวร์๒.๐, ๑.๐มาตรฐาน, ๒.๐มาตรฐาน
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Application Security, Outlook Edition, Professional 9.0, Registry Extension 2.0, Share Manager 1.0, Software Update 1.0, Software Update 2.0, Standard 1.0, Standard 2.0
 
 products:
 - windows
@@ -27,4 +27,4 @@ releases:
 - version: Original Release
   startDate: 01/01/2007
   endDate: 01/12/2010
-content: "\n\n> [!NOTE]\n> การสนับสนุนสำหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการจัดซื้อ\n\n## <a name=\"editions\"></a>รุ่น \n* ความปลอดภัยของแอปพลิเคชัน\n* Outlook Edition\n* ๙.๐แบบมืออาชีพ\n* ส่วนขยายของรีจิสทรี๒.๐\n* แชร์ตัวจัดการ๑.๐\n* การอัปเดตซอฟต์แวร์๑.๐\n* การอัปเดตซอฟต์แวร์๒.๐\n* ๑.๐มาตรฐาน\n* ๒.๐มาตรฐาน"
+content: "\n\n> [!NOTE]\n> การสนับสนุนสำหรับผลิตภัณฑ์นี้อยู่ภายใต้เงื่อนไขของการจัดซื้อ\n\n## <a name=\"editions\"></a>รุ่น \n* Application Security\n* Outlook Edition\n* Professional 9.0\n* Registry Extension 2.0\n* Share Manager 1.0\n* Software Update 1.0\n* Software Update 2.0\n* Standard 1.0\n* Standard 2.0"

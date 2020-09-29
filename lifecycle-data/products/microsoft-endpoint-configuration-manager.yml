@@ -1,24 +1,24 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ตัวจัดการการกำหนดค่าของ Microsoft จุดสิ้นสุด
-  description: ตัวจัดการการกำหนดค่า Microsoft จุดสิ้นสุดตามนโยบายวัฏจักรสมัยใหม่
+  title: Microsoft Endpoint Configuration Manager
+  description: Microsoft Endpoint Configuration Manager เป็นไปตามนโยบายวงจรการใช้งานสมัยใหม่
   ms.date: 09/01/2020
   keywords: SCCM,System Center Configuration Manager
   ms.openlocfilehash: fa325717dae54209b97245681c1e0292890ba952
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "934063"
-name: ตัวจัดการการกำหนดค่าของ Microsoft จุดสิ้นสุด
+name: Microsoft Endpoint Configuration Manager
 summary: >
-  ตัวจัดการการกำหนดค่า Microsoft จุดสิ้นสุดตามนโยบายวัฏจักร[สมัยใหม่](/lifecycle/policies/modern)
+  Microsoft Endpoint Configuration Manager เป็นไปตามนโยบายวงจรการใช้งาน [สมัยใหม่](/lifecycle/policies/modern)
 
 
 
   > [!IMPORTANT]
 
-  > การเริ่มต้นในเวอร์ชัน๑๙๑๐ตัวจัดการการกำหนดค่าเป็นส่วนหนึ่งของตัวจัดการ Microsoft จุดสิ้นสุด
+  > เริ่มตั้งแต่เวอร์ชัน 1910 ตอนนี้ Configuration Manager เป็นส่วนหนึ่งของ Microsoft Endpoint Manager
 products:
 - m365
 policyType: modern-on-prem
@@ -70,4 +70,4 @@ releases:
 - version: Version 1511
   startDate: 12/08/2015
   endDate: 12/08/2016
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลการให้บริการ](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [รายละเอียดเวอร์ชัน](/mem/configmgr/core/servers/manage/updates#version-details)\n* [ตัวจัดการการกำหนดค่าศูนย์ระบบคือตอนนี้ตัวจัดการการกำหนดค่าจุดสิ้นสุดของ Microsoft](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [เวอร์ชันในอดีต](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [ตัวจัดการการกำหนดค่าคืออะไร](/mem/configmgr/core/understand/introduction)"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลการให้บริการ](/mem/configmgr/core/servers/manage/current-branch-versions-supported)\n* [รายละเอียดเวอร์ชัน](/mem/configmgr/core/servers/manage/updates#version-details)\n* [ตอนนี้ System Center Configuration Manager คือ Microsoft Endpoint Configuration Manager](/mem/configmgr/core/understand/microsoft-endpoint-manager-faq)\n* [เวอร์ชันในอดีต](/mem/configmgr/core/servers/manage/updates#historical-versions)\n* [Configuration Manager คืออะไร](/mem/configmgr/core/understand/introduction)"

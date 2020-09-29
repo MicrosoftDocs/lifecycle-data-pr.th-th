@@ -1,17 +1,17 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: ความปลอดภัยของอินเทอร์เน็ตของ Microsoft และความเร็วเซิร์ฟเวอร์๒๐๐๔
-  description: ความปลอดภัยของอินเทอร์เน็ตของ Microsoft และการเร่งความเร็วเซิร์ฟเวอร์๒๐๐๔จะเป็นไปตามกรมธรรม์วงจรชีวิตคงที่
+  title: Microsoft Internet Security and Acceleration Server 2004
+  description: Microsoft Internet Security and Acceleration Server 2004 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: Enterprise,Standard
   ms.openlocfilehash: ca985b778607eed3132ccd8345127d379543f4ff
   ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: MT
+  ms.translationtype: HT
   ms.contentlocale: th-TH
   ms.lasthandoff: 09/01/2020
   ms.locfileid: "933508"
-name: ความปลอดภัยของอินเทอร์เน็ตของ Microsoft และความเร็วเซิร์ฟเวอร์๒๐๐๔
-summary: "ความปลอดภัยของอินเทอร์เน็ตของ Microsoft และการเร่งความเร็วเซิร์ฟเวอร์๒๐๐๔จะเป็นไปตามกรมธรรม์วงจรชีวิต [คง](/lifecycle/policies/fixed) ที่\n\nสิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Standard\n\n> [!IMPORTANT]\n> การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว \n"
+name: Microsoft Internet Security and Acceleration Server 2004
+summary: "Microsoft Internet Security and Acceleration Server 2004 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)\n\nสิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Standard\n\n> [!IMPORTANT]\n> การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว \n"
 products:
 - microsoft-servers
 policyType: fixed
