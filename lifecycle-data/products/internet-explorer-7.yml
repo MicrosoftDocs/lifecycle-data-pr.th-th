@@ -2,13 +2,14 @@
 metadata:
   title: Internet Explorer 7
   description: Internet Explorer 7 เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
-  ms.date: 07/28/2020
-  ms.openlocfilehash: a3ebb8bde83f8b86fe292510b958fb0c59994fe3
-  ms.sourcegitcommit: 9bdc77ca92cba2e3edb432e57b1845247a9ade6e
+  ms.date: 10/05/2020
+  keywords: 
+  ms.openlocfilehash: e9a0e815b920011e15e4da8e58158c45e7971cd0
+  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
   ms.translationtype: HT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 07/28/2020
-  ms.locfileid: "843382"
+  ms.lasthandoff: 10/20/2020
+  ms.locfileid: "1162686"
 name: Internet Explorer 7
 summary: >+
   Internet Explorer 7 เป็นไปตามนโยบายวงจรการใช้งานของ [คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
@@ -19,7 +20,8 @@ products:
 policyType: component
 supportDates:
   start: 10/18/2006
+  end: 10/10/2023
 releases:
 - version: Original Release
   startDate: 10/18/2006
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://www.microsoft.com/itpro/microsoft-edge)\n* [คำถามที่พบบ่อยเกี่ยวกับนโยบายวงจรการใช้งานของ Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> ตั้งแต่วันที่ 12 มกราคม ค.ศ. 2016 เฉพาะ Internet Explorer เวอร์ชันล่าสุดที่พร้อมใช้งานสำหรับระบบปฏิบัติการที่รองรับเท่านั้นที่จะได้รับการสนับสนุนทางเทคนิคและการอัปเดตด้านความปลอดภัย"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](https://www.microsoft.com/itpro/microsoft-edge)\n* [Windows Embedded Compact 7](/lifecycle/products/windows-embedded-compact-7)\n* [Windows Embedded Compact 2013](/lifecycle/products/windows-embedded-compact-2013)\n* [คำถามที่พบบ่อยเกี่ยวกับนโยบายวงจรการใช้งานของ Internet Explorer](/lifecycle/faq/internet-explorer-microsoft-edge)\n\n> [!NOTE]\n> Internet Explorer 7 เป็นคอมโพเนนต์ของ Windows Embedded Compact 7 และ Windows Embedded Compact 2013 และเป็นไปตามวงจรการใช้งานเดียวกัน \n> [!NOTE]\n> ตั้งแต่วันที่ 12 มกราคม ค.ศ. 2016 เฉพาะ Internet Explorer เวอร์ชันล่าสุดที่พร้อมใช้งานสำหรับระบบปฏิบัติการที่รองรับเท่านั้นที่จะได้รับการสนับสนุนทางเทคนิคและการอัปเดตด้านความปลอดภัย"
