@@ -15,7 +15,7 @@ summary: >+
   Visual Studio 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (แบบรวม), Shell (แบบแยก), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Agents, ทั้งหมด, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN , PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Tools for Office System 4.0 Runtime, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
 
 products:
 - vs

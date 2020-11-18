@@ -15,7 +15,7 @@ summary: >
   Visual Studio Team System 2008 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: All, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: ทั้งหมด, Architecture, Database, Development, Team Explorer, Team Test Load Agent, TFS
 
 
   > [!IMPORTANT]
@@ -35,4 +35,4 @@ releases:
 - version: Original Release
   startDate: 02/19/2008
   endDate: 10/13/2009
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [คำแนะนำในการย้ายข้อมูล](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้งหมด\n* สถาปัตยกรรม\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/visualstudio/porting/port-migrate-and-upgrade-visual-studio-projects?view=vs-2019)\n* [คำแนะนำในการย้ายข้อมูล](https://blogs.msdn.microsoft.com/visualstudio/2017/04/10/end-of-support-for-visual-studio-2008-in-one-year)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้งหมด\n* Architecture\n* Database\n* Development\n* Team Explorer\n* Team Test Load Agent\n* TFS"
