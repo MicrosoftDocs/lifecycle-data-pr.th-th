@@ -28,4 +28,4 @@ releases:
 - version: Original Release
   startDate: 06/30/2006
   endDate: 07/12/2016
-content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* เซิร์ฟเวอร์\n* Standard\n* Standard Server with Standard Business Events"
+content: "\n\n\n## <a name=\"editions\"></a>รุ่น \n* Billing Standard Business Event\n* Order Handling Standard Business Event\n* Server\n* Standard\n* Standard Server with Standard Business Events"

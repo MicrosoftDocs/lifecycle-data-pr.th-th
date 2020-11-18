@@ -12,10 +12,10 @@ metadata:
   ms.locfileid: "937430"
 name: Visual Studio 2015
 summary: >+
-  Visual Studio 2015 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+  Visual Studio 2015 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Agents, Community, Enterprise, ESM, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell (แบบรวม), Shell (แบบแยก), Test Professional, TPS, Visual C++ Redistributable
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Agents, Community, Enterprise, ESM, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), Test Professional, TPS, Visual C++ Redistributable
 
 products:
 - vs

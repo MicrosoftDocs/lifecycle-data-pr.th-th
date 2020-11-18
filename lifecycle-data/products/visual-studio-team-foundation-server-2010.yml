@@ -15,7 +15,7 @@ summary: >+
   Visual Studio Team Foundation Server 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: External Connector ทั้งหมดที่ใช้ได้
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: External Connector ทุกรุ่นที่ใช้ได้
 
 products:
 - vs
@@ -31,4 +31,4 @@ releases:
 - version: Original Release
   startDate: 06/29/2010
   endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ทั้งหมดที่เกี่ยวข้อง\n* External Connector"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/azure/devops/server/upgrade/get-started?view=azure-devops)\n* [Azure Dev Ops](https://azure.microsoft.com/services/devops/migrate/)\n\n\n## <a name=\"editions\"></a>รุ่น \n* ทุกรุ่นที่ใช้ได้\n* External Connector"
