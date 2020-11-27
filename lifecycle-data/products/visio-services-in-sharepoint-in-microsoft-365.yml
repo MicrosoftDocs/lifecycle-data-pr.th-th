@@ -1,0 +1,25 @@
+### YamlMime:Lifecycle
+metadata:
+  title: Visio Services ใน SharePoint (ใน Microsoft 365)
+  description: Visio Services ใน SharePoint (ใน Microsoft 365) เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
+  ms.date: 11/02/2020
+  keywords: Vision Web Access
+  ms.openlocfilehash: 0ce0c525d8040d1a1db9a5fb7f542bde67962792
+  ms.sourcegitcommit: 4b3971ed818a75c067e0efab535b719523fa9d25
+  ms.translationtype: HT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 11/09/2020
+  ms.locfileid: "1254714"
+name: Visio Services ใน SharePoint (ใน Microsoft 365)
+summary: "Visio Services ใน SharePoint (ใน Microsoft 365) เป็นไปตามนโยบายวงจรการใช้งาน [สมัยใหม่](/lifecycle/policies/modern) \n\n\n"
+products:
+- office
+policyType: modern-online
+supportDates:
+  start: 04/16/2010
+  end: 09/30/2021
+releases:
+- version: Original Release
+  startDate: 04/16/2010
+  endDate: 09/30/2020
+content: "\n\n> [!NOTE]\n> วันที่เลิกใช้สำหรับ Visio Services ใน SharePoint Online (Visio Web Access) ได้รับการขยายเวลาจากวันที่ 30 กันยายน ค.ศ. 2020 ไปเป็นวันที่ 30 กันยายน ค.ศ. 2021 ไป [ที่นี่](https://techcommunity.microsoft.com/t5/visio-blog/visio-web-access-aka-visio-services-updates/ba-p/109541) เพื่อเรียนรู้เพิ่มเติม"
