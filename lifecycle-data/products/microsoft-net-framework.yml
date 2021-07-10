@@ -2,19 +2,23 @@
 metadata:
   title: Microsoft .NET Framework
   description: Microsoft .NET Framework เป็นไปตามนโยบายวงจรการใช้งานของคอมโพเนนต์
-  ms.date: 12/16/2020
+  ms.date: 04/26/2021
   keywords: Entity Framework Core
-  ms.openlocfilehash: ac0ceb3f06c50aca5da4d362e291d809d1353b17
-  ms.sourcegitcommit: f4e86f7c87c4574636289408f511574ac20127a0
+  ms.openlocfilehash: 36c69b53dc4e37ba17b820fe0442e82744f98f41
+  ms.sourcegitcommit: 51a7221b87d358960376e2569c3b1e69ba056b54
   ms.translationtype: HT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 12/17/2020
-  ms.locfileid: "1347456"
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "2029488"
 name: Microsoft .NET Framework
-summary: >+
+summary: >
   Microsoft .NET Framework เป็นไปตามนโยบายวงจรการใช้งานของ [คอมโพเนนต์](/lifecycle/faq/fixed-policy#how-is-a-component-supported-under-the-fixed-lifecycle-policy)
 
 
+
+  > [!IMPORTANT]
+
+  > .NET Framework 4.5.2, 4.6 และ 4.6.1 จะเลิกใช้ในวันที่ 26 เมษายน ค.ศ. 2022 รุ่นเฉพาะเหล่านี้ได้รับการลงนามแบบดิจิทัลก่อนหน้านี้โดยการใช้ใบรับรอง Secure Hash Algorithm (SHA-1) อัลกอริทึมนี้ถือว่าไม่ปลอดภัยอีกต่อไป ลูกค้าได้รับการสนับสนุนให้ย้ายไปที่ SHA-2 ไป [ที่นี่](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022) เพื่อเรียนรู้เพิ่มเติม
 products:
 - dotnet
 policyType: component
@@ -33,10 +37,13 @@ releases:
   startDate: 08/02/2016
 - version: .NET Framework 4.6.1
   startDate: 11/30/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.6
   startDate: 07/29/2015
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.2
   startDate: 05/05/2014
+  endDate: 04/26/2022
 - version: .NET Framework 4.5.1
   startDate: 01/15/2014
   endDate: 01/12/2016
@@ -52,4 +59,4 @@ releases:
 - version: .NET Framework 2.0
   startDate: 02/17/2006
   endDate: 07/12/2011
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [ข้อมูลผลิตภัณฑ์](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n\n> [!NOTE]\n> .NET Framework 3.5 Service Pack 1 (SP1) เป็นผลิตภัณฑ์แบบสแตนด์อโลนตามนโยบายแบบคงที่ ซึ่งเริ่มต้นด้วย Windows 10 เวอร์ชัน 1809 และ Windows Server 2019 ก่อนหน้านี้ .NET Framework 3.5 SP1 ถือเป็นคอมโพเนนต์ของระบบปฏิบัติการ Windows ที่ติดตั้ง"
+content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - .NET Framework](/lifecycle/faq/dotnet-framework)\n* [ข้อมูลผลิตภัณฑ์](/dotnet/framework/migration-guide/versions-and-dependencies#net-framework-48)\n* [.NET Framework เลิกใช้ 4.5.2, 4.6, 4.61](https://devblogs.microsoft.com/dotnet/net-framework-4-5-2-4-6-4-6-1-will-reach-end-of-support-on-april-26-2022)\n\n> [!NOTE]\n> .NET Framework 3.5 Service Pack 1 (SP1) เป็นผลิตภัณฑ์แบบสแตนด์อโลนตามนโยบายแบบคงที่ ซึ่งเริ่มต้นด้วย Windows 10 เวอร์ชัน 1809 และ Windows Server 2019 ก่อนหน้านี้ .NET Framework 3.5 SP1 ถือเป็นคอมโพเนนต์ของระบบปฏิบัติการ Windows ที่ติดตั้ง"
