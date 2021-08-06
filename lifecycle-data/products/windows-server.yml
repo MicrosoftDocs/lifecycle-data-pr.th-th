@@ -2,20 +2,23 @@
 metadata:
   title: Windows Server
   description: Windows Server เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
-  ms.date: 10/19/2020
+  ms.date: 07/12/2021
   keywords: 
-  ms.openlocfilehash: cc8dd57a0773e9b67fd312e52d7f25bbb96ce10e
-  ms.sourcegitcommit: c1ccf8aedb73c5410ef70b9d59a49b6f6746a52c
+  ms.openlocfilehash: 79c81dbee5c7ce3220e5cba21c2f116a65eaf0bf
+  ms.sourcegitcommit: c5cb11b464035a1b4d239621b8d4bf06f574da82
   ms.translationtype: HT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 10/20/2020
-  ms.locfileid: "1162353"
+  ms.lasthandoff: 07/28/2021
+  ms.locfileid: "2255189"
 name: Windows Server
 summary: >+
   Windows Server เป็นไปตามนโยบายวงจรการใช้งาน [แบบสมัยใหม่](/lifecycle/policies/modern)
 
 
+
   สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Datacenter, Standard
+
+
 
 products:
 - windows
@@ -23,6 +26,9 @@ policyType: modern-on-prem
 supportDates:
   start: 10/17/2017
 releases:
+- version: Version 21H1
+  startDate: 05/18/2021
+  endDate: 12/13/2022
 - version: Version 20H2
   startDate: 10/20/2020
   endDate: 05/10/2022
@@ -44,4 +50,4 @@ releases:
 - version: Version 1709
   startDate: 10/17/2017
   endDate: 04/09/2019
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ช่องทางการให้บริการของ Windows Server: LTSC และ SAC](/windows-server/get-started-19/servicing-channels-19)\n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n> [!NOTE]\n> Windows Server เวอร์ชัน 1809 เปิดตัวเมื่อวันที่ 13 พฤศจิกายน ค.ศ. 2018 วันที่สำหรับการสนับสนุนได้รับการปรับโดยสอดคล้องกันแล้ว\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* Standard"
+content: "\n\n## <a name=\"links\"></a>ลิงก์ \n* [วงจรการใช้งานบริการ Windows Container Base Image](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n* [ช่องทางการให้บริการของ Windows Server: LTSC และ SAC](/windows-server/get-started-19/servicing-channels-19)\n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ Windows](/lifecycle/faq/windows#what-are-the-requirements-for-servicing-and-updating-windows-10-semi-annual-channels)\n\n\n> [!NOTE]\n> คอนเทนเนอร์ที่นำออกใช้พร้อมกับเวอร์ชัน Windows Server ที่แสดงรายการข้างต้น เป็นไปตามวันที่ของวงจรการใช้งานเดียวกัน ไปที่หน้าบริการ Base Image ที่ [วงจรการใช้งานบริการของ Windows Container Base Image](https://docs.microsoft.com/virtualization/windowscontainers/deploy-containers/base-image-lifecycle) สำหรับรายละเอียดเพิ่มเติม\n> [!NOTE]\n> Windows Server เวอร์ชัน 1809 เปิดตัวเมื่อวันที่ 13 พฤศจิกายน ค.ศ. 2018 วันที่สำหรับการสนับสนุนได้รับการปรับโดยสอดคล้องกันแล้ว\n\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* Standard"
