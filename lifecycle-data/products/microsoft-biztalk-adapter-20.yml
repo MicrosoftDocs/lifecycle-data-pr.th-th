@@ -3,29 +3,31 @@ metadata:
   title: Microsoft BizTalk Adapter 2.0
   description: Microsoft BizTalk Adapter 2.0 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
-  keywords: for MSMQ,for mySAP Business Suite,for SAP
-  ms.openlocfilehash: e6ccc3e11575a0d48e60228fa8eca4d1e4849669
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: th-TH
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "934766"
+  keywords: 'for MSMQ,for mySAP Business Suite,for SAP'
 name: Microsoft BizTalk Adapter 2.0
-summary: >+
+summary: |+
   Microsoft BizTalk Adapter 2.0 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
-
 
   สิ่งนี้ใช้กับรุ่นต่อไปนี้: for MSMQ, for mySAP Business Suite, for SAP
 
 products:
-- microsoft-servers
+  - microsoft-servers
 policyType: fixed
 supportDates:
   start: 10/20/2004
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Original Release
-  startDate: 10/20/2004
-  endDate: 01/13/2015
-content: "\n\n> [!NOTE]\n> วันที่เริ่มต้นสำหรับ Microsoft BizTalk Adapter 2.0 for SAP คือ 2 พฤศจิกายน ค.ศ. 2004 วันที่เริ่มต้นสำหรับ Microsoft BizTalk Adapter for MSMQ 2.0 คือ 10 ธันวาคม ค.ศ. 2004\n\n## <a name=\"editions\"></a>รุ่น \n* for MSMQ\n* for mySAP Business Suite\n* for SAP"
+  - version: Original Release
+    startDate: 10/20/2004
+    endDate: 01/13/2015
+content: |
+
+
+  > [!NOTE]
+  > วันที่เริ่มต้นสำหรับ Microsoft BizTalk Adapter 2.0 for SAP คือ 2 พฤศจิกายน ค.ศ. 2004 วันที่เริ่มต้นสำหรับ Microsoft BizTalk Adapter for MSMQ 2.0 คือ 10 ธันวาคม ค.ศ. 2004
+
+  ## <a name="editions"></a>รุ่น 
+  * for MSMQ
+  * for mySAP Business Suite
+  * for SAP

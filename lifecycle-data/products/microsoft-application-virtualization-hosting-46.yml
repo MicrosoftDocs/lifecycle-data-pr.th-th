@@ -1,40 +1,43 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
+  title: Microsoft Application Virtualization Hosting 4.6 สำหรับเดสก์ท็อป Windows
   description: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
   keywords: for Windows Desktops
-  ms.openlocfilehash: 8a32729ae5fbf7f57a14b6a6ec048c7a1f412a52
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: th-TH
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "935469"
-name: Microsoft Application Virtualization Hosting 4.6 for Windows Desktops
-summary: >+
+name: Microsoft Application Virtualization Hosting 4.6 สำหรับเดสก์ท็อป Windows
+summary: |+
   Microsoft Application Virtualization Hosting 4.6 for Windows Desktops เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
-
 
   สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: for Windows Desktops
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 05/27/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-- version: Service Pack 3
-  startDate: 12/02/2013
-  endDate: 07/14/2020
-- version: Service Pack 2
-  startDate: 10/01/2012
-  endDate: 01/13/2015
-- version: Service Pack 1
-  startDate: 01/26/2011
-  endDate: 10/08/2013
-- version: Original Release
-  startDate: 05/27/2010
-  endDate: 04/10/2012
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์และการย้ายข้อมูล](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)\n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n> [!NOTE]\n> เนื่องจากไคลเอ็นต์ App-V 4.6 ใช้เซิร์ฟเวอร์ App-V 4.5 เซิร์ฟเวอร์ App-V 4.5 จะยังคงได้รับการสนับสนุนตามวันที่ของวงจรการใช้งานของ App-V 4.6 เมื่อใช้งานกับไคลเอ็นต์ App-V 4.6 ที่รองรับ\n\n## <a name=\"editions\"></a>รุ่น \n* for Windows Desktops"
+  - version: Service Pack 3
+    startDate: 12/02/2013
+    endDate: 07/14/2020
+  - version: Service Pack 2
+    startDate: 10/01/2012
+    endDate: 01/13/2015
+  - version: Service Pack 1
+    startDate: 01/26/2011
+    endDate: 10/08/2013
+  - version: Original Release
+    startDate: 05/27/2010
+    endDate: 04/10/2012
+content: |
+
+  ## <a name="links"></a>ลิงก์ 
+  * [ข้อมูลผลิตภัณฑ์และการย้ายข้อมูล](/microsoft-desktop-optimization-pack/appv-v4/overview-of-application-virtualization)
+  * [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)
+
+  > [!NOTE]
+  > เนื่องจากไคลเอนต์ App-V 4.6 ใช้เซิร์ฟเวอร์ App-V 4.5 เซิร์ฟเวอร์ App-V 4.5 จะยังคงได้รับการสนับสนุนตามวันที่ของวงจรการใช้งานของ App-V 4.6 เมื่อใช้งานกับไคลเอนต์ App-V 4.6 ที่รองรับ
+
+  ## <a name="editions"></a>รุ่น 
+  * for Windows Desktops
