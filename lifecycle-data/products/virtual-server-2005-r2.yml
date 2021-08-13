@@ -3,27 +3,35 @@ metadata:
   title: Virtual Server 2005 R2
   description: Virtual Server 2005 R2 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/01/2020
-  keywords: Enterprise,Standard
-  ms.openlocfilehash: 0d4c323a758219f240fc6efbc4ebcfc99e470241
-  ms.sourcegitcommit: af46dd09ccdabd80dcc49d2cd930cefa0b1ab8a6
-  ms.translationtype: HT
-  ms.contentlocale: th-TH
-  ms.lasthandoff: 09/01/2020
-  ms.locfileid: "937948"
+  keywords: 'Enterprise,Standard'
 name: Virtual Server 2005 R2
-summary: "Virtual Server 2005 R2 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)\n\nสิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Standard\n\n> [!IMPORTANT]\n> การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว \n"
+summary: |
+  Virtual Server 2005 R2 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
+
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Enterprise, Standard
+
+  > [!IMPORTANT]
+  > การสนับสนุนผลิตภัณฑ์นี้สิ้นสุดลงแล้ว 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 01/28/2006
   end: 01/12/2010
   extendedEnd: 01/13/2015
 releases:
-- version: Service Pack 1
-  startDate: 04/16/2007
-  endDate: 01/13/2015
-- version: Original Release
-  startDate: 01/28/2006
-  endDate: 07/08/2008
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n## <a name=\"editions\"></a>รุ่น \n* Enterprise\n* Standard"
+  - version: Service Pack 1
+    startDate: 04/16/2007
+    endDate: 01/13/2015
+  - version: Original Release
+    startDate: 01/28/2006
+    endDate: 07/08/2008
+content: |
+
+  ## <a name="links"></a>ลิงก์ 
+  * [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)
+
+
+  ## <a name="editions"></a>รุ่น 
+  * Enterprise
+  * Standard
