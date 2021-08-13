@@ -3,25 +3,23 @@ metadata:
   title: PowerPoint 2011 สำหรับ Mac
   description: PowerPoint 2011 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
-  ms.openlocfilehash: d0fe8d525c158c363a39793b7e30850693dc93e5
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: th-TH
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864778"
 name: PowerPoint 2011 สำหรับ Mac
-summary: >+
+summary: |+
   PowerPoint 2011 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
 products:
-- office
+  - office
 policyType: fixed-mainstream-only
 supportDates:
   start: 12/09/2010
   end: 10/10/2017
 releases:
-- version: Original Release
-  startDate: 12/09/2010
-  endDate: 10/10/2017
-content: "\n\n> [!NOTE]\n> การสนับสนุนหลักสำหรับ Microsoft Office for Mac 2011 ได้รับการขยายเวลาออกไปดังที่แสดงเอาไว้ เพื่อให้ลูกค้าทุกคนมีไทม์ไลน์ในการเปลี่ยนวงจรการใช้งานแบบมาตรฐาน"
+  - version: Original Release
+    startDate: 12/09/2010
+    endDate: 10/10/2017
+content: |+
+
+
+  > [!NOTE]
+  > การสนับสนุนหลักสำหรับ Microsoft Office for Mac 2011 ได้รับการขยายเวลาออกไปดังที่แสดงเอาไว้ เพื่อให้ลูกค้าทุกคนมีไทม์ไลน์ในการเปลี่ยนวงจรการใช้งานแบบมาตรฐาน
