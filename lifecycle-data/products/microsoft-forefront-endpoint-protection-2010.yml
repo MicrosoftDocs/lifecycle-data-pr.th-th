@@ -3,30 +3,29 @@ metadata:
   title: Microsoft Forefront Endpoint Protection 2010
   description: Microsoft Forefront Endpoint Protection 2010 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/28/2020
-  ms.openlocfilehash: 113adafeb18c300817f2c264cf2457b0e24cbd8c
-  ms.sourcegitcommit: 6b0f0d4ac042ba924016a386cd23db5f1ed22756
-  ms.translationtype: HT
-  ms.contentlocale: th-TH
-  ms.lasthandoff: 07/29/2020
-  ms.locfileid: "864661"
 name: Microsoft Forefront Endpoint Protection 2010
-summary: >
+summary: |
   Microsoft Forefront Endpoint Protection 2010 เป็นไปตามนโยบายวงจรการใช้ [แบบคงที่](/lifecycle/policies/fixed)
 
 
-
   > [!IMPORTANT]
-
   > การสนับสนุนสิ้นสุดลงแล้ว ดูคำแนะนำในการย้ายข้อมูลด้านล่าง
 products:
-- office
+  - office
 policyType: fixed
 supportDates:
   start: 03/31/2011
   end: 07/08/2014
   extendedEnd: 07/09/2019
 releases:
-- version: Original Release
-  startDate: 03/31/2011
-  endDate: 07/09/2019
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)\n* [ข้อมูลการให้บริการ](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)\n\n> [!NOTE]\n> ลูกค้าต้องติดตามการอัปเดตแพลตฟอร์มป้องกันมัลแวร์ล่าสุดเพื่อให้ได้รับการสนับสนุนอย่างเต็มที่ Forefront Endpoint Protection 2010 อยู่ภายใต้นโยบายวงจรการใช้งานเฉกเช่นเดียวกับ System Center Configuration Manager 2007 สำหรับการสนับสนุนทั้งทางหลักและแบบขยาย"
+  - version: Original Release
+    startDate: 03/31/2011
+    endDate: 07/09/2019
+content: |+
+
+  ## <a name="links"></a>ลิงก์ 
+  * [คำแนะนำในการย้ายข้อมูล](/lifecycle/announcements/sccm-2007-forefront-2010-end-of-support)
+  * [ข้อมูลการให้บริการ](https://techcommunity.microsoft.com/t5/Configuration-Manager-Archive/Anti-malware-Platform-Support/ba-p/274186)
+
+  > [!NOTE]
+  > ลูกค้าต้องติดตามการอัปเดตแพลตฟอร์มป้องกันมัลแวร์ล่าสุดเพื่อให้ได้รับการสนับสนุนอย่างเต็มที่ Forefront Endpoint Protection 2010 อยู่ภายใต้นโยบายวงจรการใช้งานเฉกเช่นเดียวกับ System Center Configuration Manager 2007 สำหรับการสนับสนุนทั้งทางหลักและแบบขยาย
