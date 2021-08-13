@@ -3,29 +3,32 @@ metadata:
   title: Windows Storage Server 2012
   description: Windows Storage Server 2012 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 09/10/2020
-  keywords: Standard,Workgroup
-  ms.openlocfilehash: 9626cd83f310a08921530211ad3dab10456c0aee
-  ms.sourcegitcommit: c0c65f657b1da8e588fda5bedd3572fb2e3168bc
-  ms.translationtype: HT
-  ms.contentlocale: th-TH
-  ms.lasthandoff: 09/10/2020
-  ms.locfileid: "1002260"
+  keywords: 'Standard,Workgroup'
 name: Windows Storage Server 2012
-summary: >+
+summary: |+
   Windows Storage Server 2012 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
-
 
   สิ่งนี้ใช้กับรุ่นต่อไปนี้: Standard, Workgroup
 
 products:
-- windows
+  - windows
 policyType: fixed
 supportDates:
   start: 10/30/2012
   end: 10/09/2018
   extendedEnd: 10/10/2023
 releases:
-- version: Original Release
-  startDate: 10/30/2012
-  endDate: 10/10/2023
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [คำแนะนำในการย้ายข้อมูล](/windows-server/upgrade/upgrade-2012-to-2016)\n\n> [!NOTE]\n> การสนับสนุนหลักและแบบขยายสำหรับผลิตภัณฑ์นี้ได้รับการขยายออกไปเพื่อให้ลูกค้ามีช่วงเวลาในการเปลี่ยนแปลงวงจรการใช้งานแบบมาตรฐาน\n\n## <a name=\"editions\"></a>รุ่น \n* Standard\n* Workgroup"
+  - version: Original Release
+    startDate: 10/30/2012
+    endDate: 10/10/2023
+content: |
+
+  ## <a name="links"></a>ลิงก์ 
+  * [คำแนะนำในการย้ายข้อมูล](/windows-server/upgrade/upgrade-2012-to-2016)
+
+  > [!NOTE]
+  > การสนับสนุนหลักและแบบขยายสำหรับผลิตภัณฑ์นี้ได้รับการขยายออกไปเพื่อให้ลูกค้ามีช่วงเวลาในการเปลี่ยนแปลงวงจรการใช้งานแบบมาตรฐาน
+
+  ## <a name="editions"></a>รุ่น 
+  * Standard
+  * Workgroup
