@@ -2,65 +2,36 @@
 metadata:
   title: Visual Studio 2010
   description: Visual Studio 2010 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
-  ms.date: 05/28/2021
-  keywords: 'vsto,Agents,All,ASP .NET MVC 4,Express,F# 2.0 Runtime,Lab Management,Performance Tools,Premium,Professional,Professional w/MSDN ,PSM,Remote Debugger,SDK,Shell (Integrated),Shell (Isolated),Team Agents,Team Explorer,Test Professional,Ultimate,Ultimate with MSDN,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express,Visualization & Modeling SDK'
+  ms.date: 10/07/2021
+  keywords: vsto,Express for Web,Express for Windows Phone,Premium,Professional,Test Professional,Ultimate,Visual Basic Express,Visual C# Express,Visual C++ Express,Visual Web Developer Express
+  ms.openlocfilehash: eea7c383adbd91aeea6893503808cc7ec675ea8f
+  ms.sourcegitcommit: f740c7c0a548d726572fda7cefa9ec8b630a27c7
+  ms.translationtype: HT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 10/07/2021
+  ms.locfileid: "3510966"
 name: Visual Studio 2010
-summary: |+
+summary: >+
   Visual Studio 2010 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
 
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Agents, All, ASP .NET MVC 4, Express, F# 2.0 Runtime, Lab Management, Performance Tools, Premium, Professional, Professional w/MSDN, PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Test Professional, Ultimate, Ultimate with MSDN, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express, Visualization & Modeling SDK
+
+  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Express for Web, Express for Windows Phone, Premium, Professional, Test Professional, Ultimate, Visual Basic Express, Visual C# Express, Visual C++ Express, Visual Web Developer Express
 
 
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 06/29/2010
   end: 07/14/2015
   extendedEnd: 07/14/2020
 releases:
-  - version: Service Pack 1
-    startDate: 03/08/2011
-    endDate: 07/14/2020
-  - version: Original Release
-    startDate: 06/29/2010
-    endDate: 04/10/2012
-content: |+
-
-
-  ## <a name="links"></a>ลิงก์ 
-  * [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)
-
-
-  > [!NOTE]
-  > Visual Studio 2010 Tools for Office (VSTO) Runtime มาพร้อมกับ Visual Studio และ Microsoft Office เวอร์ชันต่าง ๆ และเป็นไปตามวงจรการใช้งานของผลิตภัณฑ์หลัก นอกจากนี้ยังสามารถดาวน์โหลดแยกต่างหากได้จาก [ที่นี่](https://www.microsoft.com/download/details.aspx?id=56961)
-
-
-  ## <a name="editions"></a>รุ่น 
-  * Agents
-  * ทั้งหมด
-  * ASP .NET MVC 4
-  * Express
-  * F# 2.0 Runtime
-  * Lab Management
-  * Performance Tools
-  * Premium
-  * Professional
-  * Professional w/MSDN 
-  * PSM
-  * Remote Debugger
-  * SDK
-  * Shell (Integrated)
-  * Shell (Isolated)
-  * Team Agents
-  * Team Explorer
-  * Test Professional
-  * Ultimate
-  * Ultimate with MSDN
-  * Visual Basic Express
-  * Visual C# Express
-  * Visual C++ Express
-  * Visual Web Developer Express
-  * Visualization & Modeling SDK
+- version: Service Pack 1
+  startDate: 03/08/2011
+  endDate: 07/14/2020
+- version: Original Release
+  startDate: 06/29/2010
+  endDate: 04/10/2012
+content: "\n\n## <a name=\"links\"></a>ลิงก์ \n* [นโยบาย Service Pack](/lifecycle/policies/fixed#service-packs)\n\n\n> [!NOTE]\n> ส่วนประกอบต่อไปนี้ในเวอร์ชัน Visual Studio 2010 มาพร้อมกับและได้รับการสนับสนุนโดยเป็นส่วนหนึ่งของวงจรการใช้งาน Visual Studio 2010: Agents, All, ASP.NET MVC 4, F# 2.0 Runtime, VSTO Runtime, Lab Management, Performance Tools, Professional w/MSDN, PSM, Remote Debugger, SDK, Shell (Integrated), Shell (Isolated), Team Agents, Team Explorer, Ultimate with MSDN, Visualization & Modelling SDK\n\n\n## <a name=\"editions\"></a>รุ่น \n* Express for Web\n* Express for Windows Phone\n* Premium\n* Professional\n* Test Professional\n* Ultimate\n* Visual Basic Express\n* Visual C# Express\n* Visual C++ Express\n* Visual Web Developer Express"

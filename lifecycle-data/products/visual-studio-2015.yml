@@ -2,50 +2,36 @@
 metadata:
   title: Visual Studio 2015
   description: Visual Studio 2015 เป็นไปตามนโยบายวงจรการใช้งานคงที่
-  ms.date: 09/01/2020
-  keywords: 'Agents,Community,Enterprise,ESM,Express for Web,Express for Windows 10,Express for Windows Desktop,Modeling SDK,Professional,PSM,Release Management,Remote Tools,SDK,Shell (Integrated),Shell (Isolated),Test Professional,TPS,Visual C++ Redistributable'
+  ms.date: 10/04/2021
+  keywords: 
+  ms.openlocfilehash: 492f0646827d31ba0f4c2906f64915c2b22dffc0
+  ms.sourcegitcommit: 59fc218db97bb57b454b1e2a859fca5b8d4cd750
+  ms.translationtype: HT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 10/05/2021
+  ms.locfileid: "3509307"
 name: Visual Studio 2015
-summary: |+
+summary: >+
   Visual Studio 2015 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
 
-  สิ่งนี้ใช้กับรุ่นต่อไปนี้: Agents, Community, Enterprise, ESM, Express for Web, Express for Windows 10, Express for Windows Desktop, Modeling SDK, Professional, PSM, Release Management, Remote Tools, SDK, Shell (แบบรวม), Shell (แบบแยก), Test Professional, TPS, Visual C++ Redistributable
+
+
+  สิ่งนี้ใช้ได้กับรุ่นต่อไปนี้: Community, Enterprise, Express for Web, Express for Windows 10, Express for Windows Desktop, Professional, Release Management, Test Professional
+
+
 
 products:
-  - vs
+- vs
 policyType: fixed
 supportDates:
   start: 07/20/2015
   end: 10/13/2020
   extendedEnd: 10/14/2025
 releases:
-  - version: Update 3
-    startDate: 06/27/2016
-    endDate: 10/14/2025
-  - version: Original Release
-    startDate: 07/20/2015
-    endDate: 10/14/2025
-content: |
-
-  ## <a name="links"></a>ลิงก์ 
-  * [ข้อมูลการให้บริการ](https://www.visualstudio.com/productinfo/vs-servicing-vs)
-
-
-  ## <a name="editions"></a>รุ่น 
-  * Agents
-  * Community
-  * Enterprise
-  * ESM
-  * Express for Web
-  * Express for Windows 10
-  * Express for Windows Desktop
-  * Modeling SDK
-  * Professional
-  * PSM
-  * Release Management
-  * Remote Tools
-  * SDK
-  * Shell (Integrated)
-  * Shell (Isolated)
-  * Test Professional
-  * TPS
-  * Visual C++ Redistributable
+- version: Update 3
+  startDate: 06/27/2016
+  endDate: 10/14/2025
+- version: Original Release
+  startDate: 07/20/2015
+  endDate: 10/14/2025
+content: "\n\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลการบริการสำหรับ Visual Studio เวอร์ชันเก่า](/visualstudio/releases/2019/servicing-vs2019#support-for-older-versions-of-visual-studio)\n* [นโยบายของ Service Pack](/lifecycle/faq/fixed-policy#what-is-the-lifecycle-policy-for-service-packs-)\n\n\n> [!NOTE]\n> ส่วนประกอบต่อไปนี้ในเวอร์ชัน Visual Studio 2015 มาพร้อมกับและได้รับการสนับสนุนโดยเป็นส่วนหนึ่งของวงจรการใช้งาน Visual Studio 2015: Agents, ESM, Modelling SDK, PSM, Remote Tools, SDK, Shell (Integrated), Shell (Isolated), TPS, Visual C++ Redistributable\n\n\n## <a name=\"editions\"></a>รุ่น \n* Community\n* Enterprise\n* Express for Web\n* Express for Windows 10\n* Express for Windows Desktop\n* Professional\n* Release Management\n* Test Professional"
