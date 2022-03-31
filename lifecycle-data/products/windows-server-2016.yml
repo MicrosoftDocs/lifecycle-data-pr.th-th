@@ -3,10 +3,17 @@ metadata:
   title: Windows Server 2016
   description: Windows Server 2016 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
   ms.date: 07/09/2021
-  keywords: null
+  keywords: 
+  ms.openlocfilehash: 8d681747bc516263f47b6900cbf90c5f915601ce
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4134962"
 name: Windows Server 2016
-summary: |+
+summary: >+
   Windows Server 2016 เป็นไปตามนโยบายวงจรการใช้งาน [แบบคงที่](/lifecycle/policies/fixed)
+
 
 
   สิ่งนี้ใช้กับรุ่นต่อไปนี้: Datacenter, Essentials, MultiPoint Premium, Standard
@@ -14,31 +21,14 @@ summary: |+
 
 
 products:
-  - windows
+- windows
 policyType: fixed
 supportDates:
-  start: 10/15/2016
-  end: 01/11/2022
-  extendedEnd: 01/12/2027
+  start: 2016-10-15T00:00:00.000-08:00
+  end: 2022-01-11T22:59:59.999-08:00
+  extendedEnd: 2027-01-12T22:59:59.999-08:00
 releases:
-  - version: Original Release
-    startDate: 10/15/2016
-    endDate: 01/12/2027
-content: |+
-
-
-  ## <a name="links"></a>ลิงก์ 
-  * [ข้อมูลผลิตภัณฑ์](/windows-server/get-started/server-basics)
-  * [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ Windows](/lifecycle/faq/windows)
-  * [วงจรการใช้งานบริการ Windows Container Base Image](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)
-
-
-  > [!NOTE]
-  > คอนเทนเนอร์ที่นำออกใช้พร้อมกับ Windows Server 2016 เป็นไปตามวันที่ของวงจรการใช้งานเดียวกัน
-
-
-  ## <a name="editions"></a>รุ่น 
-  * Datacenter
-  * Essentials
-  * MultiPoint Premium
-  * Standard
+- version: Original Release
+  startDate: 2016-10-15T00:00:00.000-08:00
+  endDate: 2027-01-12T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>ลิงก์ \n* [ข้อมูลผลิตภัณฑ์](/windows-server/get-started/server-basics)\n* [คำถามที่พบบ่อยเกี่ยวกับวงจรการใช้งาน - ผลิตภัณฑ์ Windows](/lifecycle/faq/windows)\n* [วงจรการใช้งานบริการ Windows Container Base Image](/virtualization/windowscontainers/deploy-containers/base-image-lifecycle)\n\n\n> [!NOTE]\n> คอนเทนเนอร์ที่นำออกใช้พร้อมกับ Windows Server 2016 เป็นไปตามวันที่ของวงจรการใช้งานเดียวกัน\n\n\n## <a name=\"editions\"></a>รุ่น \n* Datacenter\n* Essentials\n* MultiPoint Premium\n* Standard"
