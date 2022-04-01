@@ -1,25 +1,29 @@
 ### YamlMime:Lifecycle
 metadata:
-  title: Windows 10 IoT Core services
+  title: Windows 10 IoT Core Services
   description: Windows 10 IoT Core services เป็นไปตามนโยบายวงจรการใช้งานแบบสมัยใหม่
-  ms.date: 07/28/2020
-  ms.openlocfilehash: 9ce995e2110cb5a94a92622cdc747914de4fb23a3802b0c1c67339e697794100
-  ms.sourcegitcommit: 1c28c95e7a2b743cff45216da63f72ffbad026ed
+  ms.date: 2022/03/08
+  keywords: 
+  ms.openlocfilehash: 6d8584eb944598b1ebf73a2db262cf4fbcffc5dd
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
   ms.translationtype: HT
   ms.contentlocale: th-TH
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "2497496"
-name: Windows 10 IoT Core services
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4130448"
+name: Windows 10 IoT Core Services
 summary: >+
   Windows 10 IoT Core services เป็นไปตามนโยบายวงจรการใช้งาน [แบบสมัยใหม่](/lifecycle/policies/modern)
+
+
+
 
 
 products:
 - windows
 policyType: modern-online
 supportDates:
-  start: 11/13/2018
+  start: 2018-11-13T00:00:00.000-08:00
 releases:
 - version: Original Release
-  startDate: 11/13/2018
-content: "\n## <a name=\"links\"></a>ลิงก์ \n* [Windows 10 IoT Core Services](/windows-hardware/manufacture/iot/iotcoreservicesoverview)\n\n> [!NOTE]\n> Windows 10 IoT Core Services คือการสมัครใช้งานที่มอบการสนับสนุนซอฟต์แวร์ที่เหมือนกับการให้บริการ รวมถึงการควบคุมการอัปเดตด้วย Device Update Center และการรักษาความปลอดภัยที่ดีขึ้นด้วย Device Health Attestation ตราบใดที่คุณใช้งานซอฟต์แวร์ Windows 10 IoT Core เวอร์ชันที่รองรับ"
+  startDate: 2018-11-13T00:00:00.000-08:00
+content: "> [!TIP]\n> ผลิตภัณฑ์นี้ได้รับการสนับสนุนผ่าน [Windows 10 IoT 2019 LTSC](https://docs.microsoft.com/lifecycle/products/windows-10-iot-2019-ltsc)\n\n\n## <a name=\"links\"></a>ลิงก์ \n* [ภาพรวมของ Windows 10 IoT Core Services](http://aka.ms/IoTCoreServices)\n\n\n> [!NOTE]\n> Windows 10 IoT Core Services คือ การสมัครรับการสนับสนุนที่มีให้ในเวอร์ชันที่รองรับของ [Windows 10 IoT Core](https://docs.microsoft.com/lifecycle/products/windows-10-iot-core)"

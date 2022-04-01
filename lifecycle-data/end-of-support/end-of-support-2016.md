@@ -1,13 +1,13 @@
 ---
 title: ผลิตภัณฑ์ที่สิ้นสุดการสนับสนุนสำหรับปี 2016
 description: ค้นหาว่าผลิตภัณฑ์ใดที่จะเลิกใช้ สิ้นสุดการสนับสนุน หรือย้ายจากการสนับสนุนหลักไปยังการสนับสนุนแบบขยายเวลาในปี ค.ศ. 2016
-ms.date: 09/17/2021
-ms.openlocfilehash: 173d56e15247cd3bb3e31ece82f9aa2d05a54146
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 01/14/2022
+ms.openlocfilehash: 02f886067fe5d4199a1f0e5f4505c6afa5cd6194
+ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4029572"
+ms.lasthandoff: 03/18/2022
+ms.locfileid: "4117572"
 ---
 # <a name="products-ending-support-in-2016"></a>ผลิตภัณฑ์ที่สิ้นสุดการสนับสนุนในปี ค.ศ. 2016
 
@@ -20,13 +20,6 @@ ms.locfileid: "4029572"
 
 
 
-## <a name="release-end-of-servicing"></a>สิ้นสุดการให้บริการรุ่น
-
-รุ่นผลิตภัณฑ์ต่อไปนี้อยู่ภายใต้การควบคุมโดย [นโยบายแบบสมัยใหม่](/lifecycle/policies/modern) ซึ่งจะสิ้นสุดการสนับสนุนในปี ค.ศ. 2016
-
-| ผลิตภัณฑ์ | สิ้นสุดการให้บริการ |
-| --- | --- |
-| [Microsoft Endpoint Configuration Manager เวอร์ชัน 1511](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 8 ธันวาคม 2016 |
 
 
 ## <a name="products-reaching-end-of-support"></a>สิ้นสุดการสนับสนุนผลิตภัณฑ์

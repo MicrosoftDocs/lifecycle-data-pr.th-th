@@ -1,0 +1,35 @@
+### YamlMime:Lifecycle
+metadata:
+  title: 'Visual Studio 2022 '
+  description: Visual Studio 2022 เป็นไปตามนโยบายวงจรการใช้งานแบบคงที่
+  ms.date: 11/05/2021
+  keywords: 
+  ms.openlocfilehash: 4c4a28cfa9ed1963deb6afc84c17c4003b8e65a8
+  ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+  ms.translationtype: HT
+  ms.contentlocale: th-TH
+  ms.lasthandoff: 03/18/2022
+  ms.locfileid: "4157230"
+name: 'Visual Studio 2022 '
+summary: >+
+  Visual Studio 2022 เป็นไปตามนโยบายวงจรการใช้งาน[แบบคงที่](/lifecycle/policies/fixed)
+
+
+
+
+
+products:
+- vs
+policyType: fixed
+supportDates:
+  start: 2021-11-08T00:00:00.000-08:00
+  end: 2027-01-12T22:59:59.999-08:00
+  extendedEnd: 2032-01-13T22:59:59.999-08:00
+releases:
+- version: Version 17.0 (LTSC channel)
+  startDate: 2021-11-08T00:00:00.000-08:00
+  endDate: 2023-07-11T22:59:59.999-08:00
+- version: Visual Studio 2022 (Current channel)
+  startDate: 2021-11-08T00:00:00.000-08:00
+  endDate: 2032-01-13T22:59:59.999-08:00
+content: "\n\n## <a name=\"links\"></a>ลิงก์ \n* [การประกาศบล็อก Visual Studio](https://devblogs.microsoft.com/visualstudio/)\n* [ข้อมูลเกี่ยวกับการสนับสนุนและวงจรการใช้งาน](/visualstudio/releases/2022/servicing-vs2022)\n* [หน้าดาวน์โหลด Visual Studio](https://visualstudio.microsoft.com/)\n* [บันทึกเกี่ยวกับการปล่อยออกมาของ Visual Studio](/visualstudio/releases/2022/release-notes)\n* [ความต้องการของระบบ](/visualstudio/releases/2022/system-requirements)\n\n\n> [!NOTE]\n> คอมโพเนนต์ของเวอร์ชัน Visual Studio 2022 ต่อไปนี้มาพร้อมกับและสนับสนุนโดยเป็นส่วนหนึ่งของวงจรการใช้งาน Visual Studio 2022: Agents, Build Tools, IntelliTrace Standalone Collector, Performance Tools, Remote Tools, Team Explorer และ Visual C++ Redistributable\n> [!NOTE]\n> Visual Studio Community Edition ได้รับการสนับสนุนเฉพาะในช่องทางปัจจุบันด้วยบริการล่าสุดของ Visual Studio เวอร์ชันรองล่าสุดที่ปล่อยออกมา ไป [ที่นี่](https://docs.microsoft.com/visualstudio/releases/2022/servicing-vs2022) เพื่อเรียนรู้เพิ่มเติม"
