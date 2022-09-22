@@ -1,13 +1,13 @@
 ---
 title: ผลิตภัณฑ์ที่สิ้นสุดการสนับสนุนสำหรับปี 2011
 description: ค้นหาว่าผลิตภัณฑ์ใดที่จะเลิกใช้ สิ้นสุดการสนับสนุน หรือย้ายจากการสนับสนุนหลักไปยังการสนับสนุนแบบขยายเวลาในปี ค.ศ. 2011
-ms.date: 09/17/2021
-ms.openlocfilehash: 58db5162e8b1cea853892a8ee5786bee83054acc
-ms.sourcegitcommit: 203d765be641181ebf7b895f783ce497a9568616
+ms.date: 07/26/2022
+ms.openlocfilehash: 2dc1cf852c2f226b2b759e305fe4e72d2c2b8e80
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "4029557"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518435"
 ---
 # <a name="products-ending-support-in-2011"></a>ผลิตภัณฑ์ที่สิ้นสุดการสนับสนุนในปี ค.ศ. 2011
 

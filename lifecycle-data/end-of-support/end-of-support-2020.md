@@ -1,13 +1,13 @@
 ---
 title: ผลิตภัณฑ์ที่สิ้นสุดการสนับสนุนสำหรับปี 2020
 description: ค้นหาผลิตภัณฑ์ที่จะหมดอายุ ถึงสิ้นสุดการสนับสนุน หรือย้ายจากการสนับสนุนหลัก เพื่อขยายการสนับสนุนในปี 2020
-ms.date: 02/22/2022
-ms.openlocfilehash: e427619e7015e375d7ec11cfe3f5b87fc4d6a0ec
-ms.sourcegitcommit: 2bcdf249c9ef19aab3355f7dff4e0e020252ff76
+ms.date: 07/26/2022
+ms.openlocfilehash: 5e9fe15375b61f659076f10221d48d7b144b3ebe
+ms.sourcegitcommit: 7f8eec52b9f5c890d6cb734795818dc72afbdf57
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 03/18/2022
-ms.locfileid: "4117609"
+ms.lasthandoff: 09/09/2022
+ms.locfileid: "4518213"
 ---
 # <a name="products-ending-support-in-2020"></a>ผลิตภัณฑ์ที่สิ้นสุดการสนับสนุนในปี ค.ศ. 2020
 
@@ -38,7 +38,7 @@ ms.locfileid: "4117609"
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager เวอร์ชัน 1806](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 31 มกราคม 2020 |
 | [.NET Core 3.0](/lifecycle/products/microsoft-net-and-net-core?branch=live)<br> | วันที่ 3 มีนาคม ค.ศ. 2020 |
-| [PowerShell, PowerShell 6.x](/lifecycle/products/powershell?branch=live)<br>[PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | วันที่ 4 กันยายน ค.ศ. 2020 |
+| [PowerShell, PowerShell Core 6.2](/lifecycle/products/powershell?branch=live)<br> | วันที่ 4 กันยายน ค.ศ. 2020 |
 | [Microsoft Endpoint Configuration Manager เวอร์ชัน 1902](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | วันที่ 27 กันยายน ค.ศ. 2020 |
 | [Visio Services ใน SharePoint (ใน Microsoft 365)](/lifecycle/products/visio-services-in-sharepoint-in-microsoft-365?branch=live)<br> | 30 กันยายน 2020 |
 | [Windows 10 Enterprise และ Education เวอร์ชัน 1709](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise เวอร์ชัน 1709](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | 13 ตุลาคม 2020 |
