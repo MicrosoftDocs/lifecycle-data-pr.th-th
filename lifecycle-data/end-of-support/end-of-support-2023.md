@@ -1,13 +1,13 @@
 ---
 title: ผลิตภัณฑ์ที่สิ้นสุดการสนับสนุนสำหรับปี 2023
 description: ค้นหาว่าผลิตภัณฑ์ใดที่จะเลิกใช้ สิ้นสุดการสนับสนุน หรือย้ายจากการสนับสนุนหลักไปยังการสนับสนุนแบบขยายเวลาในปี ค.ศ. 2023
-ms.date: 09/13/2022
-ms.openlocfilehash: 14252d5922ab850dbdc90c4ef3a8d58cad40892f
-ms.sourcegitcommit: b88b4db4bcd8ffe5d63ffa23a2a518ac25a4f635
+ms.date: 09/21/2022
+ms.openlocfilehash: facaf412f81123ef165642fd5c6692dc121fe123
+ms.sourcegitcommit: 369efbff28148903c4c47e5d1ae453fcc2cc9ae6
 ms.translationtype: HT
 ms.contentlocale: th-TH
-ms.lasthandoff: 09/13/2022
-ms.locfileid: "4521078"
+ms.lasthandoff: 09/22/2022
+ms.locfileid: "4526886"
 ---
 # <a name="products-ending-support-in-2023"></a>ผลิตภัณฑ์ที่สิ้นสุดการสนับสนุนในปี ค.ศ. 2023
 
@@ -36,13 +36,12 @@ ms.locfileid: "4521078"
 | ผลิตภัณฑ์ | สิ้นสุดการให้บริการ |
 | --- | --- |
 | [Microsoft Endpoint Configuration Manager เวอร์ชัน 2107](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 2 กุมภาพันธ์ 2023 |
-| [Microsoft Endpoint Configuration Manager เวอร์ชัน 2207](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 12 กุมภาพันธ์ 2023 |
 | [Dynamics 365 Business Central ในองค์กร (นโยบายแบบสมัยใหม่) ซึ่งปล่อยออกมาเป็นระลอกที่ 2 ปี ค.ศ. 2021 เวอร์ชัน 19.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br> | 12 เมษายน 2023 |
 | [Windows 10 Enterprise และ Education เวอร์ชัน 20H2](/lifecycle/products/windows-10-enterprise-and-education?branch=live)<br>[Windows 10 IoT Enterprise เวอร์ชัน 20H2](/lifecycle/products/windows-10-iot-enterprise?branch=live)<br> | วันที่ 9 พฤษภาคม ค.ศ. 2023 |
 | [Microsoft Endpoint Configuration Manager เวอร์ชัน 2111](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | วันที่ 1 มิถุนายน ค.ศ. 2023 |
 | [Windows 10 Home และ Pro เวอร์ชัน 21H2](/lifecycle/products/windows-10-home-and-pro?branch=live)<br> | วันที่ 13 มิถุนายน ค.ศ. 2023 |
 | [Microsoft Endpoint Configuration Manager เวอร์ชัน 2203](/lifecycle/products/microsoft-endpoint-configuration-manager?branch=live)<br> | 6 ตุลาคม 2023 |
-| [Dynamics 365 Business Central ในองค์กร (นโยบายแบบสมัยใหม่) ซึ่งปล่อยออกมาเป็นระลอกที่ 1 ปี 2022 เวอร์ชัน 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home และ Pro (เวอร์ชัน 21H2) รุ่นแรก (เวอร์ชัน 21H2)](/lifecycle/products/windows-11-home-and-pro-version-21h2?branch=live)<br> | 10 ตุลาคม 2023 |
+| [Dynamics 365 Business Central ในองค์กร (นโยบายแบบสมัยใหม่) ซึ่งปล่อยออกมาเป็นระลอกที่ 1 ปี 2022 เวอร์ชัน 20.x](/lifecycle/products/dynamics-365-business-central-onpremises-modern-policy?branch=live)<br>[Windows 11 Home และ Pro เวอร์ชัน 21H2](/lifecycle/products/windows-11-home-and-pro?branch=live)<br> | 10 ตุลาคม 2023 |
 
 
 ## <a name="products-reaching-end-of-support"></a>สิ้นสุดการสนับสนุนผลิตภัณฑ์
